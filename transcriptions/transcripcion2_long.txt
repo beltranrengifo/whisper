@@ -1,0 +1,2428 @@
+[0.00 - 24.18]:  Vale. Pues nada, buenos días a todas y a Nacho como único chico del grupo. Agradeceros de nuevo la participación en el grupo de discusión de hoy que está enmarcado en el proyecto global ANSER, financiado por fondos de H20.
+[24.18 - 43.68]:  Es un proyecto de investigación sobre movilidad humana y trabajo social y la idea del focus de hoy es que hablemos sobre las buenas prácticas que se están realizando dentro del programa de atención humanitaria en el territorio andaluz.
+[45.16 - 53.68]:  Si queréis lo que hacemos en un primer momento, nos presentamos brevemente y luego yo ya os pasaría a lanzar las preguntas en los diferentes bloques.
+[54.18 - 62.62]:  Bloques que hemos pensado teniendo en cuenta también un poco ese cuestionario que os hemos pasado tanto a vosotras como a otras organizaciones.
+[62.62 - 74.56]:  Yo sería Lucía López de Red Acoge, coordinadora del proyecto global. Y si queréis voy lanzando persona para que sea más fácil. Se lo paso a Tania.
+[76.02 - 84.16]:  Yo soy Tania, soy la directora del área de fin social de Red Acoge y apoyo un poco a...
+[84.18 - 98.50]:  A Lucía en esta investigación. Gracias por conectaros y por participar en el focus group que nos está costando un poco animar a los trabajadores sociales y a los profesionales de atención humanitaria que participen.
+[100.02 - 101.76]:  Y paso la palabra a Cristina.
+[103.58 - 111.38]:  Hola, buenos días. Bueno, yo soy Cristina, soy trabajadora social de Federación Andalucía Acoge en la sede de Sevilla.
+[112.34 - 113.86]:  Y nada, bueno.
+[114.18 - 114.58]:  ¿O cómo?
+[116.44 - 120.50]:  Y le paso la palabra a Nacho.
+[123.18 - 130.02]:  Buenas, yo soy Nacho, soy coordinador de la delegación de Fundación Cruz Blanca aquí en la GECIRA.
+[131.24 - 136.24]:  Y por ahora llevamos un equipo nueve meses aquí dentro del programa de atención humanitaria.
+[137.44 - 141.94]:  En amplio aspecto y con trata si llevamos varios años trabajando en el tema de...
+[141.94 - 143.94]:  Trata y...
+[143.94 - 145.98]:  ¿Estáis en emergencia entonces?
+[146.48 - 147.90]:  O en atención...
+[147.90 - 150.92]:  Tengo plaza de emergencia y plaza de trata.
+[151.98 - 152.34]:  Ah, vale.
+[153.36 - 153.86]:  Vale, vale.
+[154.50 - 157.24]:  Le paso la palabra a mi compañera Laura.
+[160.54 - 166.56]:  Hola, buenos días a todos. Yo soy Laura. Estoy en la sede de Cruz Blanca, mi trabajo es más de gestión.
+[167.24 - 171.98]:  Así que, bueno, tengo un poco más de perspectiva de todos los centros, ya no solo de Andalucía o de emergencia.
+[172.10 - 173.92]:  Porque Cruz Blanca también tiene centros en Canarias.
+[173.94 - 176.36]:  De emergencia, de trata, de salud y tal.
+[176.84 - 180.18]:  Así que, bueno, pues encantada. Espero poder aportar mucho.
+[181.04 - 184.46]:  Y le paso la palabra, creo que solo falta a Sandra o Marimar también.
+[184.70 - 186.10]:  Pues a Sandra, por ejemplo.
+[187.50 - 194.46]:  Hola, buenos días. Yo soy Sandra. Soy trabajadora social del programa de atención humanitaria en APIC Andalucía Coge Córdoba.
+[195.74 - 199.06]:  Y le paso ya el turno de palabra a Marimar.
+[203.94 - 215.20]:  Buenos días. Yo soy María del Mar Viega. Soy la referente de atención humanitaria de Andalucía Coge.
+[215.20 - 225.34]:  Y tenemos tanto plazas de emergencia como de atención humanitaria de acogida integral y de acogida vulnerable.
+[225.34 - 225.76]:  Vale.
+[229.64 - 230.32]:  Genial.
+[231.04 - 233.50]:  Bueno, pues una vez hechas las presentaciones.
+[233.94 - 236.64]:  Agradeceros. Yo creo que es un grupo bastante diverso.
+[236.74 - 238.20]:  Nos puede dar...
+[238.20 - 238.88]:  Sí, díganos.
+[238.90 - 240.00]:  Una cosa, solo añadir.
+[240.50 - 243.62]:  Para los que no sabéis, la COGE no tiene plazas.
+[243.82 - 243.90]:  ¿Vale?
+[244.18 - 249.48]:  Es decir, por tanto, nos es muy importante vuestras aportaciones.
+[249.82 - 253.96]:  Porque es verdad que nosotros no tenemos plazas en atención humanitaria.
+[253.96 - 258.58]:  Si hemos participado en emergencia, pero durante dos meses solo, el año pasado.
+[259.48 - 263.90]:  Por tanto, vamos, que vuestro conocimiento nos va a servir de mucha...
+[263.94 - 264.26]:  Ayuda.
+[264.66 - 267.40]:  Porque aunque estemos en protección internacional, que allí sí que estamos.
+[267.98 - 270.96]:  Y muchas personas al final sí que vienen de atención humanitaria.
+[270.96 - 276.48]:  La gestión de las plazas del programa no lo tenemos.
+[277.02 - 277.12]:  ¿Vale?
+[277.66 - 278.66]:  Para que nos ubiquéis un poco.
+[279.18 - 279.38]:  Sí.
+[280.08 - 283.00]:  Sí, desde entonces es verdad que estamos más en el sistema de asilo.
+[283.20 - 285.10]:  Pero también empezamos a identificarnos.
+[285.30 - 287.02]:  Y esto espero que vaya saliendo.
+[287.96 - 292.18]:  Que desde atención humanitaria, bueno, pues está habiendo mucha derivación.
+[292.82 - 293.86]:  Y bueno, al final es un...
+[293.86 - 298.78]:  Es una vía de entrada bastante grande en el territorio andaluz.
+[299.44 - 303.88]:  Como os decía al principio, yo mi idea es dividir las preguntas como en tres bloques.
+[304.78 - 309.34]:  Un primer bloque en el que hablemos sobre todo de los procesos de acompañamiento
+[309.34 - 314.26]:  a las personas migrantes en el programa de atención humanitaria.
+[314.74 - 317.36]:  Pues que hay protocolos, que en general he visto que hay protocolos.
+[317.36 - 322.86]:  Pero bueno, si nos gustaría saber si son protocolos creados por vosotras.
+[323.02 - 323.58]:  O...
+[323.58 - 325.94]:  Son protocolos facilitados también por el ministerio.
+[326.60 - 333.54]:  Cómo es ese traslado del protocolo al resto de equipos.
+[333.80 - 339.04]:  Bueno, también viendo las dificultades que hemos visto que nos ponéis dentro del programa y demás.
+[339.82 - 341.56]:  Sería como un primer bloque, ¿no?
+[341.56 - 343.12]:  Los desafíos que hay dentro del programa.
+[344.06 - 346.36]:  Y luego un bloque de las...
+[346.98 - 351.58]:  Como las metodologías de acompañamiento que estáis identificando que funcionan.
+[351.60 - 352.46]:  Y que facilitan...
+[353.58 - 357.98]:  La inserción de las personas migrantes o su posterior salida del programa.
+[358.66 - 363.92]:  Habiendo a lo mejor una coordinación con otras organizaciones sociales o con la administración pública.
+[364.12 - 367.78]:  Que a mí es una cosa que me ha llamado la atención viendo las respuestas de los cuestionarios.
+[368.68 - 372.04]:  Entonces, pues bueno, para que nos pudierais ampliar un poco esa información.
+[372.64 - 381.58]:  Y luego para terminar, si nos gustaría saber un poco qué nuevos aspectos, metodologías, actividades...
+[381.58 - 382.22]:  O...
+[382.22 - 382.58]:  O...
+[382.58 - 382.70]:  O...
+[382.70 - 382.74]:  O...
+[382.74 - 383.06]:  O...
+[383.06 - 383.12]:  O...
+[383.12 - 383.42]:  O...
+[383.42 - 383.44]:  O...
+[383.44 - 383.46]:  O...
+[383.46 - 383.48]:  O...
+[383.48 - 383.50]:  O...
+[383.50 - 383.52]:  O...
+[383.58 - 383.70]:  O...
+[383.70 - 383.74]:  O...
+[383.74 - 383.78]:  O...
+[383.78 - 383.98]:  O...
+[383.98 - 384.44]:  O...
+[384.44 - 385.44]:  O...
+[400.56 - 400.80]:  O...
+[400.80 - 400.82]:  O...
+[400.82 - 400.86]:  O...
+[400.86 - 401.20]:  O...
+[401.20 - 401.68]:  O...
+[401.68 - 401.78]:  O...
+[401.78 - 401.84]:  O...
+[401.84 - 401.86]:  O...
+[401.86 - 401.90]:  O...
+[401.90 - 402.28]:  O...
+[402.28 - 402.66]:  O...
+[402.66 - 403.30]:  O...
+[403.30 - 405.02]:  Pero iremos poco a poco y...
+[405.82 - 406.08]:  Y...
+[406.08 - 410.04]:  Bueno, la idea es que a las doce hallamos como tarde o tardísimo, que sean vuestros tiempos.
+[410.62 - 412.94]:  De hecho, si hay alguna persona que se tiene que ir antes que...
+[412.94 - 415.68]:  me lo diga para yo entonces
+[415.68 - 417.76]:  voy, como voy a ir midiendo tiempos
+[417.76 - 418.58]:  tenerlo en cuenta
+[418.58 - 420.64]:  entonces nada, la
+[420.64 - 423.74]:  primera parte sería que nos faréis contando
+[423.74 - 424.42]:  es un poco
+[424.42 - 427.54]:  bueno, sé que
+[427.54 - 430.08]:  por lo que he visto que tenéis protocolos de acogida
+[430.08 - 431.86]:  pero si me gustaría si podíais
+[431.86 - 433.70]:  desarrollar un poco más en que
+[433.70 - 435.96]:  consisten y como se traslada
+[435.96 - 437.36]:  toda esa información al equipo
+[437.36 - 438.74]:  porque si que he visto que pone
+[438.74 - 441.70]:  que todo el equipo del
+[441.70 - 443.56]:  programa normalmente de vuestras organizaciones
+[443.56 - 445.76]:  lo conocen pero no sé
+[445.76 - 447.66]:  si hay nada más entrar
+[447.66 - 449.58]:  si una vez que entra una persona
+[449.58 - 451.08]:  a la entidad
+[451.08 - 453.46]:  se pasa toda una documentación
+[453.46 - 455.16]:  si hay reuniones de equipo en las que
+[455.16 - 457.08]:  si es un documento propio
+[457.08 - 464.08]:  os tengo que dejar que yo ahí ya
+[467.08 - 468.82]:  si queréis rompo un poco el hielo
+[468.82 - 470.08]:  vale Nacho
+[470.08 - 471.08]:  bueno
+[471.70 - 474.70]: , pues mira, es verdad que Humanitaria tiene
+[474.70 - 477.74]:  algo un poco estructurado
+[477.74 - 480.06]:  sobre todo con la acogida de los usuarios
+[480.06 - 481.56]:  que son por la EWA
+[481.56 - 483.38]:  y las formaciones que tiene que hacer
+[483.38 - 485.48]:  la persona cuando llega
+[485.48 - 487.70]:  a la entidad, incluso el tiempo
+[487.70 - 489.14]:  donde tiene que
+[489.14 - 490.92]:  realizarlo
+[490.92 - 493.72]:  y nosotros de forma interna, como yo era un poco
+[493.72 - 495.76]:  novato en este programa, pues si que hicimos
+[495.76 - 497.54]:  un procedimiento
+[497.54 - 499.50]:  o protocolizamos todo lo que son
+[499.50 - 501.64]:  las acogidas, pues desde
+[501.64 - 503.68]:  que nos llega la compañía del aula que nos mandó
+[503.68 - 506.22]:  en traslado en el caso de si hay que alquilar autobús
+[506.22 - 508.46]:  o no, pues se identifica que
+[508.46 - 510.18]:  compañías tenemos o no
+[510.18 - 512.16]:  si se cogen furgonetas, pues cómo se pasan
+[512.16 - 513.84]:  si en el caso que quedan dietas
+[513.84 - 516.04]:  o incluso números de voluntarios que es de los que tenemos
+[516.04 - 518.04]:  podemos tirar por si hay que acompañarnos
+[518.04 - 520.04]:  alguien a la salida
+[520.92 - 522.92]:  petición de picnics si vienen de lejos
+[522.92 - 524.80]:  pues todas las cuestiones que
+[524.80 - 526.92]:  previas a la acogida
+[526.92 - 529.12]:  y después todas las actuaciones
+[529.12 - 531.12]:  mínimas, básicas que tienen que hacer después
+[531.64 - 537.22]:  la del ministerio sino por ejemplo protocolo médico pues contacto con la trabajadora social
+[537.22 - 541.66]:  de los servicios sociales sanitarios antes de que lleguen para ver si se le puede incluso asignar
+[541.66 - 547.92]:  una n previa su llegada para que nada que llegue te pueda tener asistencia sanitaria el mínimo
+[547.92 - 554.76]:  control o lo que sea tiene ya establecido una pequeña base de español para rápidamente colocar
+[554.76 - 560.78]:  lo que tiene colocarlo en plaza de la que tenemos establecida en el caso de que tenga si tiene
+[560.78 - 568.76]:  protección internacional o verbaliza pues toda la la la burocracia que lleva así verbalizado
+[568.76 - 573.04]:  por tomar se tiene que realizar si es formalizado pero la dirección de canarias como se tiene que
+[573.04 - 579.34]:  cambiar la dirección su primera semana que la tenemos un poco ya recogida de cara a que hemos
+[579.34 - 584.56]:  tenido problemas con un tema de los problemas al haber tanta oferta de empleo pues varios
+[584.56 - 588.96]:  educadores que hemos tenido en el programa de esas fueron y no en cuestión de m y poco
+[588.96 - 590.66]:  porque la de ser cosas mejores para que a sus casas
+[590.78 - 596.78]:  y eso entonces claro era como muy eso volver a explicar entonces poder vivir lo dejamos todo
+[596.78 - 601.18]:  por escrito que es que hay esto a malo este o de que por lo menos de lo más recogido posible
+[601.18 - 606.86]:  de cara a facilitar a que la nueva persona pues que a lo mejor participa de humanitario porque
+[606.86 - 612.02]:  creo que se ha arreglado mucho pero el teléfono concreto o pasos concreto pues no se tenían de
+[612.02 - 619.86]:  aquí de la localidad y entonces aterrizamos muchos protocolos tiene territorio y una pregunta en
+[620.78 - 636.46]:  vez de que se puedaא� organizar la vaqu Wakewood donde organice la y me ha dicho quext
+[636.46 - 646.84]:  el wagon o tera EA inteligencia virtualmente hay una gran bienvenida factor inv Kickstarter
+[646.84 - 648.76]:  que Betty Pines hacebur qué tal la la Porật
+[648.76 - 648.94]:  Employee en su slicies de pap Gran Justicia por popularizar la pragmatica que favors los juntos
+[648.94 - 649.34]:  porque no obstante cuando alguien crea recoil son estas excesos a losanılifting y es algo seguro ya
+[649.34 - 650.62]:  condiciones de salud o tu labor de poder al huertes es la que es lo que explica suLucia Costa del
+[650.62 - 650.66]:  lo que $kión hay unos casos mayores de micro服nings queds tym de cot Hafmana por haberltздjkaorían
+[650.66 - 650.68]:  las es una gran curiosa palabra este referencia en esperando se tackman a haber reacc按wr la súbd ma'afina port noodle su purl 6% esta
+[650.78 - 657.14]:  estáis teniendo dificultades en cuanto a nosotros aquí llevamos mucho tiempo trabajando
+[657.14 - 666.86]:  entonces incluso la trabajadora social media entre médicos y nosotros para por ejemplo y asignando
+[666.86 - 671.18]:  citas analíticas que para que a lo mejor todo el mundo pues sí ya porque es verdad que también
+[671.18 - 676.06]:  hay casos y casos pero que por ejemplo en canales está está habiendo eso se permaneciendo más tiempo
+[676.06 - 681.46]:  con lo cual no son tantas emergencias que lleva una semana que se veía península está mucho más
+[681.46 - 687.76]:  trabajado en los casos que tenemos personas con problemas médicos tenemos bastante con tumores
+[687.76 - 696.16]:  quemaduras heridas pero nosotros con nosotros en el caso de que no tenga cita el método del jueves
+[696.16 - 699.82]:  2 el viernes este trato para la semana que viene y la verdad que tenemos muy buena coordinación
+[699.82 - 704.88]:  con ellos incluso antes que lleguen con la administración mandamos mirando llegar personas
+[704.88 - 706.00]:  y casi antes que llegue
+[706.06 - 721.94]:  y esto sabéis es igual en todas las organizaciones que están dentro del programa porque es verdad que
+[721.94 - 727.82]:  sé que blanca con el tema de identificación de trata o con el trabajo de trata que ya veis
+[727.82 - 732.30]:  haciendo desde tanto tiempo pues a lo mejor claro es un trabajo que va muy relacionado también con
+[732.30 - 736.04]:  ámbito sanitario pero no sé si el resto organizaciones ya no sé si
+[736.06 - 740.80]:  por ejemplo en andalucía tenéis esa facilidad que nos está contando nacho de incluso antes de que
+[740.80 - 742.90]:  llegue la persona ya tener casi la derivación
+[748.50 - 759.00]:  de la ubicación del centro de salud hay centros de salud donde la trabajadora social
+[761.58 - 765.62]:  está más sensibilizada y dejamoslo así
+[766.06 - 779.96]:  y es más fácil hacer ese tipo de gestiones previa la llegada cuando hemos tenido centros de emergencia
+[779.96 - 792.98]:  más grandes ha sido como más fácil porque se han implicado más los centros de
+[792.98 - 795.98]:  que no me sale
+[796.06 - 802.78]:  el nombre pero como los centros de coordinación sanitaria vale entonces
+[805.12 - 814.98]:  por ahí ha sido más sencillo si no depende mucho del criterio y las relaciones que se
+[814.98 - 824.02]:  tengan con cada centro de salud y demás vale eso varía muchísimo de una provincia o otra
+[825.30 - 826.04]:  es que hemos
+[826.06 - 828.58]:  Nosotros hemos tenido una mala experiencia.
+[832.58 - 834.78]:  Laura, veo que tienes la mano levantada.
+[836.08 - 844.60]:  Sí, yo conozco la experiencia de Nacho por estar en coordinación con él, pero también conozco la experiencia de otras compañeras.
+[844.82 - 850.82]:  Voy a cedirme a Andalucía, pero creo que es, por ejemplo, relevante destacar que en el caso de Castilla-La Mancha,
+[850.82 - 858.44]:  que tenemos en Guadalajara, sin pasaporte, que es una documentación que no necesariamente estas personas tienen que traer,
+[858.52 - 863.40]:  y en muchas ocasiones no la traen, sin pasaporte no tienes acceso a la sanidad de base.
+[863.58 - 868.92]:  Entonces, los problemas que nos podemos encontrar saliendo de esta comunidad autónoma son así de graves.
+[869.12 - 875.20]:  Y luego, desde la comunidad autónoma de Andalucía, en otras provincias, la experiencia que yo he tenido con los distintos centros
+[875.20 - 880.72]:  con los que me he coordinado y también en los distintos momentos de esta crisis migratoria que pasa desde agosto,
+[880.82 - 888.18]:  del año pasado, es que, como dice Marimar, es una cuestión como de compromiso de cada centro
+[888.18 - 892.50]:  y depende específicamente de ese centro, de ese trabajador o trabajadora social,
+[893.00 - 900.34]:  y no existe un compromiso estructurado o una vía oficial que te garantice una cobertura sanitaria para estas personas.
+[900.34 - 907.32]:  Yo creo que esa es un poco la conclusión, sin haber vivido yo en primera persona un rechazo o una mala experiencia,
+[907.50 - 910.18]:  sino más el haber visto las experiencias de mis compañeras.
+[910.18 - 915.42]:  Dependía de la relación que se entablase entre el centro de salud y el centro de acogida.
+[915.42 - 925.66]:  Y eso, en otras comunidades autónomas es aún más grave y es como de base no poder siquiera acceder,
+[925.66 - 932.98]:  porque exigen documentación y se vulnera ese derecho de acceso a la sanidad por la carencia de pasaporte,
+[932.98 - 934.98]:  aunque no tenga que ver con Andalucía.
+[936.86 - 938.86]:  No, pero es interesante también, Ir.
+[938.86 - 940.06]:  Aunque es verdad que el derecho de acceder a la sanidad es un derecho que se ha hecho desde hace mucho tiempo,
+[940.06 - 943.06]:  pero es que el foco del estudio está en Andalucía.
+[943.06 - 949.30]:  Al final es un programa estatal y saber también un poco las peculiaridades que van pasando,
+[949.30 - 952.98]:  porque al final mucha gente que llega a Andalucía luego se va a otra comunidad autónoma.
+[952.98 - 959.46]:  A lo mejor de un derecho que había adquirido en una comunidad autónoma con un acompañamiento sanitario maravilloso,
+[959.46 - 962.46]:  llega a Castilla-La Mancha y se va todo para atrás.
+[962.46 - 966.46]:  Entonces siempre es interesante también tener ese punto más global.
+[966.46 - 969.46]:  Sandra, perdona que tienes la mano levantada.
+[970.06 - 975.54]:  Bueno, yo quería contar un poco mi experiencia que al final en cada ciudad distinta.
+[975.54 - 984.06]:  Pero bueno, aquí en Córdoba, aquí tenemos plazas de acogida integral, vulnerables y de emergencia.
+[984.06 - 992.50]:  Ahora mismo, los educadores son los que se encargan de realizar esas mediaciones entre el centro de salud y las personas usuarias.
+[992.50 - 999.54]:  Y son los que solicitan ellos por vía electrónica, por gmail, pues, con el centro de salud.
+[999.54 - 1004.68]:  le solicitan la tarjeta sanitaria y nos dan la tarjeta sanitaria de descarga tritemporal sin ningún tipo de problema
+[1004.68 - 1008.44]:  y a la hora de tener citas médicas tampoco nos dan ningún problema.
+[1009.04 - 1016.40]:  Y el año pasado tuvimos un centro de emergencia de 110 plazas, que fue La Lancha,
+[1016.40 - 1024.54]:  y ahí fue imprescindible algún tipo de coordinación con la red sanitaria porque llegaron muchísimas personas
+[1024.54 - 1028.96]:  con muchísimas vulnerabilidades sanitarias y no nos pusieron tampoco ningún problema,
+[1028.96 - 1033.92]:  pero yo creo que también depende del compromiso de las personas y el propio centro.
+[1034.54 - 1044.88]:  Los propios médicos se implicaron y nos pusieron problemas con seguimiento ni con citas médicas ni con tarjetas sanitarias.
+[1044.88 - 1051.40]:  Sé que esto no es lo normal, no es lo usual, pero bueno, aquí en este ámbito sí que funciona bien,
+[1051.56 - 1058.22]:  en la red sanitaria y en Córdoba. En otros ya os digo que no, pero aquí en la red sanitaria sí.
+[1058.76 - 1058.94]:  Y todo.
+[1058.96 - 1065.32]:  Te quería preguntar, porque no sé si lo he entendido bien, piden por sede electrónica la tarjeta.
+[1065.50 - 1066.52]:  Por correo.
+[1067.34 - 1068.30]:  O sea, por correo, por mail.
+[1068.86 - 1069.12]:  Sí, por mail.
+[1069.12 - 1074.62]:  Y eso entiendo que va con un acompañamiento por vuestra parte, porque, ¿no? Entiendo, o sea, que…
+[1074.62 - 1075.46]:  Sí, claro, el educador.
+[1076.06 - 1082.00]:  Sí, el educador social. Bueno, tenemos el listado de personas y vamos solicitando una vez que están aquí,
+[1082.00 - 1088.12]:  porque muchas veces hay abandonos en el propio puerto, hay personas que no llegan,
+[1088.16 - 1088.76]:  entonces hasta que la persona…
+[1088.76 - 1095.58]:  Si la persona no ha entrado en el programa, ha entrado en el dispositivo, no se solicita la tarjeta sanitaria.
+[1096.00 - 1103.26]:  Entonces, a través de… por el correo, pues, se solicitan a través de sus datos y ya nos devuelven la tarjeta sanitaria,
+[1103.30 - 1106.20]:  pues, a los tres días, a los dos días, de cada temporada.
+[1108.20 - 1108.64]:  Ok.
+[1109.34 - 1112.48]:  Y ya las citas médicas por teléfono o presencialmente.
+[1113.36 - 1118.48]:  Ok. Y luego, por volver un poco a la pregunta, en el caso de Andalucía, coge o…
+[1118.76 - 1123.06]:  O, bueno, las organizaciones federadas de Andalucía.
+[1123.92 - 1129.88]:  ¿Vosotras, al igual que han tenido que hacer en Algeciras, por esa movilidad que tenemos en el sector de trabajadoras,
+[1129.88 - 1134.96]:  ¿tenéis algún documento interno de protocolo de cuáles son los pasos a seguir?
+[1135.54 - 1142.82]:  O sea, como metodología de acompañamiento, ¿no?, o de acogida desde vuestra federación u organización.
+[1143.90 - 1147.88]:  Vamos a ver, con los materiales que tienes del ministerio, protocolo…
+[1148.76 - 1165.44]:  Con los manuales y demás, se hace una adaptación, ¿vale?, interna de federación, que después cada entidad le pone su firma, ¿vale?
+[1166.58 - 1170.92]:  Le pone su firma porque pone su forma de actuación, ¿vale?
+[1174.92 - 1178.74]:  Pero generalmente usamos los del ministerio, ¿vale?
+[1178.76 - 1182.72]:  Lo que hay del ministerio…
+[1182.72 - 1186.60]:  ¿Hay un protocolo de acogida del ministerio?
+[1187.28 - 1195.70]:  Vamos a ver, hay protocolos varios, de distintos tipos, pues de vulnerabilidades, de trata de… ¿vale?
+[1196.36 - 1197.28]:  Para identificar, ¿no?
+[1197.28 - 1203.76]:  De violencia de género y, aparte, pues tenemos un protocolo interno.
+[1203.76 - 1208.44]:  Pero que el protocolo interno viene a reflejar eso.
+[1208.76 - 1210.56]:  Sí, bueno, puedo…
+[1210.56 - 1221.84]:  Sí, entiendo que también es un poco lo que se ha hecho desde Cruz Blancana, es decir, hasta el final de ese protocolo, resumir y aclarar y luego ver, pues eso, lo que decían Nacho, ¿no?, contactos y demás.
+[1222.32 - 1225.68]:  Me parecía que Cristina iba a comentar algo, no sé si quieres ampliar.
+[1226.46 - 1228.28]:  Además, has levantado la mano, que no…
+[1228.28 - 1228.48]:  Sí.
+[1229.40 - 1229.74]:  Gracias.
+[1229.74 - 1238.08]:  Nosotros, además de, bueno, de un protocolo de traslado, de un protocolo de acogida, actualmente estamos trabajando en hacer protocolos por áreas.
+[1238.08 - 1240.90]:  De la intervención que se realiza del día a día.
+[1241.60 - 1250.06]:  Entonces, hay un protocolo de intervención social educativa, un protocolo psicológico, un protocolo jurídico, ¿vale?
+[1250.06 - 1259.86]:  Se está intentando ampliar un poco para ver cuáles son los pasos, que tampoco se nos olvide ninguno.
+[1259.86 - 1265.86]:  Si, por ejemplo, viene otro estado de emergencia, poner la puntilla en las cuestiones importantes…
+[1266.42 - 1268.06]:  En fin, es algo que se está trabajando.
+[1268.08 - 1280.20]:  Y un poco también decir que estoy de acuerdo con lo que han ido diciendo los compañeros, que las cuestiones de salud dependen mucho del centro de salud que te toque.
+[1280.74 - 1294.84]:  Que en Sevilla también tenemos contacto con el centro de salud y hemos tenido muy buena colaboración, pero que al cambiar la directiva del centro de salud, ese trabajo ha vuelto a empezar de cero.
+[1294.84 - 1297.94]:  Y eso nos complica mucho la intervención.
+[1298.08 - 1305.48]:  Estamos un poco a disposición de cuestiones también políticas dentro del sistema sanitario.
+[1307.06 - 1309.54]:  Total, total. Muchas gracias, Cristina.
+[1310.10 - 1311.08]:  Laura, veo que tienes…
+[1314.54 - 1327.82]:  Sí, nada, que en relación a lo que estáis hablando sobre protocolos, solo por compartir de la misma base, en el programa de humanitaria, las instrucciones que seguimos, el manual de gestión de plazas,
+[1328.08 - 1332.70]:  el programa de humanitaria, y ahí te recoge en concreto creo que son como cinco o seis protocolos.
+[1333.10 - 1344.08]:  Trata vulnerables, violencia de género, suministro de información, qué es lo que hablan los compañeros, qué es la EVA, qué es el primero que se hace llegar o el primero que se sigue con la acogida de las personas.
+[1344.74 - 1354.64]:  Y para que se entienda un poco cómo se trabaja desde Cruz Blanca, partiendo de esos protocolos, luego se han desarrollado otros según las necesidades que han surgido.
+[1354.64 - 1357.64]:  Por ejemplo, cuando hubo el COVID…
+[1358.08 - 1368.78]:  Se desarrolló un protocolo específico de COVID. Cuando tuvimos casos de escabiosis o algún otro tipo de enfermedades, se desarrolló otro protocolo en base a eso.
+[1369.36 - 1379.66]:  Luego también, en los casos en los que nuestros centros han cambiado de perfil, porque antes eran solo de mujeres, solo de hombres, y por necesidad se ha tenido que acoger a unidades familiares, lo cual implicaba menores,
+[1379.66 - 1387.30]:  pues se hace también un protocolo en base a la infancia y a los menores, que para mí son de los más peligrosos, porque al final es complejo abordar esto.
+[1388.08 - 1399.12]:  Entonces, partiendo de esa base, de esos protocolos que te dicta, por así decirlo, el manual de gestión de plazas, luego se hacen protocolos internos en base a las necesidades específicas que nos surgen,
+[1399.74 - 1404.40]:  o por el contexto, o por la circunstancia, por los cambios de perfil, o por la razón que sea.
+[1404.40 - 1415.82]:  Y, por ejemplo, en el caso del protocolo de violencia de género, que se aprobó creo que el 25 de noviembre del año pasado, y los primeros seis meses de 2024, era un periodo de implementación.
+[1416.26 - 1417.90]:  La forma que hemos tenido de trabajar…
+[1418.08 - 1431.36]:  En Andalucía, por ejemplo, en concreto, en el centro de Córdoba, que es específico para víctimas o posibles víctimas de trata, que en su mayoría son mujeres, pero también mujeres vulnerables, víctimas de violencia de género,
+[1431.36 - 1443.76]:  lo que hemos hecho ha sido no solo trasladar todo el protocolo y todos los anexos a todas las coordinaciones, sino hacer como un movimiento de casos específicos, en los que se había implementado este protocolo específicamente en los casos de Córdoba,
+[1443.90 - 1447.36]:  para que tuviéramos de forma como directa un poco de feedback y saber…
+[1448.08 - 1454.56]:  Exactamente, cuál era la utilidad y hasta qué punto eran efectivos estos anexos o qué aportaciones podíamos hacer.
+[1455.44 - 1458.08]:  Y nada, quiero cerrar.
+[1458.08 - 1458.42]:  Gracias.
+[1459.42 - 1463.04]:  El contexto ha sido… me ha ayudado mucho.
+[1463.72 - 1465.26]:  Y una pregunta que me surge.
+[1466.12 - 1477.60]:  Teniendo en cuenta esos protocolos que tiene el Ministerio, a los que habéis hecho referencia, ¿responde a las necesidades vuestras de las entidades?
+[1478.08 - 1484.38]:  ¿O creéis o solicitáis al Ministerio que se crean algún otro protocolo?
+[1484.38 - 1494.96]:  Porque, yo qué sé, pensando un poco en protección internacional, son protocolos tan amplios que al final, sobre todo de violencia de género, que yo creo que puede ser el mismo,
+[1495.38 - 1505.50]:  que al final no responde a la actuación territorial de los equipos, que hay que adaptar los protocolos del propio Ministerio.
+[1506.68 - 1507.50]:  ¿O lo identificaréis?
+[1508.08 - 1514.68]:  ¿Es como una buena práctica que se tiene en el marco del proyecto, del programa de atención humanitaria?
+[1515.16 - 1528.70]:  A mí me parece que el protocolo de violencia de género de humanitaria, que es similar al de PIB, pero se hizo distinto, vamos, se hizo diferenciadamente para el programa,
+[1529.54 - 1537.42]:  es muy completo y yo creo que sí atiende a las necesidades de los equipos.
+[1537.42 - 1537.44]:  ¿Qué opinas?
+[1537.44 - 1537.50]:  ¿Qué opinas?
+[1537.50 - 1537.62]:  ¿Qué opinas?
+[1537.62 - 1537.68]:  ¿Qué opinas?
+[1537.68 - 1538.06]:  ¿Qué opinas?
+[1538.08 - 1543.72]:  El proceso fue elaborado por las entidades que gestionan humanitarios.
+[1544.08 - 1544.40]:  Ah, vale.
+[1546.66 - 1563.76]:  Creo que es muy completo, sí que es extenso, pero es que hay una casuística tan variada que es importante que la recojan, que la recoja todas.
+[1563.76 - 1567.76]:  Entonces, yo por ahí...
+[1568.08 - 1572.12]:  No creo que esté mal.
+[1572.12 - 1596.60]:  Luego, ¿puede elaborar el Ministerio más protocolos? Pues quizás sí, pero es importante que humanitaria quede como no tan sumamente reglado como protección internacional.
+[1596.60 - 1597.74]:  ¿Por qué?
+[1598.08 - 1614.02]:  De la forma en la que estamos actuando ahora, da más flexibilidad para atender las vulnerabilidades que presentan la mayoría de las personas que no llegan a los recursos, ¿vale?
+[1614.02 - 1614.12]:  ¿Por qué?
+[1614.12 - 1623.04]:  De la forma en la que estamos actuando ahora, da más flexibilidad para atender las vulnerabilidades que presentan la mayoría de las personas que no llegan a los recursos, ¿vale?
+[1623.04 - 1634.62]:  De la forma en la que estamos actuando ahora, da más flexibilidad para atender las vulnerabilidades que presentan la mayoría de las personas que no llegan a los recursos, ¿vale?
+[1634.62 - 1639.18]:  Y además de generar una carga burocrática a los equipos significativa.
+[1639.18 - 1640.64]:  Y que el objetivo es atender a las personas, no cargarnos de papeles.
+[1640.64 - 1641.16]:  ¿Vale?
+[1641.16 - 1642.10]:  Vale.
+[1642.10 - 1642.60]:  Gracias.
+[1642.60 - 1644.10]:  Y que el objetivo que todo lo que tenemos que hacer es atender a las personas, es que también es un servicio de derecho, que además, los servicios de derechos...
+[1644.10 - 1647.30]:  y os dejo mi reflexión.
+[1649.14 - 1649.70]:  Total.
+[1650.50 - 1652.56]:  Cristina, ¿tienes la mano levantada?
+[1653.24 - 1655.98]:  Yo estoy totalmente de acuerdo con María del Mar
+[1655.98 - 1658.44]:  y yo lo que quería era poner en valor eso,
+[1658.54 - 1665.38]:  la flexibilidad que existe a la hora de implementar esos protocolos
+[1665.38 - 1667.80]:  y ya no solo eso, de crear nuevo contenido.
+[1668.42 - 1671.62]:  De que si, por ejemplo, en Sevilla hemos detectado la necesidad
+[1671.62 - 1674.46]:  de informar a las personas humanitarias,
+[1674.86 - 1677.66]:  porque llega un momento en que casi todas son solicitantes
+[1677.66 - 1681.72]:  de protección internacional, que no están pasando a su plaza de asilo,
+[1682.32 - 1685.76]:  de informar sobre el sistema de acogida de protección internacional,
+[1686.32 - 1689.68]:  podemos tener esa flexibilidad para crear talleres
+[1689.68 - 1693.58]:  o para comenzar a trabajar cuestiones formativas y laborales
+[1693.58 - 1697.94]:  o ir detectando cuáles son las necesidades concretas
+[1697.94 - 1701.60]:  y adaptarnos a eso y crear nuevo material.
+[1701.62 - 1703.82]:  Y esa flexibilidad no siempre está.
+[1708.88 - 1709.62]:  Laura, ¿tienes...?
+[1710.60 - 1714.60]:  Sí, bueno, yo estoy completamente de acuerdo con mis compañeras
+[1714.60 - 1717.62]:  y además creo que todavía quizá no podríamos determinar
+[1718.66 - 1722.10]:  si es una buena práctica o no el resultado que dé este protocolo,
+[1722.16 - 1725.94]:  porque es muy nuevo y se está implementando y está en periodo de prueba,
+[1726.08 - 1728.02]:  pero que luego sí que consideraría una buena práctica.
+[1728.02 - 1731.02]:  Lo que ha dicho María del Mar es que la elaboración del protocolo ha incluido,
+[1731.62 - 1733.52]:  pues, de forma directa a las entidades.
+[1734.18 - 1736.78]:  Se han hecho grupos semilla, que eran como pequeños proyectos
+[1736.78 - 1740.72]:  en los que se podían poner en común las perspectivas, los enfoques,
+[1740.86 - 1744.88]:  las sugerencias, se implicaba de forma absolutamente directa
+[1744.88 - 1747.24]:  al personal que trabaja diariamente.
+[1747.98 - 1750.58]:  Y eso creo que sí que se podría considerar una buena práctica,
+[1751.00 - 1753.64]:  aunque todavía no sabemos el resultado que va a dar
+[1753.64 - 1756.70]:  y solo como primeras impresiones, que si yo tuviera que compartir la mía,
+[1756.70 - 1761.38]:  también me parece que es un protocolo muy completo y que sí que se adapta.
+[1761.62 - 1764.18]:  A lo recitado, o sea, a la realidad.
+[1764.18 - 1768.74]:  Y también me parece que es una buena práctica que hayan determinado un periodo de prueba
+[1768.74 - 1774.16]:  y hayan abierto el buzón de sugerencias para que las entidades podamos dar nuestras opiniones
+[1774.16 - 1778.98]:  y podamos compartir cuáles han sido los resultados que hemos empezado a ver
+[1778.98 - 1782.04]:  y estén abiertos a modificar el protocolo si fuera necesario.
+[1782.72 - 1784.52]:  ¿Sabes? Aunque no haya respuestas claras,
+[1784.70 - 1790.20]:  sí que el proceso me parece que ha sido muy adecuado en mi experiencia.
+[1791.62 - 1798.28]:  Sí, la verdad es que es súper interesante que el Ministerio no haya preguntado directamente
+[1798.28 - 1802.36]:  a las personas y a los profesionales que están en el día a día,
+[1802.44 - 1807.00]:  porque quién mejor que vosotras para poder aportar en esos protocolos,
+[1807.06 - 1809.12]:  tanto en enfoque como en procesos,
+[1809.72 - 1814.94]:  y lo que estabais comentando, en tener esa flexibilidad en el acompañamiento
+[1814.94 - 1816.62]:  y que no sea todo tan burocrático
+[1816.62 - 1821.60]:  y estar utilizando tanto tiempo de nuestra experiencia
+[1821.62 - 1824.80]:  y de nuestra intervención en el papel en vez de en las personas,
+[1825.38 - 1828.24]:  que al final es lo que nos deberíamos de centrar,
+[1828.44 - 1830.24]:  es la verdad que parece interesante.
+[1831.84 - 1835.96]:  Sí, a ver cómo avanzando, pero bueno, pinta por lo menos de primeras,
+[1837.00 - 1838.94]:  ya ha habido una mejora.
+[1839.52 - 1842.48]:  Y yo relacionado ya un poco cambiando de los protocolos,
+[1842.60 - 1844.82]:  que más o menos nos va quedando claro,
+[1844.98 - 1847.10]:  yo viendo las respuestas y bueno,
+[1847.50 - 1849.78]:  nosotras también identificándolo un poco por lo que me han contado
+[1849.78 - 1851.40]:  las compañeras de protección internacional,
+[1851.62 - 1852.46]:  pero hablándolo con Tania,
+[1852.86 - 1855.48]:  sí que empezamos a identificar que hay mucha derivación
+[1855.48 - 1858.28]:  o que dentro del programa de protección,
+[1858.94 - 1861.20]:  bueno, están llegando muchas personas de,
+[1861.86 - 1864.40]:  bueno, no sé si son muchas, pero es un porcentaje así más o menos.
+[1864.98 - 1867.62]:  Entonces, no sé si en vuestro caso es igual que tengáis
+[1867.62 - 1869.94]:  o dentro de vuestras propias organizaciones
+[1869.94 - 1872.14]:  que hagáis derivaciones a otros programas
+[1872.14 - 1874.92]:  cuando se va terminando el tiempo de poder estar
+[1874.92 - 1877.02]:  dentro del programa de atención humanitaria
+[1877.02 - 1881.30]:  o si lo estáis, si estáis identificando que cada vez más,
+[1881.62 - 1883.26]:  están yendo al sistema de acogida,
+[1884.42 - 1885.32]:  bueno, un poco por ahí,
+[1885.40 - 1888.02]:  qué coordinaciones lo hacéis dentro de vuestra propia organización
+[1888.02 - 1892.38]:  o tenéis relación y coordinación con otras organizaciones
+[1892.38 - 1896.02]:  de vuestro territorio que os vais acompañando,
+[1896.86 - 1897.84]:  no sé cómo se hace.
+[1899.40 - 1908.16]:  Por ejemplo, ahora mismo tenemos más del 60%,
+[1908.16 - 1910.86]:  son solicitantes de protección internacional,
+[1910.86 - 1912.56]:  están residiendo en humanitaria.
+[1914.66 - 1921.22]:  Por modificaciones en los manuales,
+[1921.58 - 1925.46]:  estas personas pueden permanecer en humanitaria 12 meses.
+[1930.06 - 1934.16]:  Se hace su derivación a protección internacional
+[1934.16 - 1936.84]:  que está totalmente saturado
+[1938.70 - 1940.84]:  en ocasiones puntuales,
+[1940.86 - 1946.06]:  podemos derivar a recursos nuestros de protección internacional
+[1946.06 - 1950.46]:  con autorización del Ministerio,
+[1950.46 - 1954.36]:  pero son casos puntuales,
+[1954.36 - 1960.06]:  porque la mayoría de las veces son derivados a otros recursos
+[1960.06 - 1964.06]:  dentro del sistema de acogida de protección internacional.
+[1964.06 - 1965.06]:  ¿Vale?
+[1965.06 - 1969.76]:  Cuando salen del programa,
+[1969.76 - 1970.66]:  la mayoría de los casos,
+[1970.66 - 1976.06]:  la mayoría de las veces la gente sale con sus redes sociales
+[1976.06 - 1978.26]:  y fuera de España.
+[1978.26 - 1981.26]:  Eso es lo más común.
+[1981.26 - 1982.26]:  ¿Vale?
+[1982.26 - 1986.86]:  Después hay veces que en casos puntuales
+[1986.86 - 1990.26]:  se derivan a un recurso específico,
+[1990.26 - 1993.66]:  pero normalmente fuera de la entidad
+[1993.66 - 1998.46]:  y fuera incluso de la provincia donde están actualmente.
+[1998.46 - 2000.46]:  Es lo más común.
+[2000.46 - 2001.06]:  ¿Vale?
+[2001.06 - 2003.46]:  Después, excepcionalidades tenemos,
+[2003.46 - 2005.66]:  como este programa, muchísimas.
+[2005.66 - 2006.26]:  ¿Vale?
+[2006.26 - 2010.86]:  Y prácticamente todas las salidas son distintas,
+[2010.86 - 2013.66]:  pero lo común es eso.
+[2013.66 - 2016.26]:  Claro, tenía en relación a eso,
+[2016.26 - 2017.86]:  quiero para ver,
+[2017.86 - 2021.56]:  porque luego hay una cosa que entiendo
+[2021.56 - 2023.76]:  que están en vuestro programa de atención humanitaria
+[2023.76 - 2026.46]:  y se derivan a otros recursos de protección internacional,
+[2026.46 - 2028.86]:  aunque tengáis vosotras mismas,
+[2028.86 - 2030.26]:  estéis dentro del sistema,
+[2030.26 - 2031.86]:  del sistema de protección internacional,
+[2031.86 - 2035.46]:  que podría ser interesante que se quedaran en el mismo recurso.
+[2035.46 - 2036.86]:  Se derivan al sistema.
+[2036.86 - 2037.46]:  Al sistema.
+[2037.46 - 2041.06]:  Entonces, eso entra en una bolsa
+[2041.06 - 2046.06]:  de como una lista de espera del sistema.
+[2046.06 - 2047.06]:  Por eso, quiero decir.
+[2047.06 - 2051.06]:  Hay veces que por el perfil de la persona,
+[2051.06 - 2055.86]:  pues tiene unas necesidades médicas de seguimiento muy concretas
+[2055.86 - 2058.06]:  y lo está haciendo aquí
+[2058.06 - 2059.06]:  y lleva
+[2059.06 - 2060.06]:  mmm...
+[2060.06 - 2062.06]:  100 meses conmigo
+[2062.06 - 2066.86]:  y están haciéndole el seguimiento de esto que es grave aquí
+[2066.86 - 2070.66]:  o de familias que están como muy asentadas,
+[2070.66 - 2074.46]:  con menores a cargo y demás.
+[2074.46 - 2075.86]:  Entonces,
+[2075.86 - 2085.66]:  quizás atienden a que lo pueda derivar a un recurso de la propia entidad,
+[2085.66 - 2089.46]:  pero en general entran en una bolsa
+[2089.46 - 2093.26]:  de lista de espera global de toda España.
+[2093.26 - 2094.06]:  Vale.
+[2094.06 - 2098.66]:  Lo digo porque para mí podría ser como que el Ministerio
+[2098.66 - 2099.66]:  pudiera tener en cuenta esto,
+[2099.66 - 2102.46]:  que cuando una familia o una persona ya está...
+[2102.46 - 2103.86]:  Entonces, era por aclarar esto.
+[2103.86 - 2108.26]:  Y luego quería también, como ver el resto de compis,
+[2108.26 - 2111.46]:  como lo veis, porque yo viendo los cuestionarios con el tema de las salidas,
+[2111.46 - 2115.06]:  me ha sorprendido porque la mayoría de las respuestas que están dando
+[2115.06 - 2118.46]:  es que la realidad del programa es a otras organizaciones de...
+[2118.46 - 2120.06]:  del tercer sector.
+[2120.06 - 2123.46]:  Me ha llamado mucho la atención porque yo lo que he ido hablando
+[2123.46 - 2126.06]:  con algunas personas que estáis dentro del programa de atención humanitaria
+[2126.06 - 2130.86]:  es que normalmente la persona sale, termina de estar en el programa
+[2130.86 - 2132.86]:  por una decisión un poco propia
+[2132.86 - 2135.86]:  y que incluso cuando sale del programa
+[2135.86 - 2138.86]:  va a través de sus redes y demás, ¿no?
+[2138.86 - 2141.26]:  Entonces, me ha sorprendido ver, he estado mirando hasta mañana
+[2141.26 - 2142.66]:  las respuestas a los cuestionarios
+[2142.66 - 2146.06]:  y en relación a salida, que una de las opciones que hemos puesto es esta,
+[2146.06 - 2148.26]:  la que tú comentabas, Marimar,
+[2148.46 - 2150.86]:  pero en cambio la que más están respondiendo
+[2150.86 - 2153.46]:  es que se deriva tras organizaciones.
+[2153.46 - 2155.86]:  Entonces, me ha sorprendido bastante y quería ver un poco
+[2155.86 - 2159.46]:  si me podíais aclarar o desarrollar esto
+[2159.46 - 2161.26]:  porque no era lo que yo tenía entendido.
+[2161.26 - 2163.86]:  Entonces, a lo mejor ha habido un cambio en estos últimos meses
+[2163.86 - 2167.46]:  y me gustaría confirmarlo.
+[2174.46 - 2176.46]:  Por ejemplo, en nuestro caso,
+[2178.46 - 2180.46]:  estamos viviendo un cambio de paradigma.
+[2180.46 - 2183.46]:  Es verdad que al principio de esta emergencia humanitaria
+[2183.46 - 2186.46]:  se esperaban que iban a ser estancias bastante más cortas
+[2186.46 - 2188.46]:  de lo que están siendo, que las personas iban a venir
+[2188.46 - 2190.46]:  con más redes de las que realmente tienen.
+[2190.46 - 2194.46]:  Ahí están los caer que se montaron con plazas de emergencia
+[2194.46 - 2198.46]:  y van a durar poco tiempo y llevan siete meses en ellos.
+[2198.46 - 2203.46]:  El bloqueo de protección internacional está siendo enorme,
+[2203.46 - 2206.46]:  con lo cual la gente termina yéndose por aburrimiento.
+[2206.46 - 2208.46]:  En nuestro caso, por ejemplo,
+[2208.46 - 2211.46]:  creo que prácticamente no ha tenido ninguna derivación
+[2211.46 - 2213.46]:  a ninguna entidad de estos sectores.
+[2213.46 - 2215.46]:  Por mucho alguna no está propio
+[2215.46 - 2217.46]:  porque tenemos personas sin hogar
+[2217.46 - 2221.46]:  y se han quedado sin tiempo, sin vulnerabilidades y eso,
+[2221.46 - 2224.46]:  y lo hemos absorbido en nuestro sistema de plazas sin hogar.
+[2224.46 - 2227.46]:  Pero la gente se va por aburrimiento.
+[2227.46 - 2233.46]:  Tengo personas aquí que van a formalizar en enero de 2026.
+[2233.46 - 2237.46]:  Es que estaba hablando que es una auténtica brutalidad.
+[2237.46 - 2238.46]:  Gracias.
+[2238.46 - 2240.46]:  A lo cual se aburren.
+[2240.46 - 2243.46]:  Otras entidades tampoco no es fácil que te lo acojan
+[2243.46 - 2245.46]:  porque vas a tener que mantener a la persona
+[2245.46 - 2248.46]:  durante muchísimo tiempo sin acceso a nada.
+[2248.46 - 2250.46]:  Como decía la compañera,
+[2250.46 - 2254.46]:  por mucha formación que tú le des de plaza de protección internacional
+[2254.46 - 2255.46]:  no les vale para nada.
+[2255.46 - 2257.46]:  Si le vas a plantear algo de formación
+[2257.46 - 2259.46]:  te lo van a tirar a la cara
+[2259.46 - 2263.46]:  porque no van a poder ejercer nada hasta dentro de dos años.
+[2263.46 - 2265.46]:  Con lo cual, ya te digo,
+[2265.46 - 2267.46]:  ahora mismo os están quedando aquí esperando.
+[2267.46 - 2270.46]:  Si cae la breva de alguna plaza de protección internacional
+[2270.46 - 2273.46]:  o, te digo, sin recursos, sin la mayoría,
+[2273.46 - 2276.46]:  se tiran a, no es que yo así conozco a alguien,
+[2276.46 - 2277.46]:  no me han dicho por aquí,
+[2277.46 - 2279.46]:  y se están quedando en España.
+[2279.46 - 2282.46]:  Son ya los menos los que salen de España
+[2282.46 - 2285.46]:  para irse a Francia y Alemania.
+[2285.46 - 2287.46]:  O por lo menos, eso nos dicen,
+[2287.46 - 2288.46]:  que se acercan por norte,
+[2288.46 - 2292.46]:  pero que pocos están trasladando que se quieran mover de España.
+[2292.46 - 2293.46]:  Vale.
+[2293.46 - 2294.46]:  Gracias.
+[2294.46 - 2295.46]:  Gracias.
+[2295.46 - 2296.46]:  Gracias.
+[2296.46 - 2297.46]:  Vale.
+[2297.46 - 2300.46]:  Laura, no sé si vas a decir algo o...
+[2300.46 - 2302.46]:  Sandra.
+[2302.46 - 2305.46]:  Vale, yo voy a comentar un poco nuestro caso,
+[2305.46 - 2306.46]:  que es que depende mucho,
+[2306.46 - 2309.46]:  también va por momentos.
+[2309.46 - 2312.46]:  Porque si la persona tiene redes sociales,
+[2312.46 - 2314.46]:  pues se le proporciona dinero de salida,
+[2314.46 - 2316.46]:  billetes de autobús a la ciudad de destino,
+[2316.46 - 2318.46]:  donde se encuentre familiar,
+[2318.46 - 2319.46]:  las redes de apoyo.
+[2319.46 - 2321.46]:  O hay muchas personas que vienen
+[2321.46 - 2323.46]:  y todas se quieren ir a Francia
+[2323.46 - 2325.46]:  por la facilidad del idioma,
+[2325.46 - 2327.46]:  sin querer pasar aquí ni una semana.
+[2327.46 - 2329.46]:  También es que lo que decía María del Mar,
+[2329.46 - 2331.46]:  que el tiempo de espera aquí de vacinación de plaza
+[2331.46 - 2333.46]:  respecto a las personas solicitantes de asilo
+[2333.46 - 2334.46]:  ha aumentado muchísimo.
+[2334.46 - 2336.46]:  Tenemos ahora mismo personas que todavía llevan
+[2336.46 - 2338.46]:  desde diciembre esperando ser derivadas
+[2338.46 - 2340.46]:  a una asociación de protección internacional.
+[2340.46 - 2343.46]:  Y ahora mismo es que tenemos 45 personas solicitantes de asilo
+[2343.46 - 2346.46]:  en el programa de 64 plazas que tenemos en total.
+[2346.46 - 2348.46]:  Y también un problema que tenemos es que
+[2348.46 - 2349.46]:  la gente que está en el programa,
+[2349.46 - 2350.46]:  que está en el programa,
+[2350.46 - 2351.46]:  que está en el programa,
+[2351.46 - 2352.46]:  que está en el programa,
+[2352.46 - 2353.46]:  que está en el programa,
+[2353.46 - 2355.46]:  que está en el programa,
+[2355.46 - 2356.46]:  que está en el programa,
+[2356.46 - 2357.46]:  que está en el programa,
+[2357.46 - 2358.46]:  y también un problema que tenemos
+[2358.46 - 2360.46]:  a la hora de la finalización
+[2360.46 - 2362.46]:  que tiene la red de las personas,
+[2362.46 - 2364.46]:  cuando la persona no ha solicitado asilo,
+[2364.46 - 2366.46]:  no tiene red de apoyo
+[2366.46 - 2368.46]:  ni tiene tampoco ningún planteamiento,
+[2368.46 - 2371.46]:  se lo ofrece por la alternativa de buscar recursos,
+[2371.46 - 2373.46]:  a la vez de que se lo ofrece por una ayuda
+[2373.46 - 2376.46]:  a la hora de orientarle hacia dónde quiere ir,
+[2376.46 - 2378.46]:  ver un poco cuáles son sus opciones.
+[2378.46 - 2380.46]:  Es que son personas que están
+[2380.46 - 2382.46]:  en situación administrativa irregular
+[2382.46 - 2384.46]:  y muchas veces las propias asociaciones
+[2384.46 - 2388.46]:  buscan a personas que sean en perfiles empleables.
+[2388.46 - 2390.46]:  Entonces ahí también tenemos muchísimos problemas
+[2390.46 - 2391.46]:  a la hora de derivar,
+[2391.46 - 2393.46]:  porque derivamos a través de un informe social,
+[2393.46 - 2396.46]:  hablando con la trabajadora social de la otra entidad,
+[2396.46 - 2398.46]:  pero muchas veces nos rechazan
+[2398.46 - 2402.46]:  por no tener ningún tipo de documentación.
+[2406.46 - 2410.46]:  Creo que eso, una discusión compartida.
+[2410.46 - 2412.46]:  Aprovechando que hablas de eso,
+[2412.46 - 2414.46]:  en temas de dificultades
+[2414.46 - 2418.46]:  y qué tenéis para el tema de las derivaciones,
+[2418.46 - 2420.46]:  a mí sí me gustaría saber un poquito más,
+[2420.46 - 2422.46]:  que yo voy identificando cosas,
+[2422.46 - 2424.46]:  pero me gustaría que,
+[2424.46 - 2426.46]:  aprovechando que tenemos la oportunidad
+[2426.46 - 2428.46]:  que me la podáis desarrollar mejor,
+[2428.46 - 2431.46]:  si identificáis dentro del programa,
+[2431.46 - 2434.46]:  igual que ahora sí que veis que se ha ampliado,
+[2434.46 - 2437.46]:  que ha habido una mejora en esto de los protocolos,
+[2437.46 - 2440.46]:  porque se ha contado con las entidades sociales,
+[2440.46 - 2442.46]:  si identificáis otros,
+[2442.46 - 2444.46]:  obstáculos o carencias que hay dentro del programa,
+[2444.46 - 2447.46]:  porque como me veníais hablando,
+[2447.46 - 2449.46]:  ya vamos en una situación de emergencia
+[2449.46 - 2451.46]:  desde agosto de 2023
+[2451.46 - 2453.46]:  y muchas otras situaciones.
+[2455.46 - 2458.46]:  Entonces, no sé si identificáis todavía,
+[2458.46 - 2460.46]:  habiendo introducido el Ministerio,
+[2460.46 - 2464.46]:  a lo mejor esta mejora en tanto a los protocolos,
+[2464.46 - 2467.46]:  algún otro obstáculo o carencia dentro del programa
+[2467.46 - 2469.46]:  que creéis que se podría proponer
+[2469.46 - 2471.46]:  para mejorar el acompañamiento
+[2471.46 - 2473.46]:  a las personas, sobre todo.
+[2481.46 - 2482.46]:  Sí, Cristina.
+[2483.46 - 2486.46]:  Yo una de las carencias que veo ahora mismo
+[2486.46 - 2489.46]:  es que se está dando mucho peso
+[2489.46 - 2491.46]:  y mucha importancia a las personas
+[2491.46 - 2493.46]:  que son solicitantes de protección internacional
+[2493.46 - 2495.46]:  y parece que se están convirtiendo
+[2495.46 - 2498.46]:  en el centro del programa de humanitaria,
+[2498.46 - 2500.46]:  sobre todo porque a la hora
+[2500.46 - 2503.46]:  de pedir más tiempo de estancia y demás,
+[2503.46 - 2507.46]:  ahora mismo es como lo que te da muchas más facilidades.
+[2507.46 - 2510.46]:  Como que el sistema está empujando a las personas
+[2510.46 - 2512.46]:  a solicitar asilo,
+[2512.46 - 2515.46]:  si quieren mantenerse en España,
+[2515.46 - 2517.46]:  si quieren tener oportunidades y demás.
+[2517.46 - 2520.46]:  Incluso aunque muchas veces no tengan
+[2520.46 - 2523.46]:  razones muy contundentes para solicitarlo.
+[2523.46 - 2526.46]:  Entonces, bueno, me parece que se está olvidando
+[2526.46 - 2528.46]:  un poco la esencia de lo que es
+[2528.46 - 2530.46]:  el programa de atención humanitaria,
+[2530.46 - 2533.46]:  que es el de ayudar a la persona
+[2533.46 - 2536.46]:  a continuar con su proceso migratorio
+[2536.46 - 2539.46]:  o a darle un espacio de estabilidad
+[2539.46 - 2542.46]:  y de cura a la historia vivida
+[2542.46 - 2545.46]:  para luego ubicarse dentro del contexto
+[2545.46 - 2548.46]:  del territorio y continuar.
+[2548.46 - 2551.46]:  Entonces, bueno, creo que se está convirtiendo
+[2551.46 - 2553.46]:  de alguna forma en un programa auxiliar
+[2553.46 - 2555.46]:  al de protección internacional.
+[2557.46 - 2559.46]:  Una sensación...
+[2560.46 - 2565.46]:  Ya de cómo está cambiando y evolucionando el programa.
+[2569.46 - 2570.46]:  Laura.
+[2570.46 - 2571.46]:  Sí.
+[2571.46 - 2573.46]:  Sí, estoy de acuerdo con Cris.
+[2573.46 - 2575.46]:  De hecho, lo que iba a decir es que, bueno,
+[2575.46 - 2577.46]:  hablar de carencias en general de humanitaria
+[2577.46 - 2580.46]:  es muy complicado porque es un programa muy amplio.
+[2580.46 - 2583.46]:  Entonces se puede detectar muchas según en qué momento estés.
+[2583.46 - 2586.46]:  Pero diría que ahora mismo sí que
+[2586.46 - 2589.46]:  una de las principales carencias es el problema de concepto
+[2589.46 - 2591.46]:  sobre qué es humanitaria.
+[2591.46 - 2595.46]:  Creo que no se está entendiendo
+[2595.46 - 2597.46]:  o a lo mejor no se está queriendo entender
+[2597.46 - 2599.46]:  o a lo mejor se está entendiendo exactamente
+[2599.46 - 2600.46]:  cómo se quiere entender.
+[2600.46 - 2602.46]:  Y es a humanitaria como la antesala
+[2602.46 - 2604.46]:  de protección internacional
+[2604.46 - 2606.46]:  y luego un programa en sí mismo
+[2606.46 - 2609.46]:  que atiende necesidades diferentes y específicas.
+[2609.46 - 2612.46]:  Incluso lo que decía Cristina, insistiendo o instando
+[2612.46 - 2616.46]:  a la solicitud de asilo como única vía
+[2616.46 - 2618.46]:  de encontrar esa estabilidad o de regularidad.
+[2618.46 - 2622.46]:  O de regularizar tu situación en todos los sentidos.
+[2622.46 - 2625.46]:  Y a mí eso sí que me puede parecer un error.
+[2625.46 - 2628.46]:  Entre otras cosas porque, acorde con Dublín,
+[2628.46 - 2631.46]:  si se solicita aquí protección internacional
+[2631.46 - 2634.46]:  no se va a poder solicitar en cualquier otro país de Europa.
+[2634.46 - 2637.46]:  Quiero decir, es una especie de abocarnos a asumir
+[2637.46 - 2641.46]:  y a absorber una cantidad de población migrante
+[2641.46 - 2644.46]:  o de solicitantes de asilo que no...
+[2644.46 - 2647.46]:  Bueno, como que me parece que conmigo es digno de replanteárselo.
+[2647.46 - 2651.46]:  Y luego, más allá de eso, también creo que se ha demostrado
+[2651.46 - 2654.46]:  que el sistema de humanitaria no estaba preparado para hacer...
+[2654.46 - 2659.46]:  Para dar respuesta a la crisis que se ha...
+[2659.46 - 2662.46]:  A la que se ha enfrentado en los últimos meses.
+[2662.46 - 2664.46]:  Y antes que hablábamos de las salidas
+[2664.46 - 2667.46]:  me he quedado con ganas de decir que para mí...
+[2667.46 - 2669.46]:  Cuando hablo...
+[2669.46 - 2671.46]:  Y también está muy relacionado con las carencias
+[2671.46 - 2673.46]:  que se pueden ver del sistema de humanitaria.
+[2673.46 - 2676.46]:  Cuando se habla de las salidas a día de hoy en el sistema,
+[2677.46 - 2679.46]:  tendríamos que hablar de que, como ha dicho Nacho,
+[2679.46 - 2682.46]:  hay un cambio de paradigma en el que las personas que llegan
+[2682.46 - 2685.46]:  no tienen un proyecto migratorio definido.
+[2685.46 - 2688.46]:  Y el programa de humanitaria que tendría que ser ese espacio
+[2688.46 - 2691.46]:  en el que se pudiera llegar a definir ese proyecto migratorio
+[2691.46 - 2694.46]:  y recibir un apoyo y un acompañamiento para llegar a cumplirlo,
+[2694.46 - 2696.46]:  no está dando ese espacio.
+[2696.46 - 2698.46]:  Además, el SAPIT está colapsado...
+[2698.46 - 2700.46]:  O sea, el sistema de acogida internacional está colapsado.
+[2700.46 - 2703.46]:  Pero es que humanitaria también está colapsada.
+[2703.46 - 2706.46]:  Y ahora mismo estamos dejando muchos perfiles fuera.
+[2707.46 - 2712.46]:  Más de un caso de posibles menores que están pendientes de trámites con fiscalía
+[2712.46 - 2714.46]:  que les tienen que determinar o no su edad,
+[2714.46 - 2716.46]:  si les acaba la estancia de la humanitaria,
+[2716.46 - 2719.46]:  y no se les puede conseguir un ingreso extraordinario
+[2719.46 - 2722.46]:  o tampoco una prórroga para que tengan una estancia autorizada
+[2722.46 - 2724.46]:  porque resulta que ser un posible menor
+[2724.46 - 2728.46]:  no es una vulnerabilidad reconocida por el Ministerio para tenerla.
+[2728.46 - 2732.46]:  En cambio, ser solicitante de protección internacional con 48 años
+[2732.46 - 2734.46]:  y siendo hombre sí que lo es.
+[2734.46 - 2736.46]:  Entonces, me parece que los criterios,
+[2736.46 - 2738.46]:  aparte de estar realizando protección internacional,
+[2738.46 - 2742.46]:  están perdiendo el foco completamente en qué consiste humanitaria,
+[2742.46 - 2746.46]:  que es proteger a las personas que acaban de llegar por costas
+[2746.46 - 2749.46]:  o por otros medios, por frontera.
+[2749.46 - 2753.46]:  Y luego también que cuando nosotras nos enfrentamos
+[2753.46 - 2757.46]:  a las salidas de personas a las que les acaba la estancia autorizada,
+[2757.46 - 2760.46]:  lo que encontramos es un hándicap.
+[2760.46 - 2763.46]:  En algunos casos hemos derivado a otras entidades sociales,
+[2763.46 - 2765.46]:  pero en la mayoría de casos
+[2765.46 - 2769.46]:  se han tenido que ir con redes de apoyo o redes familiares,
+[2769.46 - 2771.46]:  redes de amigo,
+[2771.46 - 2776.46]:  que no son garantías de nada a largo o a medio plazo.
+[2776.46 - 2784.46]:  Entonces, corres el riesgo de que acaben en situación de calle,
+[2784.46 - 2786.46]:  en muchos casos.
+[2788.46 - 2790.46]:  Así que, bueno, no sé qué carencia es esa.
+[2790.46 - 2793.46]:  No sabría resumirla, pero es una carencia, desde luego.
+[2795.46 - 2801.46]:  Yo quería aportar, vamos a ver,
+[2801.46 - 2808.46]:  hay determinados perfiles que por la alta vulnerabilidad que tienen
+[2808.46 - 2815.46]:  no es suficiente 12 meses de intervención.
+[2815.46 - 2817.46]:  ¿Vale?
+[2817.46 - 2824.46]:  Y pueden ser perfiles perfectamente como los que tratáis en Fundación Cruz Blanca,
+[2824.46 - 2830.46]:  porque muchas veces os han derivado casos nuestros especialmente particulares
+[2830.46 - 2835.46]:  y no atiende esas necesidades.
+[2835.46 - 2837.46]:  ¿Vale?
+[2837.46 - 2843.46]:  Luego, la situación vivida con los posibles menores en los últimos meses
+[2843.46 - 2846.46]:  ha sido muy grande.
+[2846.46 - 2853.46]:  Es decir, hemos tenido en 300 plazas,
+[2854.46 - 2857.46]:  más de 60 posibles menores,
+[2857.46 - 2862.46]:  las fiscalías totalmente saturadas,
+[2862.46 - 2868.46]:  tiempos de respuesta superiores a seis meses
+[2868.46 - 2876.46]:  para decretar la minoría o mayoría de estas criaturas.
+[2876.46 - 2882.46]:  Si es verdad que en este tiempo
+[2882.46 - 2886.46]:  hemos conseguido bastantes decretos de minoría
+[2886.46 - 2891.46]:  y en muchos casos
+[2891.46 - 2895.46]:  también se han quedado en una situación de estancia no autorizada
+[2895.46 - 2897.46]:  nuestros recursos
+[2897.46 - 2906.46]:  mientras que estamos recurriendo ese decreto de mayoría
+[2906.46 - 2911.46]:  que después ha resultado ser minoría
+[2911.46 - 2914.46]:  al aportar documentación.
+[2914.46 - 2919.46]:  Entonces,
+[2919.46 - 2921.46]:  por ejemplo,
+[2921.46 - 2923.46]:  el tema de estancias no autorizadas
+[2923.46 - 2926.46]:  que es un tema muy controvertido
+[2926.46 - 2933.46]:  porque muchas veces tiene un efecto contagio
+[2933.46 - 2936.46]:  que no es deseable dentro de las entidades,
+[2936.46 - 2939.46]:  eh...
+[2939.46 - 2943.46]:  está dando juego, por ejemplo,
+[2943.46 - 2947.46]:  para que un menor que tú sabes que es menor
+[2947.46 - 2951.46]:  pero que la fiscalía lo ha decretado como mayor
+[2951.46 - 2954.46]:  pues no tenga una situación de calle
+[2954.46 - 2956.46]:  en un momento dado, ¿vale?
+[2956.46 - 2962.46]:  Y el Ministerio te está abonando
+[2962.46 - 2967.46]:  el coste que supone tener a una persona en el recurso.
+[2967.46 - 2968.46]:  Eh...
+[2968.46 - 2971.46]:  Si es verdad que no le puedes dar ayuda
+[2971.46 - 2972.46]:  pero...
+[2972.46 - 2976.46]:  tipo ayuda de bolsillo
+[2976.46 - 2979.46]:  o ayudas extraordinarias
+[2979.46 - 2982.46]:  pero incluso le puedes dar ayuda médica
+[2982.46 - 2985.46]:  en el caso de necesidad
+[2985.46 - 2987.46]:  y...
+[2987.46 - 2990.46]:  y le puedes dar comida, ¿vale?
+[2990.46 - 2994.46]:  Para que pueda comer o catering o demás.
+[2994.46 - 2998.46]:  Entonces es ahí un juego.
+[2998.46 - 3002.46]:  Ya digo, un poco peligroso para las entidades
+[3002.46 - 3005.46]:  porque hay que saberlo manejar
+[3005.46 - 3009.46]:  con cierta astucia
+[3009.46 - 3012.46]:  pero...
+[3012.46 - 3015.46]:  pero da juego a que un beneficiario
+[3015.46 - 3017.46]:  que consideras que en un tiempo limitado
+[3017.46 - 3020.46]:  puedes tener las pruebas adecuadas
+[3020.46 - 3024.46]:  como para que pase a otro recurso
+[3024.46 - 3027.46]:  pues no esté en una situación de calle
+[3027.46 - 3029.46]:  como los menores.
+[3029.46 - 3030.46]:  ¿Vale?
+[3031.46 - 3033.46]:  Sí, muchas gracias Marimar.
+[3033.46 - 3036.46]:  Nacho, ¿tenéis la mano levantada?
+[3037.46 - 3038.46]:  Eh...
+[3038.46 - 3040.46]:  Creo que como ha dicho mi compañera Laura
+[3040.46 - 3042.46]:  el sistema de atención humanitaria
+[3042.46 - 3044.46]:  no ha estado preparado
+[3044.46 - 3046.46]:  para todo el volumen que ha tenido
+[3046.46 - 3050.46]:  con lo cual creo que las entidades
+[3050.46 - 3052.46]:  hemos podido hacer encaje de bolillo
+[3052.46 - 3054.46]:  y que creo que si el sistema no ha caído ya
+[3054.46 - 3056.46]:  es por el esfuerzo que estamos haciendo las entidades
+[3056.46 - 3057.46]:  de trabajar más cosas
+[3057.46 - 3059.46]:  de las que supuestamente
+[3059.46 - 3061.46]:  atención humanitaria nos permite
+[3061.46 - 3063.46]:  y que al final se está traduciendo en que
+[3063.46 - 3064.46]:  creo, o bajo mi punto de vista
+[3064.46 - 3067.46]:  el Ministerio por parte de Dirección General
+[3067.46 - 3068.46]:  y la parte humanitaria
+[3068.46 - 3070.46]:  está intentando dar respuesta
+[3070.46 - 3072.46]:  a ciertas problemáticas
+[3072.46 - 3073.46]:  que nos están saliendo ahora
+[3073.46 - 3075.46]:  para que estén autorizadas
+[3075.46 - 3077.46]:  con ciertos aspectos
+[3077.46 - 3078.46]:  que entran dentro de su mano
+[3078.46 - 3080.46]:  pero que nos cortan el tema del presupuestario
+[3080.46 - 3082.46]:  con lo cual no hemos podido ampliar plaza
+[3082.46 - 3084.46]:  con el bloqueo de presupuestos de este año
+[3084.46 - 3085.46]:  y que el resto de las entidades
+[3085.46 - 3087.46]:  y que el resto de las Administraciones
+[3087.46 - 3089.46]:  todo el tema de problemática que podía
+[3089.46 - 3092.46]:  vulnerar ciertos derechos
+[3092.46 - 3094.46]:  lo que hace es por sistema ya cancelarlo
+[3094.46 - 3097.46]:  es verdad que los menores al final de año
+[3097.46 - 3099.46]:  cuando empezó la crisis aquí en el Perínsulo
+[3099.46 - 3101.46]:  empezaron algunos fiscales
+[3101.46 - 3102.46]:  por lo menos aquí en la Ejecira
+[3102.46 - 3106.46]:  a medianamente intentar de algún decreto
+[3106.46 - 3107.46]:  de no sé cuánto
+[3107.46 - 3109.46]:  y ya hace poco por acá
+[3109.46 - 3110.46]:  eso fue por sistema cortado
+[3110.46 - 3112.46]:  yo aquí ya por ejemplo en la provincia de Cádiz
+[3112.46 - 3115.46]:  por sistema no hay otra opción de
+[3115.46 - 3116.46]:  que te crees que es una minoría de edad
+[3116.46 - 3118.46]:  que no son las pruebas domésticas
+[3118.46 - 3120.46]:  o sea ya o documento original del país
+[3120.46 - 3122.46]:  y ni eso que si es como sea de Gambia
+[3122.46 - 3125.46]:  con el tema del presupuesto de los pasamortes de Gambia
+[3125.46 - 3127.46]:  lo han cortado y tampoco entienden
+[3127.46 - 3130.46]:  que sea un documento válido o no lo son
+[3130.46 - 3132.46]:  que ya hace que Canarias le está saturado de menores
+[3132.46 - 3134.46]:  lo que nos pasa es lo que nos ha pasado aquí
+[3134.46 - 3135.46]:  la policía dice tú no eres menor
+[3135.46 - 3136.46]:  tú eres mayor de edad
+[3136.46 - 3137.46]:  tú vas a Perínsulo
+[3137.46 - 3138.46]:  cuando llegues allí no te entiendas
+[3138.46 - 3140.46]:  pero yo necesito sacar a gente de aquí
+[3140.46 - 3142.46]:  porque es que es imposible que se atiendan a tanto
+[3142.46 - 3143.46]:  porque nos han enviado aquí
+[3143.46 - 3145.46]:  un alto índice de puntos de prensa
+[3145.46 - 3146.46]:  de menores que sabían que eran menores
+[3146.46 - 3147.46]:  y que te lo explicaban
+[3147.46 - 3149.46]:  pero tú no has dicho que eras menor cuando has llegado
+[3149.46 - 3151.46]:  sí pero así que me decían que no
+[3151.46 - 3153.46]:  que no eras mayor para poder entrar en un avión
+[3153.46 - 3154.46]:  y venirme a Perínsulo
+[3154.46 - 3156.46]:  y ya una vez que estás aquí luchas por tus derechos
+[3156.46 - 3157.46]:  lo que tú dices
+[3157.46 - 3160.46]:  ahora tú estás en un proceso de fiscalía
+[3160.46 - 3161.46]:  para el ministerio
+[3161.46 - 3163.46]:  eso no es un paso a cierto tiempo
+[3163.46 - 3165.46]:  no es una vulnerabilidad
+[3165.46 - 3168.46]:  que te abocan a casi a renunciar a tu
+[3168.46 - 3170.46]:  a ese procedimiento
+[3170.46 - 3172.46]:  para que te puedas acoger a la Producción Internacional
+[3172.46 - 3173.46]:  o algo de eso
+[3173.46 - 3174.46]:  porque con Producción Internacional
+[3174.46 - 3175.46]:  mientras que hay un procedimiento abierto
+[3175.46 - 3178.46]:  no te admiten a CITRA ni al reconocimiento
+[3178.46 - 3180.46]:  y entonces al final nosotros estamos viendo
+[3180.46 - 3181.46]:  que podrás decirme eso
+[3181.46 - 3182.46]:  o renuncias a esto
+[3182.46 - 3183.46]:  y te vas a la Producción Internacional
+[3183.46 - 3184.46]:  y a esa mayor edad
+[3184.46 - 3185.46]:  e intentas por tu sitio
+[3185.46 - 3187.46]:  o es que llega un momento que están haciendo
+[3187.46 - 3188.46]:  el Ministerio
+[3188.46 - 3189.46]:  ni están haciendo autorizadas ni nada
+[3189.46 - 3190.46]:  no podemos tener una persona
+[3190.46 - 3192.46]:  durante casi un año
+[3192.46 - 3193.46]:  esperando un decreto
+[3193.46 - 3195.46]:  luchando por sus derechos
+[3195.46 - 3197.46]:  entonces creo que ahí está la misma
+[3197.46 - 3199.46]:  una lucha entre entidades
+[3199.46 - 3200.46]:  apoyando ciertas cuestiones
+[3200.46 - 3202.46]:  por el bien de los usuarios
+[3202.46 - 3204.46]:  y diversos estamentos políticos
+[3204.46 - 3205.46]:  y públicos
+[3205.46 - 3206.46]:  que se pelean
+[3206.46 - 3207.46]:  que esto es mi competencia
+[3207.46 - 3208.46]:  esto es tuya
+[3208.46 - 3209.46]:  igual que por ejemplo sé
+[3209.46 - 3210.46]:  que en ciertas partes de España
+[3210.46 - 3211.46]:  como por ejemplo en Pozuelo
+[3211.46 - 3212.46]:  han empezado a abrir plazas
+[3212.46 - 3213.46]:  o no plazas
+[3213.46 - 3214.46]:  sino citas de formalización de asilo
+[3214.46 - 3215.46]:  casi a diario formalizando lo más grande
+[3215.46 - 3216.46]:  y se ha intentado en otras provincias
+[3216.46 - 3217.46]:  de manera
+[3217.46 - 3218.46]:  ahí ha habido ya choques
+[3218.46 - 3219.46]:  de que esto es mi competencia
+[3219.46 - 3220.46]:  esto no
+[3220.46 - 3221.46]:  esto tiene tu dinero
+[3221.46 - 3222.46]:  esto no
+[3222.46 - 3223.46]:  esto lo llevo yo porque sí
+[3223.46 - 3224.46]:  y lucha de poder
+[3224.46 - 3225.46]:  que al final estamos las entidades
+[3225.46 - 3226.46]:  que están en la misma situación
+[3226.46 - 3227.46]:  y que no se puede hacer nada
+[3227.46 - 3228.46]:  porque no se puede hacer nada
+[3228.46 - 3229.46]:  porque no se puede hacer nada
+[3229.46 - 3230.46]:  porque no se puede hacer nada
+[3230.46 - 3231.46]:  porque no se puede hacer nada
+[3231.46 - 3232.46]:  porque no se puede hacer nada
+[3232.46 - 3233.46]:  lucha de poder
+[3233.46 - 3234.46]:  que al final estamos
+[3234.46 - 3235.46]:  las entidades por medio
+[3235.46 - 3236.46]:  y muchos usuarios
+[3236.46 - 3237.46]:  que están perdiendo derechos
+[3237.46 - 3238.46]:  por ese tema
+[3238.46 - 3239.46]:  de político de competencia
+[3239.46 - 3242.22]:  Una pregunta que me ha chocado
+[3242.22 - 3243.86]:  un menor puede renunciar
+[3243.86 - 3245.88]:  al proceso de su reconocimiento
+[3245.88 - 3246.88]:  de minoría
+[3246.88 - 3247.88]:  o sea no renuncia
+[3247.88 - 3248.88]:  llega un momento
+[3248.88 - 3249.88]:  que si tú los
+[3249.88 - 3251.60]:  si no te reconocen como menor
+[3251.60 - 3252.60]:  y tú llega un momento
+[3252.60 - 3253.60]:  que pruebas osométricas
+[3253.60 - 3254.60]:  todos los museos
+[3254.60 - 3255.60]:  que pruebas osométricas
+[3255.60 - 3256.60]:  tienen dos años de margen
+[3256.60 - 3257.60]:  o sea de baremo
+[3257.60 - 3260.22]:  tú llegas con 17 años
+[3260.22 - 3262.12]:  cuerpos como los que tenemos aquí
+[3262.12 - 3263.12]:  y sabes perfectamente
+[3263.12 - 3264.12]:  que te vas a ir
+[3264.12 - 3265.12]:  que eres muy adulta
+[3265.12 - 3266.12]:  entonces claro
+[3266.12 - 3267.12]:  al final terminas
+[3267.12 - 3268.12]:  abocando toda una prueba
+[3268.12 - 3269.12]:  que nadie quiere
+[3269.12 - 3270.12]:  porque hasta los propios médicos
+[3270.12 - 3271.12]:  están casi dando mal idea
+[3271.12 - 3272.12]:  ese tipo de cosas
+[3272.12 - 3273.12]:  a decir mira lo que voy a hacer
+[3273.12 - 3274.12]:  me vas a ir a mayor edad
+[3274.12 - 3275.12]:  pero termino este procedimiento
+[3275.12 - 3276.12]:  que lo cierre
+[3276.12 - 3278.38]:  y yo puedo continuar
+[3278.38 - 3279.38]:  mi vida
+[3279.38 - 3280.38]:  o por lo menos
+[3280.38 - 3281.38]:  abriéndome vías
+[3281.38 - 3282.38]:  de estabilización
+[3282.38 - 3283.38]:  y de reconocimiento
+[3283.38 - 3285.08]:  y de reconocimiento administrativo
+[3285.08 - 3286.08]:  que no me van a permitir
+[3286.08 - 3287.08]:  que tenga ese procedimiento abierto
+[3287.08 - 3288.08]:  y que ahí
+[3288.08 - 3289.08]:  se atasca en que
+[3289.08 - 3290.08]:  yo te digo que soy menor
+[3290.08 - 3291.08]:  por esto
+[3291.08 - 3292.08]:  y en fin que ella te dice
+[3292.08 - 3293.08]:  que no te vas a abonar
+[3293.08 - 3294.08]:  pues entonces
+[3294.08 - 3295.08]:  ahí es el momento
+[3295.08 - 3296.08]:  que dices
+[3296.08 - 3297.08]:  pues eso
+[3297.08 - 3298.08]:  pues ya está
+[3298.08 - 3299.08]:  por la barra gorda para ti
+[3299.08 - 3300.08]:  me hago pruebas isométricas
+[3300.08 - 3301.08]:  yo soy mayor edad
+[3301.08 - 3302.08]:  y a otra cosa
+[3302.08 - 3303.08]:  de todas formas
+[3303.08 - 3304.08]:  estamos siguiendo
+[3304.08 - 3305.08]:  si es verdad
+[3305.08 - 3306.08]:  que peleándolo mucho
+[3306.08 - 3307.08]:  pero los compañeros
+[3307.08 - 3308.08]:  han llegado ahí
+[3308.08 - 3309.08]:  hasta las embajadas
+[3309.08 - 3310.08]:  de Gambia
+[3310.08 - 3311.08]:  a acreditar
+[3311.08 - 3312.08]:  que la documentación
+[3312.08 - 3313.08]:  es adecuada
+[3313.08 - 3314.08]:  y la han admitido
+[3314.08 - 3315.08]:  en la fiscalía
+[3315.08 - 3316.08]:  y por esto digo
+[3316.08 - 3317.08]:  que al final
+[3317.08 - 3318.08]:  es un trabajo
+[3318.08 - 3319.08]:  que no se puede hacer
+[3319.08 - 3320.08]:  porque no hay
+[3320.08 - 3321.08]:  una manera
+[3321.08 - 3322.08]:  de hacer esto
+[3322.08 - 3323.08]:  es un trabajo
+[3323.08 - 3324.08]:  encarnizado
+[3324.08 - 3325.08]:  de las entidades
+[3325.08 - 3326.08]:  que si es verdad
+[3326.08 - 3327.08]:  que es un trabajo
+[3327.08 - 3328.08]:  titánico
+[3328.08 - 3329.08]:  que dices
+[3329.08 - 3330.08]:  cada menor
+[3330.08 - 3331.08]:  que se le ha decretado
+[3331.08 - 3332.08]:  como menor de edad
+[3332.08 - 3333.08]:  en la mayoría
+[3333.08 - 3334.08]:  de los casos
+[3334.08 - 3335.08]:  hay un trabajo
+[3335.08 - 3336.08]:  enorme
+[3336.08 - 3337.08]:  de los equipos
+[3337.08 - 3338.08]:  de intervención
+[3338.08 - 3339.08]:  porque
+[3339.08 - 3340.08]:  es como
+[3340.08 - 3341.08]:  pelear
+[3341.08 - 3342.08]:  contra
+[3342.08 - 3343.08]:  una muralla
+[3343.08 - 3344.08]:  para defender
+[3344.08 - 3345.08]:  la minoría
+[3345.08 - 3346.08]:  de edad
+[3346.08 - 3347.08]:  de esa persona
+[3347.08 - 3348.08]:  y que
+[3348.08 - 3349.08]:  no hay
+[3349.08 - 3350.08]:  una manera
+[3350.08 - 3351.08]:  de hacer
+[3351.08 - 3352.08]:  que la minoría
+[3352.08 - 3353.08]:  de esa persona
+[3353.08 - 3354.08]:  se quede
+[3354.08 - 3355.08]:  en la vida
+[3355.08 - 3356.08]:  de esa persona
+[3356.08 - 3357.08]:  ¿vale?
+[3357.08 - 3358.08]:  pero
+[3358.08 - 3359.08]:  pero que
+[3359.08 - 3360.08]:  se consigue
+[3360.08 - 3361.08]:  mi esperanza
+[3361.08 - 3362.08]:  siempre
+[3362.08 - 3363.08]:  es que
+[3363.08 - 3364.08]:  se consigue
+[3364.08 - 3365.08]:  ahora
+[3365.08 - 3366.08]:  si es verdad
+[3366.08 - 3367.08]:  que
+[3367.08 - 3368.08]:  nosotros
+[3368.08 - 3369.08]:  el volumen
+[3369.08 - 3370.08]:  grande
+[3370.08 - 3371.08]:  de menores
+[3371.08 - 3372.08]:  nos llegaron
+[3372.08 - 3373.08]:  en noviembre
+[3373.08 - 3374.08]:  del año
+[3374.08 - 3375.08]:  pasado
+[3375.08 - 3376.08]:  después
+[3376.08 - 3377.08]:  eso
+[3377.08 - 3378.08]:  se
+[3378.08 - 3379.08]:  ha
+[3379.08 - 3380.08]:  cambiado
+[3380.08 - 3381.08]:  y
+[3381.08 - 3382.08]:  se ha parado
+[3382.08 - 3383.08]:  mucho
+[3383.08 - 3384.08]:  en Canarias
+[3384.08 - 3387.08]:  lo que pasa
+[3387.08 - 3388.08]:  que es que
+[3388.08 - 3389.08]:  todavía
+[3389.08 - 3390.08]:  tenemos casos
+[3390.08 - 3392.08]:  desde entonces
+[3392.08 - 3393.08]:  es decir
+[3393.08 - 3394.08]:  que
+[3394.08 - 3395.08]:  que
+[3395.08 - 3396.08]:  la fiscalía
+[3396.08 - 3397.08]:  no terminan
+[3397.08 - 3398.08]:  de solventar
+[3398.08 - 3399.08]:  el atasco
+[3399.08 - 3400.08]:  que tienen
+[3400.08 - 3401.08]:  ¿vale?
+[3401.08 - 3402.08]:  luego
+[3402.08 - 3403.08]:  me costa
+[3403.08 - 3404.08]:  porque
+[3404.08 - 3405.08]:  pues
+[3405.08 - 3406.08]:  la semana
+[3406.08 - 3407.08]:  pasada
+[3407.08 - 3408.08]:  estuvimos
+[3408.08 - 3409.08]:  en una
+[3409.08 - 3410.08]:  reunión
+[3410.08 - 3411.08]:  con
+[3411.08 - 3413.08]:  el ministerio
+[3413.08 - 3414.08]:  y me consta
+[3414.08 - 3415.08]:  que hay
+[3415.08 - 3416.08]:  lugares
+[3416.08 - 3417.08]:  donde están
+[3417.08 - 3418.08]:  pudiendo
+[3418.08 - 3419.08]:  solicitar
+[3419.08 - 3420.08]:  PIC
+[3420.08 - 3421.08]:  y formalizar
+[3421.08 - 3422.08]:  PIC
+[3422.08 - 3423.08]:  como con bastante
+[3423.08 - 3424.08]:  agilidad
+[3424.08 - 3425.08]:  eh
+[3425.08 - 3426.08]:  el centro
+[3426.08 - 3427.08]:  del CREADE
+[3427.08 - 3428.08]:  de Pozuelo
+[3428.08 - 3429.08]:  y
+[3429.08 - 3430.08]:  nos dijeron
+[3430.08 - 3431.08]:  que estaban
+[3431.08 - 3432.08]:  en conversaciones
+[3432.08 - 3433.08]:  con interior
+[3433.08 - 3434.08]:  para habilitar
+[3434.08 - 3435.08]:  otros espacios
+[3435.08 - 3436.08]:  la cosa
+[3436.08 - 3437.08]:  es
+[3437.08 - 3438.08]:  que
+[3438.08 - 3439.08]:  no hay personal
+[3439.08 - 3440.08]:  adecuado
+[3440.08 - 3442.08]:  en interior
+[3442.08 - 3443.08]:  que esté haciendo
+[3443.08 - 3444.08]:  entrevistas
+[3444.08 - 3445.08]:  con cierta
+[3445.08 - 3446.08]:  agilidad
+[3446.08 - 3447.08]:  con lo cual
+[3447.08 - 3448.08]:  hay unos tapones
+[3448.08 - 3449.08]:  en la mayoría
+[3449.08 - 3450.08]:  de las comisarias
+[3450.08 - 3451.08]:  de meses
+[3451.08 - 3452.08]:  e incluso
+[3452.08 - 3453.08]:  años
+[3453.08 - 3454.08]:  para poder
+[3454.08 - 3455.08]:  hacer una entrevista
+[3455.08 - 3456.08]:  eso
+[3456.08 - 3457.08]:  imposibilita
+[3457.08 - 3458.08]:  mogollón
+[3458.08 - 3459.08]:  de procesos
+[3459.08 - 3460.08]:  en protección
+[3460.08 - 3461.08]:  internacional
+[3461.08 - 3462.08]:  y es importante
+[3462.08 - 3463.08]:  que eso
+[3463.08 - 3464.08]:  cambie
+[3464.08 - 3465.08]:  si es verdad
+[3465.08 - 3466.08]:  que
+[3466.08 - 3467.08]:  hay
+[3467.08 - 3468.08]:  un
+[3468.08 - 3469.08]:  interés
+[3469.08 - 3470.08]:  en la
+[3470.08 - 3471.08]:  comunicación
+[3471.08 - 3472.08]:  con los
+[3472.08 - 3473.08]:  entidades
+[3473.08 - 3474.08]:  de la
+[3474.08 - 3475.08]:  comunidad
+[3475.08 - 3476.08]:  de la
+[3476.08 - 3477.08]:  comunidad
+[3477.08 - 3478.08]:  y
+[3478.08 - 3479.08]:  y
+[3479.08 - 3480.08]:  parece
+[3480.08 - 3481.08]:  que el
+[3481.08 - 3482.08]:  ministerio
+[3482.08 - 3483.08]:  está intentando
+[3483.08 - 3484.08]:  mover algo
+[3484.08 - 3485.08]:  pero
+[3485.08 - 3486.08]:  madre mía
+[3486.08 - 3487.08]:  en esa
+[3487.08 - 3488.08]:  misma
+[3488.08 - 3489.08]:  reunión
+[3489.08 - 3490.08]:  nos dijeron
+[3490.08 - 3491.08]:  que Andalucía
+[3491.08 - 3492.08]:  pintaba
+[3492.08 - 3493.08]:  la cosa
+[3493.08 - 3494.08]:  muy mal
+[3494.08 - 3495.08]:  porque ya habían intentado
+[3495.08 - 3496.08]:  con varias
+[3496.08 - 3497.08]:  provincias
+[3497.08 - 3498.08]:  y la provincia
+[3498.08 - 3499.08]:  de Cádiz
+[3499.08 - 3500.08]:  dijeron que estará la cosa muy complicado
+[3500.08 - 3501.08]:  o sea que
+[3501.08 - 3502.08]:  que
+[3502.08 - 3503.08]:  habría
+[3503.08 - 3504.08]:  la pequeña posibilidad
+[3504.08 - 3505.08]:  de Málaga
+[3505.08 - 3506.08]:  con una pequeña posibilidad
+[3506.08 - 3507.08]:  como remota
+[3507.08 - 3508.08]:  o sea que en principio
+[3508.08 - 3509.08]:  si quieren abrir
+[3509.08 - 3510.08]:  en el Cread de Málaga
+[3510.08 - 3511.08]:  os lo digo
+[3511.08 - 3512.08]:  pero está bien la cosa complicada
+[3512.08 - 3513.08]:  sí
+[3513.08 - 3514.08]:  sí
+[3514.08 - 3515.08]:  bueno
+[3515.08 - 3516.08]:  sobre todo
+[3516.08 - 3517.08]:  por un tema
+[3517.08 - 3518.08]:  y lo que
+[3518.08 - 3519.08]:  lo que comentáis
+[3519.08 - 3520.08]:  sobre
+[3520.08 - 3521.08]:  agilizar
+[3521.08 - 3522.08]:  la formalización
+[3522.08 - 3523.08]:  es sobre
+[3523.08 - 3524.08]:  a nosotros
+[3524.08 - 3525.08]:  nos dijeron
+[3525.08 - 3526.08]:  que era solo
+[3526.08 - 3527.08]:  para los malienses
+[3527.08 - 3528.08]:  porque al final
+[3528.08 - 3529.08]:  se les da directamente
+[3529.08 - 3530.08]:  protección subsidiaria
+[3530.08 - 3531.08]:  no
+[3531.08 - 3532.08]:  otros perfiles
+[3532.08 - 3533.08]:  también
+[3533.08 - 3534.08]:  vamos a ver
+[3534.08 - 3536.08]:  lo que están haciendo
+[3536.08 - 3537.08]:  ahora mismo
+[3537.08 - 3539.08]:  en el Cread de Pozuelo
+[3539.08 - 3540.08]:  es
+[3540.08 - 3541.08]:  toda la
+[3542.08 - 3544.08]:  todo el trámite
+[3544.08 - 3545.08]:  vale
+[3545.08 - 3548.08]:  lo agilizan
+[3549.08 - 3551.08]:  tenemos gente
+[3551.08 - 3552.08]:  que
+[3552.08 - 3553.08]:  subió
+[3553.08 - 3554.08]:  a acampamento
+[3556.08 - 3558.08]:  en enero
+[3558.08 - 3559.08]:  y ahora
+[3559.08 - 3560.08]:  los hemos acogido
+[3560.08 - 3561.08]:  de vuelta
+[3561.08 - 3562.08]:  y ya tienen
+[3562.08 - 3563.08]:  la formalización
+[3563.08 - 3564.08]:  hecha
+[3564.08 - 3565.08]:  vale
+[3565.08 - 3566.08]:  como en cuestión
+[3566.08 - 3567.08]:  de cinco meses
+[3567.08 - 3568.08]:  para mí
+[3568.08 - 3569.08]:  es verdad
+[3569.08 - 3570.08]:  es que ahora mismo
+[3570.08 - 3571.08]:  que te digo
+[3571.08 - 3572.08]:  como los
+[3572.08 - 3573.08]:  los paradigmas
+[3573.08 - 3574.08]:  se están transformando
+[3574.08 - 3575.08]:  y ahora mismo
+[3575.08 - 3576.08]:  el flujo que hay
+[3576.08 - 3577.08]:  que los creadores
+[3577.08 - 3578.08]:  están entretando
+[3578.08 - 3579.08]:  el 70%
+[3579.08 - 3580.08]:  de malienses
+[3580.08 - 3581.08]:  o sea que ahora mismo
+[3581.08 - 3582.08]:  es la
+[3582.08 - 3583.08]:  el gran
+[3583.08 - 3584.08]:  la gran nacionalidad
+[3584.08 - 3585.08]:  por excelencia
+[3585.08 - 3586.08]:  que está llegando ahora
+[3586.08 - 3587.08]:  a temas
+[3587.08 - 3588.08]:  de
+[3588.08 - 3589.08]:  de
+[3589.08 - 3596.12]:  de
+[3596.12 - 3597.08]:  Treintérieur
+[3597.08 - 3598.08]: bulgada
+[3598.08 - 3599.08]:  Netflix
+[3599.08 - 3600.08]:  ambas
+[3600.08 - 3601.08]:  небos
+[3601.08 - 3602.08]:  aplicado
+[3602.08 - 3603.08]:  para
+[3603.08 - 3604.08]:  focalizar
+[3604.08 - 3616.12]:  a
+[3616.12 - 3617.08]:  tiene
+[3617.08 - 3618.08]:  para
+[3618.08 - 3620.42]:  estamos hablando de la protección a la infancia en muchos casos,
+[3621.30 - 3624.00]:  si me gustaría pasar como al siguiente bloque,
+[3624.52 - 3625.82]:  teniendo en cuenta, porque yo sé,
+[3626.30 - 3628.10]:  y ya habéis dicho algunas cosas,
+[3628.84 - 3631.68]:  que, por ejemplo, decías, Nacho,
+[3632.22 - 3634.68]:  dentro de estas carencias que está habiendo la ayuda humanitaria,
+[3634.78 - 3637.70]:  al final está saliendo adelante muchos de los procesos,
+[3637.94 - 3639.42]:  gracias al encaje de bolillos que hacemos
+[3639.42 - 3641.50]:  desde las propias organizaciones sociales
+[3641.50 - 3644.58]:  para dar respuesta a ese acceso de derechos
+[3644.58 - 3645.90]:  de las personas migrantes.
+[3645.90 - 3648.76]:  Si nos gustaría saber qué estáis haciendo
+[3648.76 - 3650.24]:  en vuestras organizaciones,
+[3650.76 - 3652.98]:  sobre todo en territorio andaluz,
+[3653.48 - 3656.76]:  para que esos acompañamientos que se hacen a las personas
+[3656.76 - 3661.36]:  sean con un enfoque centrado en persona,
+[3661.62 - 3664.34]:  que facilite ese acceso a derechos,
+[3664.42 - 3666.18]:  ya sea sanitario...
+[3666.18 - 3669.74]:  ¿Qué estrategias tenéis internamente en vuestras organizaciones
+[3669.74 - 3673.18]:  para esos acompañamientos que estéis detectando
+[3673.18 - 3675.26]:  que funcionan y que dan...?
+[3675.26 - 3675.88]:  Ya habéis ido diciendo que no hay un acceso
+[3675.88 - 3676.50]:  a las comunidades,
+[3676.50 - 3680.52]:  pero no sé si queréis ampliar alguna otra.
+[3691.06 - 3694.72]:  A lo mejor como dos o tres aspectos que digáis.
+[3695.36 - 3696.88]:  Cuando hacemos esto del protocolo,
+[3697.64 - 3699.04]:  esto otro y esto otro,
+[3699.74 - 3700.74]:  más o menos,
+[3701.36 - 3703.40]:  teniendo en cuenta en el programa que nos encontramos
+[3703.40 - 3704.88]:  y con la población que acompañamos,
+[3704.88 - 3705.42]:  ¿no?
+[3705.88 - 3708.82]:  Pero así como algunos que identifiquéis
+[3708.82 - 3711.32]:  que pueden funcionar y se pueden compartir.
+[3711.92 - 3712.60]:  Cristina, perdona.
+[3714.80 - 3717.08]:  Nosotros nos hemos dado cuenta que ahora mismo
+[3717.08 - 3718.56]:  lo que más nos funcionaba,
+[3719.14 - 3722.28]:  y sobre todo con el tema de que han llegado muchas chicas
+[3722.28 - 3726.72]:  con sospecha de ser posibles víctimas de trata,
+[3727.32 - 3732.44]:  es establecer una vinculación cuanto antes.
+[3733.44 - 3735.34]:  Intentar hacernos con el vínculo
+[3735.34 - 3735.86]:  y con la confianza.
+[3735.88 - 3737.28]:  Y con la confianza de esa persona.
+[3738.08 - 3740.36]:  Entonces, de alguna forma hemos cambiado
+[3740.88 - 3743.66]:  nuestra forma de intervenir
+[3744.64 - 3745.80]:  a algo más cercano,
+[3745.80 - 3749.56]:  teniendo en cuenta que si el género de ese piso
+[3749.86 - 3751.52]:  era femenino, si eran mujeres,
+[3752.08 - 3754.64]:  que la educadora social fuera una mujer.
+[3756.60 - 3760.96]:  Después intentar que antes de hacerle la entrevista recién llegada,
+[3761.36 - 3764.26]:  hacer un primer acercamiento en el domicilio
+[3764.64 - 3765.66]:  por parte de la trabajadora social.
+[3765.88 - 3769.26]:  De un primer conocimiento,
+[3769.26 - 3773.02]:  un poquito más con un café, con un té,
+[3773.02 - 3774.92]:  de una manera más relajada.
+[3774.92 - 3781.08]:  Ir poco a poco y no ser a lo mejor tan institucional,
+[3781.08 - 3787.00]:  muchas veces en el establecimiento de objetivos rápidos.
+[3787.00 - 3790.58]:  Y bueno, nos ha costado un sobreesfuerzo,
+[3790.58 - 3793.22]:  porque lo es, es un sobreesfuerzo de tiempo.
+[3793.22 - 3795.88]:  Pero la verdad que nos ha servido mucho,
+[3795.88 - 3799.88]:  para vincular para que no haya tantas salidas
+[3799.88 - 3802.38]:  sospechosas a Francia,
+[3802.38 - 3806.46]:  para intentar asegurar un tiempo en el que,
+[3806.46 - 3808.90]:  bueno, en el que se han planteado, pues,
+[3808.90 - 3811.96]:  solicitar asilo, teniendo además razones de peso
+[3811.96 - 3817.06]:  para solicitarlo y para entender cuál era su situación.
+[3817.06 - 3822.26]:  En fin, parece que es una tontería,
+[3822.26 - 3823.88]:  o que es algo que se da por hecho,
+[3823.88 - 3825.12]:  pero luego es verdad que hay muchas cosas que se han hecho,
+[3825.12 - 3828.62]:  pero es verdad que hay muchas estrategias para relajar
+[3828.62 - 3831.50]:  esas imposiciones que vienen del programa
+[3831.50 - 3835.92]:  y que profesionalmente te hacen que muchas veces cojas el turbo
+[3835.92 - 3840.24]:  y para un poco el ritmo de crear un vínculo
+[3840.24 - 3843.92]:  y de establecer buenas prácticas.
+[3843.92 - 3847.92]:  Sí, muy interesante.
+[3847.92 - 3852.24]:  Porque además una cosa que yo estoy identificando mucho
+[3852.24 - 3853.12]:  en los cuestionarios, que es que, bueno,
+[3853.12 - 3854.12]:  es que hay una serie de cosas que se han hecho,
+[3854.12 - 3855.12]:  que se han hecho en el programa, que se han hecho en el programa,
+[3855.12 - 3860.60]: officiasmapot Philipi efficieno
+[3860.60 - 3862.08]: 公iesta 👥 y Simali�� Costa Autoparte
+[3862.08 - 3864.74]:  que le ha escutado en las respuestas exclu Såci šono
+[3864.74 - 3866.56]:  i şur notablemente.
+[3866.56 - 3869.04]:  Viera, örtenne, sagos sí virastas
+[3869.04 - 3870.36]:  k cruältar.
+[3870.36 - 3871.54]:  Y veam š polygon,
+[3871.54 - 3873.70]:  gu่a dačā redakanė tentativa
+[3873.70 - 3875.50]:  Iñ стрau e macabro,
+[3875.50 - 3876.96]:  igoraWow,
+[3876.96 - 3879.40]:  wcześniej en Masotto,
+[3879.40 - 3881.42]:  zay de B Biden o хотел Qu нравится Ac resurrected?
+[3881.42 - 3883.34]:  Señ forwards a Karim Ravid Atención Humanitaria?
+[3883.34 - 3884.28]:  Q Bene?
+[3885.12 - 3887.48]:  programa propio de trata
+[3887.48 - 3889.78]:  en mucho tiempo, no sé si de ahí
+[3889.78 - 3891.94]:  también tenéis algún tipo de práctica
+[3891.94 - 3893.64]:  protocolo, metodología
+[3893.64 - 3896.18]:  que se pueda
+[3896.18 - 3897.64]:  replicar porque en otras
+[3897.64 - 3899.08]:  organizaciones a lo mejor
+[3899.08 - 3901.96]:  llevan menos tiempo trabajando
+[3901.96 - 3903.14]:  con mujeres en
+[3903.14 - 3905.68]:  situación de trata pero que sí que están
+[3905.68 - 3907.68]:  llegando y que se está como empezando
+[3907.68 - 3908.30]:  a identificar
+[3908.30 - 3911.80]:  Lucía, que nosotros
+[3911.80 - 3913.90]:  no tenemos recursos de trata
+[3913.90 - 3915.52]:  y la cosa es que
+[3915.52 - 3916.92]:  te llega la gente
+[3916.92 - 3919.52]:  con ese perfil
+[3919.52 - 3921.58]:  porque no los derivan a un recurso
+[3921.58 - 3923.60]:  específico. Claro, por eso digo que
+[3923.60 - 3925.52]:  por ejemplo Cruz Blanca que sí que
+[3925.52 - 3927.48]:  tiene ese recurso
+[3927.48 - 3929.00]:  y tiene esa trayectoria
+[3929.00 - 3930.82]:  seguramente tengan
+[3930.82 - 3933.20]:  la suerte o hayan hecho por lo menos
+[3933.20 - 3935.30]:  ese primer acercamiento como entidad
+[3935.30 - 3937.90]:  de cuando llega la atención humanitaria
+[3937.90 - 3939.38]:  que se puede hacer
+[3939.38 - 3941.44]:  y que sería bueno que otras organizaciones
+[3941.44 - 3943.42]:  que claro, es que hay un escenario, me ha llamado
+[3943.42 - 3944.88]:  un poco la atención porque efectivamente
+[3944.88 - 3947.36]:  las organizaciones que trabajan
+[3947.36 - 3949.58]:  en ayuda humanitaria o en
+[3949.58 - 3951.04]:  protección internacional o lo que sea
+[3951.04 - 3953.00]:  no solemos ser expertas en trata
+[3953.00 - 3955.28]:  pero se está empezando, o sea, como que estamos
+[3955.28 - 3957.40]:  identificando que está llegando y muchas
+[3957.40 - 3959.20]:  veces no sabemos cómo actuar entonces
+[3959.20 - 3961.06]:  aprovechando que tenemos aquí
+[3961.06 - 3963.32]:  a una organización que sí que tiene esa mirada
+[3963.32 - 3964.98]:  por la experiencia que tienen años
+[3964.98 - 3967.40]:  si a lo mejor tenéis algún tipo de
+[3967.40 - 3969.42]:  Sí, pues
+[3969.42 - 3973.00]:  hablando de lo que me gustó antes
+[3973.00 - 3975.14]:  sobre las salidas y de la
+[3975.14 - 3976.90]:  carencia de un proyecto migratorio
+[3976.90 - 3978.96]:  definido y también la incapacidad del
+[3978.96 - 3980.78]:  sistema de dar respuesta
+[3980.78 - 3982.84]:  a hombres de esa estabilidad y demás
+[3982.84 - 3984.96]:  lo que estamos viendo es que es lo que hace
+[3984.96 - 3987.04]:  es exponer a las personas a mayor
+[3987.04 - 3989.16]:  vulnerabilidad, especialmente si tienes un perfil
+[3989.16 - 3991.12]:  pues yo que sé, mujer, joven, embarazada
+[3991.12 - 3992.50]:  o una necesidad económica
+[3992.50 - 3995.04]:  de tener que dar dinero a la familia que tienes
+[3995.04 - 3997.00]:  en tu país o bueno, pues todas las casualísticas
+[3997.00 - 3998.50]:  que podemos imaginarnos
+[3998.50 - 3999.98]:  que está incrementando
+[3999.98 - 4002.10]:  que haya
+[4003.00 - 4005.04]:  más redes de trata que se estén articulando
+[4005.04 - 4007.04]:  que se estén actualizando y que estén
+[4007.04 - 4009.16]:  adaptándose a los flujos
+[4009.16 - 4011.10]:  entonces sí que lo hemos podido detectar
+[4011.10 - 4012.24]:  y desde Cruz Blanca
+[4012.24 - 4015.04]:  así buenas prácticas que se me ocurra específicamente
+[4015.04 - 4017.02]:  en cuanto a la trata, pues aparte de que
+[4017.02 - 4018.94]:  es obligatorio para todas las personas
+[4018.94 - 4020.90]:  que comienzan a trabajar en Cruz Blanca
+[4020.90 - 4022.98]:  independientemente del programa para el que trabajen
+[4022.98 - 4024.92]:  hacer un curso específico sobre
+[4024.92 - 4026.58]:  trata, en
+[4026.58 - 4028.80]:  zonas muy concretas como por ejemplo en
+[4028.80 - 4030.76]:  Canarias, que es donde más llegadas se han
+[4030.76 - 4032.70]:  recibido, estamos en coordinación
+[4033.00 - 4035.20]:  directa con la UCRIF, que es el departamento
+[4035.20 - 4037.12]:  de la
+[4037.12 - 4038.70]:  Policía Nacional
+[4038.70 - 4040.50]:  o de la Guardia Civil, creo que la Policía Nacional
+[4040.50 - 4042.40]:  bueno tienen, la UCRIF es de uno
+[4042.40 - 4044.72]:  y el otro se llama UOC, no sé muy bien
+[4044.72 - 4046.84]:  a qué siglas pertenece cada uno
+[4046.84 - 4049.04]:  pero la cuestión es que estamos en coordinación directa
+[4049.04 - 4051.04]:  con las fuentes de los cuerpos de seguridad del Estado
+[4051.04 - 4053.46]:  para intentar que la detección en fronteras sea
+[4053.46 - 4055.46]:  lo más prematura posible
+[4055.46 - 4057.46]:  con el criterio de
+[4057.46 - 4059.46]:  de mínimos, es decir
+[4059.46 - 4061.46]:  antes de que se haya llegado a producir la explotación
+[4061.46 - 4062.96]:  siendo trata
+[4062.96 - 4064.96]:  un delito de intencionalidad con el mínimo
+[4064.96 - 4067.96]:  con la más mínima detección de un indicio
+[4067.96 - 4070.42]:  y normalmente esa detección previa de la UCRIF
+[4070.42 - 4073.16]:  cuando sucede facilita mucho las cosas porque
+[4073.16 - 4076.26]:  obliga o facilita que esas personas sean derivadas
+[4076.26 - 4078.58]:  directamente a recursos específicos de trata
+[4078.58 - 4080.58]:  que en el caso de Cruz Blanca tenemos
+[4080.58 - 4083.88]:  tres, Algeciras, Canarias y Córdoba
+[4083.88 - 4086.88]:  y luego dentro de Algeciras y Córdoba
+[4086.88 - 4089.88]:  por centrarme en Andalucía
+[4089.88 - 4091.20]:  aparte de
+[4091.20 - 4093.20]:  garantizar que todo el personal que trabaja en los recursos
+[4093.20 - 4095.20]:  tenga una formación básica de trata
+[4095.20 - 4097.20]:  luego existe un programa especializado
+[4097.20 - 4099.20]:  para trata en humanitaria
+[4099.20 - 4102.20]:  que se ciñe en las condiciones de humanitaria
+[4102.20 - 4104.20]:  abordar todos
+[4104.20 - 4106.20]:  las problemáticas que puede presentar
+[4106.20 - 4108.20]:  una presunta víctima de trata
+[4108.20 - 4110.20]:  y luego también hay una red de viviendas
+[4110.20 - 4112.20]:  en el programa de trata de Cruz Blanca
+[4112.20 - 4114.20]:  fuera de humanitaria
+[4114.20 - 4117.20]:  que podría dar respuesta a una posible estancia no autorizada
+[4117.20 - 4119.20]:  que no se pueda
+[4119.20 - 4121.20]:  que no se pueda
+[4121.20 - 4123.20]:  prorrogar
+[4123.20 - 4125.20]:  o que no pueda entrar en el SAPIT
+[4125.20 - 4128.20]:  y luego estaba pensando en la pregunta que has hecho principal
+[4128.20 - 4129.20]:  o sea la original
+[4129.20 - 4132.20]:  que era sobre las metodologías que funcionan
+[4132.20 - 4134.20]:  en acompañamiento
+[4134.20 - 4136.20]:  y bueno al ser yo de la parte de gestión
+[4136.20 - 4139.20]:  y no tanto de intervención
+[4139.20 - 4141.20]:  por dar un poco de pincelada sobre lo que nosotros desde SETI
+[4141.20 - 4143.20]:  intentamos hacer para facilitar
+[4143.20 - 4145.20]:  el programa de humanitaria en delegaciones
+[4145.20 - 4148.20]:  yo creo que nuestra función principal ha sido
+[4148.20 - 4150.20]:  y también me parece que es interesante ponerlo
+[4150.20 - 4152.20]:  si seguís haciendo el estudio de caso
+[4152.20 - 4156.20]:  la inconmensurable cantidad de instrucciones
+[4156.20 - 4159.20]:  que han modificado el manual de gestión de plazas
+[4159.20 - 4160.20]:  en los últimos meses
+[4160.20 - 4162.20]:  o sea no sería capaz de decir con los dedos
+[4162.20 - 4166.20]:  cuántos correos han modificado las instrucciones originales
+[4166.20 - 4168.20]:  no hay nada que haya
+[4168.20 - 4170.20]:  se haya quedado como estaba
+[4170.20 - 4173.20]:  y tampoco hay una instrucción que no haya sido remodificada
+[4173.20 - 4176.20]:  entonces nuestro trabajo ha sido principalmente
+[4176.20 - 4177.20]:  de filtro
+[4177.20 - 4179.20]:  de capacidad de resumen
+[4179.20 - 4182.20]:  y de traspasar la información de la forma más clara posible
+[4182.20 - 4184.20]:  para que las delegaciones puedan centrarse
+[4184.20 - 4186.20]:  en ese enfoque de persona que hablabais
+[4186.20 - 4187.20]:  intentar
+[4187.20 - 4189.20]:  nosotras hacer un poco de cortafuegos
+[4189.20 - 4193.20]:  y asumir el golpe de que el ministerio tuviera que hacer también
+[4193.20 - 4196.20]:  encaje de bolillos en un ejercicio de empatía
+[4196.20 - 4199.20]:  porque al final tanta gente es complicado gestionarla
+[4199.20 - 4203.20]:  entonces han tenido que abrir muchos campamentos
+[4203.20 - 4205.20]:  muchas nuevas plazas
+[4205.20 - 4206.20]:  y hacer muchos cambios
+[4206.20 - 4208.20]:  así que nuestra función ha sido principalmente eso
+[4208.20 - 4209.20]:  y facilitar con lo que me lo diga Nacho
+[4209.20 - 4211.20]:  que es mi compañero ahora
+[4211.20 - 4213.20]:  pero facilitar un poco la información
+[4213.20 - 4215.20]:  y hablar
+[4215.20 - 4217.20]:  y cada reunión que teníamos con el ministerio
+[4217.20 - 4220.20]:  aunque fuera por hablar de cosas nimias
+[4220.20 - 4224.20]:  aprovechar e intentar meter el tema de los menores
+[4224.20 - 4227.20]:  intentar meter el tema de protección internacional
+[4227.20 - 4231.20]:  y también intentar meter que nos están exigiendo
+[4231.20 - 4234.20]:  no sé si por eso que es en Andalucía coge también lo habréis oído así
+[4234.20 - 4237.20]:  pero mucha documentación de forma muy frecuente ¿no?
+[4237.20 - 4240.20]:  hay que mandar un excel sobre estancias no autorizadas
+[4240.20 - 4242.20]:  un excel sobre los ADN pendientes
+[4242.20 - 4244.20]:  un excel sobre los menores que tienes en el recurso
+[4244.20 - 4247.20]:  y eso también genera mucha carga de trabajo en los centros
+[4247.20 - 4251.20]:  que realmente entiendo que a ellos les permita llevar un registro
+[4251.20 - 4254.20]:  pero no aporta ese enfoque personal
+[4254.20 - 4256.20]:  entonces intentar encontrar un punto de equilibrio
+[4256.20 - 4258.20]:  entre que ellos lleven control
+[4258.20 - 4261.20]:  y el centro pueda centrarse en atender a las personas
+[4261.20 - 4266.20]:  así que nada, eso serían las cosas que yo creo que nos han funcionado a nosotras desde aquí
+[4267.20 - 4270.20]:  no sé si he contestado porque me enrollo muchísimo
+[4270.20 - 4272.20]:  si, si, super interesante
+[4272.20 - 4276.20]:  y a mi aquí me surgía un poco en esa facilitación
+[4276.20 - 4278.20]:  o sea en todo esto que decís de gestión
+[4278.20 - 4281.20]:  que es algo que yo creo que pasa en general
+[4281.20 - 4285.20]:  no sé si se está hablando o no desde el ministerio
+[4285.20 - 4289.20]:  si se daría o si facilitaría, o sea como pensando
+[4289.20 - 4293.20]:  que hubiera como una base de datos común en la ayuda humanitaria
+[4293.20 - 4295.20]:  en la que todo el mundo tuviera lo mismo
+[4295.20 - 4297.20]:  no puede tener que estar mandando cada una su propio excel
+[4297.20 - 4301.20]:  que se tiene que hacer o su propia base de datos o lo que sea
+[4301.20 - 4305.20]:  si esto sabéis si se está valorando desde el ministerio
+[4305.20 - 4308.20]:  para facilitar esa parte de volcado de datos
+[4308.20 - 4311.20]:  que seguramente les estijan al propio ministerio
+[4311.20 - 4314.20]:  desde Europa u otras organizaciones
+[4314.20 - 4317.20]:  pero a lo mejor con todo esto de transformación digital
+[4317.20 - 4319.20]:  que se supone que se ha invertido tanto
+[4319.20 - 4322.20]:  si sabéis si se está planteando algún tipo de...
+[4322.20 - 4325.20]:  a ver, es que realmente ya existe
+[4325.20 - 4327.20]:  esa base de datos, es Siria
+[4327.20 - 4331.20]:  el tema es por qué no se la utilidad
+[4331.20 - 4334.20]:  si se va a actualizar, quiero decir
+[4334.20 - 4336.20]:  bueno, a lo mejor es por una mala pregunta
+[4336.20 - 4342.20]:  si, si, hay una subvención de esa de resiliencia y demás
+[4342.20 - 4346.20]:  preveía un cambio de la aplicación
+[4346.20 - 4350.20]:  y como para principios del año que viene
+[4350.20 - 4354.20]:  que ya la han retrasado a principios del 26
+[4354.20 - 4359.20]:  entonces Siria la van actualizando
+[4359.20 - 4363.20]:  si es verdad que da cada vez más información
+[4363.20 - 4368.20]:  pero hay muchas entidades que no implementan adecuadamente Siria
+[4368.20 - 4374.20]:  entonces obligan a quien la tenemos actualizada
+[4374.20 - 4378.20]:  a que aportemos otro tipo de documentación
+[4378.20 - 4382.20]:  que cubra las carencias que no tienen
+[4382.20 - 4384.20]:  que tienen algunas entidades en Siria
+[4384.20 - 4386.20]:  ¿Alguna posibilidad?
+[4386.20 - 4388.20]:  Perdón
+[4388.20 - 4390.20]:  No, no, no, di todo lo que tú...
+[4390.20 - 4392.20]:  Sí, o sea que es que lo que dice Marimar
+[4392.20 - 4395.20]:  es realmente no solo lo que nos dicen desde el Ministerio
+[4395.20 - 4396.20]:  y por lo que hemos asistido
+[4396.20 - 4398.20]:  sino también yo creo que la realidad
+[4398.20 - 4402.20]:  pero si se aunasen esfuerzos en la supervisión de Siria
+[4402.20 - 4405.20]:  y no en generar una base paralela de datos
+[4405.20 - 4407.20]:  más informal como son Excel
+[4407.20 - 4409.20]:  que cada uno rellena o no
+[4409.20 - 4412.20]:  en base a lo que puede
+[4412.20 - 4414.20]:  porque a veces no se dan respuestas
+[4414.20 - 4416.20]:  ni siquiera los Excel que nos pide el Ministerio
+[4416.20 - 4419.20]:  pues a lo mejor sería más eficiente desde mi punto de vista
+[4421.20 - 4423.20]:  Claro, eso os iba a preguntar
+[4423.20 - 4425.20]:  si a lo mejor si desde el Ministerio
+[4425.20 - 4428.20]:  se puede hacer como una posible propuesta de
+[4428.20 - 4430.20]:  veamos dónde poner los esfuerzos
+[4430.20 - 4435.20]:  en vez de estar pidiendo tanta documentación diferente y demás
+[4435.20 - 4437.20]:  un poco por ahí
+[4437.20 - 4439.20]:  Por Instagram...
+[4439.20 - 4441.20]:  Y luego también
+[4441.20 - 4442.20]:  un último apunte
+[4442.20 - 4443.20]:  que esta base de datos
+[4443.20 - 4446.20]:  solo es de Humanitaria y de PI
+[4446.20 - 4448.20]:  pero por ejemplo
+[4448.20 - 4450.20]:  no se puede estaría...
+[4450.20 - 4453.20]:  Ah no, a lo mejor me estoy equivocando, dime
+[4453.20 - 4457.20]:  Sí, el CIPIA nació de hecho
+[4457.20 - 4462.20]:  para los programas global del Ministerio
+[4462.20 - 4466.20]:  que era un programa de empleo
+[4466.20 - 4470.20]:  y después cuando nació PI
+[4470.20 - 4472.20]:  lo incluye...
+[4473.20 - 4476.20]:  y la empezaron a utilizar
+[4476.20 - 4479.20]:  entonces es una aplicación
+[4479.20 - 4481.20]:  que aparte de que sea antigua
+[4481.20 - 4485.20]:  estaba diseñada para otro tipo de programa
+[4485.20 - 4489.20]:  con lo cual por eso hay tantas dificultades
+[4489.20 - 4492.20]:  tanto a la hora de subir datos
+[4492.20 - 4498.20]:  como de explotar los datos que tiene la base de datos
+[4498.20 - 4500.20]:  ¿vale?
+[4500.20 - 4501.20]:  Ajá
+[4501.20 - 4504.20]:  Yo las grandes dificultades que están teniendo
+[4504.20 - 4508.20]:  es ante una aplicación nueva
+[4508.20 - 4512.20]:  cómo sacamos esos datos
+[4512.20 - 4514.20]:  y los volcamos en la aplicación nueva
+[4514.20 - 4518.20]:  por lo visto no es algo tan fácil
+[4518.20 - 4520.20]:  No, no, no, no es algo fácil
+[4520.20 - 4522.20]:  Somos conscientes que no es algo fácil
+[4522.20 - 4527.20]:  Y es que hay millones de datos en la aplicación
+[4527.20 - 4529.20]:  Sí, total
+[4529.20 - 4530.20]:  ¿Vale?
+[4531.20 - 4539.20]:  Yo llevo cinco años gestionando el programa
+[4539.20 - 4544.20]:  y el programa ahora tiene una supervisión de Siria
+[4544.20 - 4547.20]:  que antes no existía
+[4547.20 - 4548.20]:  ¿Vale?
+[4548.20 - 4553.20]:  Que yo creo que el Ministerio
+[4553.20 - 4556.20]:  ha ido cambiando esa supervisión de Siria
+[4556.20 - 4559.20]:  y ahora es más intensa que antes
+[4559.20 - 4560.20]:  Pero...
+[4561.20 - 4563.20]:  quizá no es suficiente
+[4563.20 - 4565.20]:  Ajá
+[4565.20 - 4566.20]:  Ok
+[4566.20 - 4567.20]:  Vale
+[4567.20 - 4570.20]:  No sé si Laura querías decir...
+[4570.20 - 4571.20]:  ¿No?
+[4571.20 - 4572.20]:  Eh...
+[4572.20 - 4575.20]:  Porque yo por ir terminando entonces con este bloque
+[4575.20 - 4580.20]:  Bueno, no sé si sabéis que existe una estrategia andaluza
+[4580.20 - 4582.20]:  para la migración que terminaría...
+[4582.20 - 4583.20]:  Ay, perdona Tania
+[4583.20 - 4585.20]:  Si quieres dilo porque voy a cambiar de tema
+[4585.20 - 4587.20]:  Sí, antes de cambiar de tema
+[4587.20 - 4588.20]:  eh...
+[4588.20 - 4589.20]:  Quería preguntaros si os parece que...
+[4589.20 - 4595.20]:  como buena práctica el nuevo sistema de financiación
+[4595.20 - 4596.20]:  de atención humanitaria
+[4596.20 - 4598.20]:  que es la acción conceptada
+[4598.20 - 4601.20]:  Porque sí que es como algo nuevo
+[4601.20 - 4604.20]:  que llevamos pues eso
+[4604.20 - 4607.20]:  gestionando relativamente poco
+[4607.20 - 4612.20]:  y creo que en el estudio es importante
+[4612.20 - 4615.20]:  mencionarlo y destacar
+[4615.20 - 4617.20]:  porque al final es muy distinto
+[4617.20 - 4618.20]:  a lo que estábamos...
+[4618.20 - 4622.20]:  acostumbradas desde las entidades
+[4622.20 - 4623.20]:  Bien
+[4623.20 - 4624.20]:  A ver si...
+[4624.20 - 4625.20]:  Eh...
+[4625.20 - 4626.20]:  Yo tengo una opinión
+[4626.20 - 4627.20]:  pero...
+[4627.20 - 4628.20]:  un poco...
+[4628.20 - 4629.20]:  Eh...
+[4629.20 - 4630.20]:  Vamos a ver
+[4630.20 - 4632.20]:  La acción conceptada
+[4632.20 - 4635.20]:  ha traído más carga administrativa
+[4635.20 - 4637.20]:  la parte económica
+[4637.20 - 4642.20]:  la parte técnica tampoco es mucha la diferencia
+[4642.20 - 4643.20]:  Eh...
+[4643.20 - 4645.20]:  La acción conceptada
+[4645.20 - 4647.20]:  ha traído más carga administrativa
+[4647.20 - 4652.20]:  lo que creo que al final al sistema
+[4652.20 - 4653.20]:  le da más rigidez
+[4653.20 - 4654.20]:  en lugar de más flexibilidad
+[4654.20 - 4659.20]:  cuando se trabajaba con subvenciones
+[4659.20 - 4660.20]:  pues por ejemplo
+[4660.20 - 4663.20]:  en el caso de emergencia como estamos ahora
+[4663.20 - 4665.20]:  o que llevamos ya un año
+[4665.20 - 4666.20]:  ¿no?
+[4666.20 - 4667.20]:  Eh...
+[4667.20 - 4670.20]:  El Ministerio planteaba
+[4670.20 - 4672.20]:  vamos a ver hasta diciembre
+[4672.20 - 4674.20]:  qué es el presupuesto que tienes
+[4674.20 - 4676.20]:  mmm...
+[4676.20 - 4679.20]:  cuánto tiempo puedes aguantar
+[4679.20 - 4681.20]:  si aumentas las plazas
+[4681.20 - 4683.20]:  en 100 plazas más
+[4683.20 - 4684.20]:  y entonces
+[4684.20 - 4686.20]:  hacíamos un ajuste presupuestario
+[4686.20 - 4687.20]:  y decías
+[4687.20 - 4689.20]:  pues mira, llego hasta octubre
+[4689.20 - 4691.20]:  y decía pues abre las plazas
+[4691.20 - 4694.20]:  las 100 plazas hasta octubre
+[4694.20 - 4696.20]:  y en octubre te adelanto
+[4696.20 - 4698.20]:  la siguiente ejecución
+[4698.20 - 4700.20]:  que iba a empezar en enero
+[4701.20 - 4703.20]:  con lo cual le daba
+[4703.20 - 4705.20]:  mucha flexibilidad al sistema
+[4705.20 - 4706.20]:  de acogida
+[4706.20 - 4709.20]:  porque tú tienes ahora un pico
+[4709.20 - 4711.20]:  que tienes que cubrir esa llegada
+[4711.20 - 4714.20]:  y aumentaban las plazas
+[4714.20 - 4716.20]:  y cuando por ejemplo
+[4716.20 - 4718.20]:  no tenías llegadas
+[4718.20 - 4720.20]:  y tenías los recursos vacíos
+[4720.20 - 4722.20]:  y evidentemente llegaba diciembre
+[4722.20 - 4724.20]:  y a ti te sobraba dinero
+[4724.20 - 4726.20]:  pues te decía cuánto tiempo
+[4726.20 - 4728.20]:  puedes aguantar
+[4728.20 - 4729.20]:  eh...
+[4729.20 - 4730.20]:  extender
+[4730.20 - 4732.20]:  hasta febrero
+[4732.20 - 4734.20]:  pues terminas la extensión
+[4734.20 - 4737.20]:  terminas la ejecución en febrero
+[4737.20 - 4741.20]:  y la ejecución que ibas a empezar en enero
+[4741.20 - 4743.20]:  te la traslado a marzo
+[4743.20 - 4744.20]:  ¿vale?
+[4744.20 - 4746.20]:  y esa flexibilidad
+[4746.20 - 4748.20]:  con la acción concertada
+[4748.20 - 4750.20]:  ha desaparecido
+[4750.20 - 4752.20]:  ¿vale?
+[4755.20 - 4758.20]:  eso yo creo que es lo más significativo
+[4758.20 - 4761.20]:  porque el manual sigue siendo el mismo
+[4761.20 - 4763.20]:  con las variaciones que hemos tenido
+[4763.20 - 4765.20]:  pero ha sido el mismo
+[4765.20 - 4767.20]:  pues que en lugar de presentar una tablita
+[4767.20 - 4769.20]:  presentas otra en la memoria tampoco
+[4769.20 - 4771.20]:  o en la justificación periódica
+[4771.20 - 4773.20]:  tampoco es tan grave
+[4773.20 - 4775.20]:  lo que me parece más significativo
+[4775.20 - 4777.20]:  es lo otro
+[4777.20 - 4779.20]:  si yo
+[4779.20 - 4781.20]:  la verdad que por nuestra parte
+[4781.20 - 4783.20]:  estoy de acuerdo con lo que dice Marina
+[4783.20 - 4785.20]:  la experiencia de económicos
+[4785.20 - 4787.20]:  si que es que tienen más carga desde técnico
+[4787.20 - 4789.20]:  y
+[4789.20 - 4791.20]:  y
+[4791.20 - 4793.20]:  y
+[4793.20 - 4795.20]:  luego a lo mejor si que
+[4795.20 - 4797.20]:  por lo que es el concepto de atención humanitaria
+[4797.20 - 4799.20]:  que al final
+[4799.20 - 4801.20]:  no todos los programas de inclusión social
+[4801.20 - 4803.20]:  responden a una obligación de los estados
+[4803.20 - 4805.20]:  pero en atención humanitaria si
+[4805.20 - 4806.20]:  puede tener sentido
+[4806.20 - 4808.20]:  querer organizarlo como una acción concertada
+[4808.20 - 4809.20]:  que te garantice
+[4809.20 - 4811.20]:  o que te de un periodo de a largo plazo
+[4811.20 - 4813.20]:  de unos 5 años
+[4813.20 - 4815.20]:  y una cobertura específica con unos presupuestos específicos
+[4815.20 - 4817.20]:  con unas prestaciones concretas
+[4817.20 - 4818.20]:  entonces
+[4818.20 - 4820.20]:  para mi me parece que si que tiene sentido
+[4820.20 - 4821.20]:  y desde técnico
+[4821.20 - 4822.20]:  el impacto y el cambio
+[4822.20 - 4823.20]:  no es lo más grande
+[4823.20 - 4824.20]:  en económico
+[4824.20 - 4825.20]:  si que ha generado más
+[4825.20 - 4826.20]:  más carga de trabajo
+[4826.20 - 4829.20]:  pero por una cuestión de justificación
+[4831.20 - 4834.20]:  porque siguiendo un poco lo de esto
+[4834.20 - 4836.20]:  entiendo que al final una acción concertada
+[4836.20 - 4837.20]:  también
+[4837.20 - 4840.20]:  te da una sostenibilidad asegurada en 4 años
+[4840.20 - 4842.20]:  que a lo mejor desde subvención
+[4842.20 - 4844.20]:  no se tenía
+[4844.20 - 4846.20]:  entonces ese grado de incertidumbre
+[4846.20 - 4849.20]:  que te dan las convocatorias de subvención
+[4849.20 - 4852.20]:  que normalmente si que eran recurrentes
+[4852.20 - 4854.20]:  pero podía pasar que un año de repente
+[4854.20 - 4856.20]:  puedas desaparecernos y al final del concierto
+[4856.20 - 4858.20]:  entiendo
+[4858.20 - 4859.20]:  que te da esa sostenibilidad
+[4859.20 - 4860.20]:  que sabes que tienes 4 años
+[4860.20 - 4863.20]:  y en esos 4 años te da para también
+[4863.20 - 4865.20]:  generar una estrategia interna
+[4865.20 - 4866.20]:  de cómo hacer
+[4866.20 - 4868.20]:  es verdad que da más carga económica
+[4868.20 - 4869.20]:  porque es así
+[4869.20 - 4871.20]:  y de gestión
+[4871.20 - 4873.20]:  pero a lo mejor también nos da una capacidad
+[4873.20 - 4876.20]:  de hacer acompañamientos a largo plazo
+[4876.20 - 4878.20]:  o de tener esa mirada
+[4878.20 - 4880.20]:  que puede ser interesante
+[4880.20 - 4882.20]:  creo que era interesante ahí
+[4882.20 - 4884.20]:  por confirmar con vosotras
+[4884.20 - 4886.20]:  que cada una podemos tener también
+[4886.20 - 4888.20]:  como nuestras opciones
+[4888.20 - 4890.20]:  si si
+[4890.20 - 4892.20]:  en eso tiene toda la razón
+[4892.20 - 4894.20]:  también es cierto que es una tranquilidad
+[4894.20 - 4896.20]:  que nos da a vosotras
+[4896.20 - 4898.20]:  pero bueno que lo dicho esto al final es
+[4898.20 - 4901.20]:  cubrir por parte del tercer sector
+[4901.20 - 4903.20]:  una obligación y una responsabilidad
+[4903.20 - 4905.20]:  que no es pública
+[4905.20 - 4907.20]:  total
+[4907.20 - 4909.20]:  totalmente de acuerdo
+[4909.20 - 4911.20]:  pero bueno viendo eso
+[4911.20 - 4914.20]:  como vivimos en esta manera de funcionar
+[4914.20 - 4917.20]:  sí que es interesante saber si facilita o no facilita
+[4917.20 - 4919.20]:  los conciertos
+[4919.20 - 4922.20]:  a la hora de poder acompañar a las personas
+[4922.20 - 4924.20]:  y yo ahora
+[4924.20 - 4927.20]:  en vez de verlo en el marco más estatal
+[4927.20 - 4928.20]:  lo que os quería comentar
+[4928.20 - 4930.20]:  bueno en Andalucía
+[4930.20 - 4932.20]:  se ha hecho una estrategia andaluza
+[4932.20 - 4934.20]:  para la inclusión de las personas migrantes
+[4934.20 - 4936.20]:  en el que se supone además que hay
+[4936.20 - 4938.20]:  poros de inmigración
+[4938.20 - 4939.20]:  los...
+[4939.20 - 4940.20]:  ¿cómo se llaman?
+[4940.20 - 4941.20]:  FISI
+[4941.20 - 4942.20]:  creo que es
+[4942.20 - 4944.20]:  bueno es una estrategia que se supone
+[4944.20 - 4946.20]:  que termina en 2026
+[4946.20 - 4948.20]:  creo recordar
+[4948.20 - 4950.20]:  y uno de los objetivos que se plantea
+[4950.20 - 4953.20]:  en esta estrategia andaluza para la migración
+[4953.20 - 4956.20]:  que al ser estrategia sabemos que no es obligatoria
+[4956.20 - 4958.20]:  que es una declaración de intenciones
+[4958.20 - 4960.20]:  pero que bueno es verdad que leyéndola
+[4960.20 - 4962.20]:  los objetivos que se plantean
+[4962.20 - 4964.20]:  eran bastante interesantes
+[4964.20 - 4966.20]:  pero bueno eso es algo que no es obligatorio
+[4966.20 - 4968.20]:  yo después de la publicación
+[4968.20 - 4970.20]:  se suponía que este año tendrían que haber hecho
+[4970.20 - 4972.20]:  un seguimiento intermedio y no se ha hecho
+[4972.20 - 4974.20]:  en fin
+[4974.20 - 4976.20]:  pero bueno uno de los objetivos
+[4976.20 - 4978.20]:  de los ejes que tienen
+[4978.20 - 4980.20]:  dentro de esta estrategia
+[4980.20 - 4982.20]:  es tener una coordinación, conocimiento
+[4982.20 - 4985.20]:  y fortalecimiento institucional
+[4985.20 - 4987.20]:  asociativo de organizaciones
+[4987.20 - 4989.20]:  que representan a personas migrantes
+[4989.20 - 4992.20]:  o de organizaciones de personas migrantes
+[4992.20 - 4994.20]:  como que la administración pública
+[4994.20 - 4996.20]:  del territorio andaluz
+[4996.20 - 4998.20]:  se ha marcado en estrategia
+[4998.20 - 5000.20]:  un objetivo específico
+[5000.20 - 5002.20]:  en el que iba a ser un poder
+[5002.20 - 5004.20]:  para tener un acercamiento
+[5004.20 - 5006.20]:  a las organizaciones sociales
+[5006.20 - 5008.20]:  que están trabajando con el tema de migración
+[5008.20 - 5010.20]:  yo no he encontrado en la memoria de seguimiento
+[5010.20 - 5012.20]:  el conocimiento que nosotras tenemos
+[5012.20 - 5014.20]:  por las organizaciones que están dentro de nuestra federación
+[5014.20 - 5016.20]:  es que actualmente en Córdoba
+[5016.20 - 5018.20]:  creo que sí que está funcionando la mesa
+[5018.20 - 5020.20]:  y el foro pero que a nivel estatal
+[5020.20 - 5022.20]:  vaya a nivel estatal
+[5022.20 - 5024.20]:  a nivel autonómico
+[5024.20 - 5026.20]:  no está funcionando tanto
+[5026.20 - 5028.20]:  no sé si erais conocedoras
+[5028.20 - 5030.20]:  de esta estrategia
+[5030.20 - 5032.20]:  que además habla por ejemplo de
+[5032.20 - 5034.20]:  en el momento que se escribió
+[5034.20 - 5036.20]:  era cuando estaba empezando a sonar
+[5036.20 - 5038.20]:  que protección internacional se iba a derivar
+[5038.20 - 5040.20]:  a comunidades autónomas
+[5040.20 - 5042.20]:  entonces incluso tenía una estrategia
+[5042.20 - 5044.20]:  para ver cómo iba a ser esa derivación
+[5044.20 - 5046.20]:  y empezar a prepararla
+[5046.20 - 5048.20]:  junto con las organizaciones sociales
+[5048.20 - 5050.20]:  que es verdad que es protección internacional
+[5050.20 - 5052.20]:  una ayuda humanitaria
+[5052.20 - 5054.20]:  pero bueno al final sois organizaciones
+[5054.20 - 5056.20]:  que tenéis mucha presencia en vuestros territorios
+[5056.20 - 5058.20]:  y si esto está pasando
+[5058.20 - 5060.20]:  o no está pasando
+[5060.20 - 5062.20]:  en caso de que esté pasando
+[5062.20 - 5064.20]:  cómo está siendo esa
+[5064.20 - 5066.20]:  esa relación
+[5066.20 - 5068.20]:  y si se han creado esas mesas
+[5068.20 - 5070.20]:  de diálogo que plantean
+[5070.20 - 5072.20]:  desde la concejalía
+[5074.20 - 5076.20]:  no sé si conocíais o no
+[5078.20 - 5080.20]:  no
+[5080.20 - 5082.20]:  bueno pues que lo sepáis
+[5082.20 - 5084.20]:  en la comunidad autónoma de Andalucía
+[5084.20 - 5086.20]:  hay una estrategia andaluza para la inclusión
+[5086.20 - 5088.20]:  y uno de sus objetivos
+[5088.20 - 5090.20]:  además planteaban mesas de diálogo
+[5090.20 - 5092.20]:  con las organizaciones sociales
+[5092.20 - 5094.20]:  Lucía
+[5094.20 - 5096.20]:  si la conocía
+[5096.20 - 5098.20]:  pero
+[5098.20 - 5100.20]:  el foro
+[5100.20 - 5102.20]:  lleva paralizado un año
+[5102.20 - 5104.20]:  por momento
+[5104.20 - 5106.20]:  y había foros de trabajo
+[5106.20 - 5108.20]:  como
+[5108.20 - 5110.20]:  grupos del foro de trabajo
+[5110.20 - 5112.20]:  yo asistía
+[5112.20 - 5114.20]:  a la parte de asentamiento
+[5114.20 - 5116.20]:  que lleva sin convocarse
+[5116.20 - 5118.20]:  pues
+[5118.20 - 5120.20]:  como desde
+[5120.20 - 5122.20]:  las últimas elecciones
+[5122.20 - 5124.20]:  autonómicas
+[5124.20 - 5126.20]:  lo dejaron de convocar
+[5126.20 - 5128.20]:  entonces
+[5128.20 - 5130.20]:  que existe
+[5130.20 - 5132.20]:  quería confirmar esto
+[5132.20 - 5134.20]:  porque
+[5134.20 - 5136.20]:  estaba buscando información
+[5136.20 - 5138.20]:  hemos hablado con las organizaciones de nuestra federación
+[5138.20 - 5140.20]:  que están en territorio andaluz
+[5140.20 - 5142.20]:  en Córdoba sí que nos dicen que
+[5142.20 - 5144.20]:  pueden participar en algunas mesas
+[5144.20 - 5146.20]:  pero bueno también era por ver en el resto porque sí que me parecía
+[5146.20 - 5148.20]:  un objetivo muy interesante
+[5148.20 - 5150.20]:  por parte de la concejalía de ese acercamiento
+[5150.20 - 5152.20]:  hacia las organizaciones sociales
+[5152.20 - 5154.20]:  que acompañamos o a las propias
+[5154.20 - 5156.20]:  organizaciones de personas migrantes
+[5156.20 - 5158.20]:  para ver como se ha hecho desde el
+[5158.20 - 5160.20]:  ministerio con
+[5160.20 - 5162.20]:  atención humanitaria que se ha hecho un acercamiento
+[5162.20 - 5164.20]:  a las entidades que estáis trabajando
+[5164.20 - 5166.20]:  en el asentamiento
+[5166.20 - 5168.20]:  el foro andaluz de migraciones
+[5168.20 - 5170.20]:  te lo tendría que
+[5170.20 - 5172.20]:  confirmar pero
+[5172.20 - 5174.20]:  creo
+[5174.20 - 5176.20]:  que ha tenido una
+[5176.20 - 5178.20]:  última reunión
+[5178.20 - 5180.20]:  no hace mucho
+[5180.20 - 5182.20]:  pero que llevaba muchísimo tiempo
+[5182.20 - 5184.20]:  sin convocarse
+[5184.20 - 5186.20]:  que parece como que
+[5186.20 - 5188.20]:  lo están dejando enfriado
+[5188.20 - 5190.20]:  vale
+[5190.20 - 5192.20]:  Valera por si habéis tenido o habéis participado
+[5192.20 - 5194.20]:  en alguna se nos podéis contar un poco
+[5194.20 - 5196.20]:  como está siendo esa interlocución
+[5196.20 - 5198.20]:  es que
+[5198.20 - 5200.20]:  ahí no
+[5200.20 - 5202.20]:  no soy yo
+[5202.20 - 5204.20]:  la que va a las reuniones
+[5204.20 - 5206.20]:  es gente de
+[5206.20 - 5208.20]:  dirección
+[5208.20 - 5210.20]:  pero bueno que no está viendo
+[5210.20 - 5212.20]:  no entiendo
+[5212.20 - 5214.20]:  que el
+[5214.20 - 5216.20]:  que el
+[5216.20 - 5218.20]:  flujo de información
+[5218.20 - 5220.20]:  pues no siempre me llega
+[5220.20 - 5222.20]:  ok
+[5222.20 - 5224.20]:  vale
+[5224.20 - 5226.20]:  ee
+[5226.20 - 5228.20]:  y ya para ir terminando
+[5228.20 - 5230.20]:  que la verdad que
+[5230.20 - 5232.20]:  nos está viniendo bueno por lo menos
+[5232.20 - 5234.20]:  a mi todo lo que me estáis
+[5234.20 - 5236.20]:  explicando y ampliando información
+[5236.20 - 5238.20]:  es súper interesante
+[5238.20 - 5240.20]:  y viene muy bien para
+[5240.20 - 5242.20]:  todo lo que queremos analizar
+[5242.20 - 5244.20]:  ee
+[5244.20 - 5246.20]:  bueno ya hemos hablado como muchas cuestiones
+[5246.20 - 5248.20]:  de nuevas soluciones que se están dando
+[5248.20 - 5250.20]:  desde la audiencia humanitaria
+[5250.20 - 5252.20]:  como puede haber sido este acercamiento
+[5252.20 - 5254.20]:  del ministerio
+[5254.20 - 5256.20]:  a al equipo
+[5256.20 - 5258.20]:  profesional o a las organizaciones sociales
+[5258.20 - 5260.20]:  que estáis trabajando
+[5260.20 - 5262.20]:  pero no sé si también a lo mejor
+[5262.20 - 5264.20]:  bueno aparte de estas metodologías de acompañamiento
+[5264.20 - 5266.20]:  que lleváis varios ee
+[5266.20 - 5268.20]:  varios años haciendo
+[5268.20 - 5270.20]:  si os estáis planteando
+[5270.20 - 5272.20]:  con todo este cambio de
+[5272.20 - 5274.20]:  de flujos que está habiendo
+[5274.20 - 5276.20]:  que está habiendo un cambio de personas
+[5276.20 - 5278.20]:  que llegan están cambiando
+[5278.20 - 5280.20]:  también las maneras
+[5280.20 - 5282.20]:  como eran bueno habéis mencionado
+[5282.20 - 5284.20]:  hay como algunos cambios
+[5284.20 - 5286.20]:  de paradigma que se están
+[5286.20 - 5288.20]:  dando también en cuanto a las salidas
+[5288.20 - 5290.20]:  por la
+[5290.20 - 5292.20]:  demora que está habiendo en respuesta
+[5292.20 - 5294.20]:  ante las solicitudes
+[5294.20 - 5296.20]:  de las personas
+[5296.20 - 5298.20]:  ee si estáis
+[5298.20 - 5300.20]:  utilizando nuevas maneras
+[5300.20 - 5302.20]:  para que esa salida
+[5302.20 - 5304.20]:  en vez de que sea ahora que
+[5304.20 - 5306.20]:  lo estáis identificando este cambio
+[5306.20 - 5308.20]:  en vez de que sea que vayan a redes
+[5308.20 - 5310.20]:  sociales o familiares propias
+[5310.20 - 5312.20]:  en los que estáis identificando
+[5312.20 - 5314.20]:  que muchas veces luego se quedan en situación
+[5314.20 - 5316.20]:  ee de calle
+[5316.20 - 5318.20]:  si desde vuestras organizaciones estáis empezando a pensar
+[5318.20 - 5320.20]:  en cómo
+[5320.20 - 5322.20]:  poder prevenir ese tipo de situaciones
+[5322.20 - 5324.20]:  ee viendo que
+[5324.20 - 5326.20]:  la demora administrativa
+[5326.20 - 5328.20]:  en ese momento parece que no
+[5328.20 - 5330.20]:  se va a reducir
+[5330.20 - 5332.20]:  no sé si ya estáis barajando
+[5332.20 - 5334.20]:  dentro de vuestras organizaciones
+[5334.20 - 5336.20]:  algún tipo de estrategia para prevenir
+[5336.20 - 5338.20]:  esta situación
+[5338.20 - 5340.20]:  o si es muy nueva y
+[5340.20 - 5342.20]:  no os ha dado tiempo a identificarla
+[5342.20 - 5344.20]:  y ver cómo abordarla
+[5344.20 - 5346.20]:  y esto también puede pasar
+[5352.20 - 5354.20]:  ee adelante Nacho
+[5354.20 - 5356.20]:  yo es que
+[5356.20 - 5358.20]:  por lo menos en mi situación personal
+[5358.20 - 5360.20]:  ee ahora mismo
+[5360.20 - 5362.20]:  como creo que
+[5362.20 - 5364.20]:  es todo tan
+[5364.20 - 5366.20]:  polaco y se me sigue que
+[5366.20 - 5368.20]:  como decía Laura
+[5368.20 - 5370.20]:  ha habido tantos cambios de ahora sale
+[5370.20 - 5372.20]:  un mes, dos meses, tres a doce
+[5372.20 - 5374.20]:  ahora no sé cuánto que yo
+[5374.20 - 5376.20]:  no sabes si prepararte porque dentro de doce meses
+[5376.20 - 5378.20]:  van a salir o cuando vayan a
+[5378.20 - 5380.20]:  treer once meses y tres semanas te dicen que en vez de doce
+[5380.20 - 5382.20]:  meses va a tener dieciocho entonces
+[5382.20 - 5384.20]:  es verdad que es complicado muchas veces
+[5384.20 - 5386.20]:  ee el prepararte
+[5386.20 - 5388.20]:  y que es verdad que ahí
+[5388.20 - 5390.20]:  creo que es algo que también
+[5390.20 - 5392.20]:  por ejemplo se dijo en la reunión que comentó la compañera del
+[5392.20 - 5394.20]:  ministerio ee llega
+[5394.20 - 5396.20]:  un momento en que ahí no quieren tampoco
+[5396.20 - 5398.20]:  convertirse en un o no nos deberíamos
+[5398.20 - 5400.20]:  de convertirnos en servicios sociales
+[5400.20 - 5402.20]:  paralelos a al
+[5402.20 - 5404.20]:  servicios públicos o sea con lo cual si tú
+[5404.20 - 5406.20]:  reconoces a una persona con derechos y no
+[5406.20 - 5408.20]:  lo echas de España humanitario no se puede
+[5408.20 - 5410.20]:  convertir en un servicio social paralelo
+[5410.20 - 5412.20]:  para migrantes ee
+[5412.20 - 5414.20]:  aparte del servicio social
+[5414.20 - 5416.20]:  ee público de
+[5416.20 - 5418.20]:  España con lo cual ahí deberíamos
+[5418.20 - 5420.20]:  de empezar a caminar
+[5420.20 - 5422.20]:  de las manos y establecer
+[5422.20 - 5424.20]:  ee canales de
+[5424.20 - 5426.20]:  por privación porque es verdad que hay muchas personas
+[5426.20 - 5428.20]:  que entran en lo humanitario que sabemos que se van
+[5428.20 - 5430.20]:  a quedar en lo humanitario que sabemos que no son
+[5430.20 - 5432.20]:  necesarios laboralmente que
+[5432.20 - 5434.20]:  a lo mejor no van a entrar en protección internacional
+[5434.20 - 5436.20]:  pero que tú no los vas a echar de aquí con lo cual
+[5436.20 - 5438.20]:  ee debemos de empezar a
+[5438.20 - 5440.20]:  a preocuparnos por cómo
+[5440.20 - 5442.20]:  vamos a tener a aprender
+[5442.20 - 5444.20]:  ese gran número de de personas
+[5444.20 - 5446.20]:  con respecto a lo que estabas hablando
+[5446.20 - 5448.20]:  antes simplemente creo que debería ser
+[5448.20 - 5450.20]:  una buena práctica incluso
+[5450.20 - 5452.20]:  en los sitios donde estamos fomentando
+[5452.20 - 5454.20]:  nosotros no tenemos a nivel andaluz esa
+[5454.20 - 5456.20]:  mesa de migración nosotros tenemos a nivel local
+[5456.20 - 5458.20]:  cosa que nos ha ayudado mucho
+[5458.20 - 5460.20]:  en el tema como hablamos antes de sanidad
+[5460.20 - 5462.20]:  porque ahí participan centros
+[5462.20 - 5464.20]:  de salud participan ee
+[5464.20 - 5466.20]:  servicios sociales participamos otras entidades
+[5466.20 - 5468.20]:  que trabajamos con migrantes con lo cual
+[5468.20 - 5470.20]:  te ayuda que la gente conoce de primera mano
+[5470.20 - 5472.20]:  y sobre todo técnico a
+[5472.20 - 5474.20]:  técnico que se está haciendo como se
+[5474.20 - 5476.20]:  está haciendo que es lo que la entidad
+[5476.20 - 5478.20]:  va a hacer por ejemplo nosotros nos
+[5478.20 - 5480.20]:  convocaron cuando en el mes de diciembre pasamos de
+[5480.20 - 5482.20]:  seis plazas humanitarias a cuarenta y seis
+[5482.20 - 5484.20]:  que el ayuntamiento con tan colapso
+[5484.20 - 5486.20]:  en esas mesas con servicios
+[5486.20 - 5488.20]:  sociales hablamos de las posibilidades de
+[5488.20 - 5490.20]:  pues todo va a ser así le tuvimos que
+[5490.20 - 5492.20]:  explicar que conllevaba el programa
+[5492.20 - 5494.20]:  de atención humanitaria que no lo sabían
+[5494.20 - 5496.20]:  siquiera o sea ellos nada más que estaban viendo negros
+[5496.20 - 5498.20]:  por aquí tirados por las calles pero no sabían que
+[5498.20 - 5500.20]:  tienen ayuda de salida que tienen ayuda
+[5500.20 - 5502.20]:  que parece mentira pero
+[5502.20 - 5504.20]:  me imagino que muchos de los que
+[5504.20 - 5506.20]:  a por si quiso que le pregunte que humanitaria
+[5506.20 - 5508.20]:  que ni idea de que se atiende
+[5508.20 - 5510.20]:  entonces por eso digo con lo cual
+[5510.20 - 5512.20]:  es la que estamos ante un sistema
+[5512.20 - 5514.20]:  que no se quiere
+[5514.20 - 5516.20]:  cronificar
+[5516.20 - 5518.20]:  anteriormente no se cronificaba
+[5518.20 - 5520.20]:  no había grandes personas que era verdad que eran los casos
+[5520.20 - 5522.20]:  puntuales los que se terminaban cumpliendo
+[5522.20 - 5524.20]:  casi los que ocho meses que te daba
+[5524.20 - 5526.20]:  pero que es verdad que si seguimos como estamos
+[5526.20 - 5528.20]:  pues vamos a tener gente que van a tener las ayudas
+[5528.20 - 5530.20]:  que van a estar sin derecho de trabajo
+[5530.20 - 5532.20]:  que por lo visto lo que se ha escuchado en la
+[5532.20 - 5534.20]:  RAE y PUC o formación también con lo cual
+[5534.20 - 5536.20]:  casi empieza a desaparecer pero claro mientras
+[5536.20 - 5538.20]:  que se vayan a procedimientos PI tampoco van a poder
+[5538.20 - 5540.20]:  tener acceso a RAE
+[5540.20 - 5542.20]:  pero si está todavía en solicitud
+[5542.20 - 5544.20]:  tampoco vas a poder trabajar ni nada
+[5544.20 - 5546.20]:  entonces pues nos queda ahí un encaje de bolillo
+[5546.20 - 5548.20]:  curioso que
+[5548.20 - 5550.20]:  creo que a las entidades pues
+[5550.20 - 5552.20]:  creo que nos atarde mucho
+[5552.20 - 5554.20]:  de pies y manos porque ahora mismo se queda
+[5554.20 - 5556.20]:  en una situación de licuado administrativo que
+[5556.20 - 5558.20]:  va a ser difícil que podamos
+[5558.20 - 5560.20]:  a tener
+[5560.20 - 5562.20]:  con ciertas garantías de la persona
+[5564.20 - 5566.20]:  gracias Nacho
+[5566.20 - 5568.20]:  si quieres Cristina y luego Laura
+[5568.20 - 5570.20]:  que creo que había levantado antes
+[5572.20 - 5574.20]:  a ver esto ya lo hemos vivido
+[5574.20 - 5576.20]:  lo vivimos en el momento en el que los tiempos
+[5576.20 - 5578.20]:  de estancia se
+[5578.20 - 5580.20]:  fueron de un mes
+[5580.20 - 5582.20]:  fueron de quince días
+[5582.20 - 5584.20]:  y tuvimos que recurrir a
+[5584.20 - 5586.20]:  administraciones públicas y tuvimos que recurrir
+[5586.20 - 5588.20]:  a entidades que trabajan
+[5588.20 - 5590.20]:  con personas sin hogar
+[5590.20 - 5592.20]:  el problema es que como las competencias
+[5592.20 - 5594.20]:  unas son estatales otras son
+[5594.20 - 5596.20]:  autonómicas y otras locales
+[5596.20 - 5598.20]:  nadie se hace responsable
+[5598.20 - 5600.20]:  y eso lo hemos vivido con el Ayuntamiento de Sevilla
+[5600.20 - 5602.20]:  el albergue
+[5602.20 - 5604.20]:  no entiende que una persona migrante
+[5604.20 - 5606.20]:  es persona sin hogar y no atiende
+[5606.20 - 5608.20]:  a una persona
+[5608.20 - 5610.20]:  sin hogar migrante
+[5610.20 - 5612.20]:  porque no tiene cierta documentación
+[5612.20 - 5614.20]:  porque no
+[5614.20 - 5616.20]:  entonces aquí hay un problema también político
+[5616.20 - 5618.20]:  y de competencia
+[5618.20 - 5620.20]:  nosotros en lo que no
+[5620.20 - 5622.20]:  en lo que estuvo en nuestra mano
+[5622.20 - 5624.20]:  establecimos protocolos de colaboración
+[5624.20 - 5626.20]:  con por ejemplo con Nuevo Hogar de Tania
+[5626.20 - 5628.20]:  y traspasamos a incidencia
+[5628.20 - 5630.20]:  al equipo de incidencia
+[5630.20 - 5632.20]:  todos estos problemas
+[5632.20 - 5634.20]:  con la administración pública
+[5634.20 - 5636.20]:  pero claro llega un momento
+[5636.20 - 5638.20]:  en el que aunque tú intentes
+[5638.20 - 5640.20]:  poner estrategias
+[5640.20 - 5642.20]:  encima de la mesa
+[5642.20 - 5644.20]:  es que no depende
+[5644.20 - 5646.20]:  de ti
+[5646.20 - 5648.20]:  porque se mueven otras esferas
+[5652.20 - 5654.20]:  Sí, yo es que estoy de acuerdo
+[5654.20 - 5656.20]:  con Cristina
+[5656.20 - 5658.20]:  y con lo que ha dicho Nacho
+[5658.20 - 5660.20]:  me parece que la pregunta que nos hacéis
+[5660.20 - 5662.20]:  tiene sentido y es pertinente
+[5662.20 - 5664.20]:  pero también me parece que el foco no está
+[5664.20 - 5666.20]:  hasta dónde podemos llegar
+[5666.20 - 5668.20]:  qué estrategia nos podemos sacar del bolsillo de Doraemon
+[5668.20 - 5670.20]:  para hacer frente a una situación
+[5670.20 - 5672.20]:  que simplemente se queda grande
+[5672.20 - 5674.20]:  no puede, o sea esto es un problema de voluntades
+[5674.20 - 5676.20]:  es un conflicto de competencias
+[5676.20 - 5678.20]:  es a ver
+[5678.20 - 5680.20]:  cuántos posibles menores tengo que dejar
+[5680.20 - 5682.20]:  en la calle desde humanitaria
+[5682.20 - 5684.20]:  para que Fiscalía responda
+[5684.20 - 5686.20]:  a ver quién se va a hacer cargo
+[5686.20 - 5688.20]:  porque cuándo va a ser
+[5688.20 - 5690.20]:  la bota que colme el vaso
+[5690.20 - 5692.20]:  cuándo va a rebasar
+[5692.20 - 5694.20]:  esto tampoco, luego voy a intentar centrarlo
+[5694.20 - 5696.20]:  en estrategias concretas de los centros
+[5696.20 - 5698.20]:  pero hablando en términos generales
+[5698.20 - 5700.20]:  las entidades llegamos
+[5700.20 - 5702.20]:  a donde llegamos
+[5702.20 - 5704.20]:  y lo que yo creo que hay que hacer
+[5704.20 - 5706.20]:  es exigir respuestas estructurales
+[5706.20 - 5708.20]:  sabiendo por ejemplo que el pacto de la UE
+[5708.20 - 5710.20]:  de inmigración y así lo acaba de salir
+[5710.20 - 5712.20]:  no es un tema que esté fuera de la agenda
+[5712.20 - 5714.20]:  de absolutamente nadie
+[5714.20 - 5716.20]:  simplemente se tiene que visibilizar
+[5716.20 - 5718.20]:  y exigir y demandar las medidas
+[5718.20 - 5720.20]:  a los organismos a los que realmente
+[5720.20 - 5722.20]:  les corresponde porque realmente tienen
+[5722.20 - 5724.20]:  los recursos que no creo que seamos ya
+[5724.20 - 5726.20]:  las entidades sociales
+[5726.20 - 5728.20]:  y por nuestra parte y ante esta situación
+[5728.20 - 5730.20]:  como estrategias que creo que hemos implementado
+[5730.20 - 5732.20]:  o que podríamos implementar
+[5732.20 - 5734.20]:  dadas las condiciones de trabajo
+[5734.20 - 5736.20]:  bajo las que estamos
+[5736.20 - 5738.20]:  para mí lo más importante y lo que he visto
+[5738.20 - 5740.20]:  que hemos hecho en nuestros equipos
+[5740.20 - 5742.20]:  y que me parece de mayor valor es
+[5742.20 - 5744.20]:  dejar de
+[5744.20 - 5746.20]:  apagar fuegos aunque es lo que
+[5746.20 - 5748.20]:  exija la situación
+[5748.20 - 5750.20]:  empezar a seguir trabajando
+[5750.20 - 5752.20]:  teniendo a las personas
+[5752.20 - 5754.20]:  en el centro que no sea
+[5754.20 - 5756.20]:  trabajar un día y otro
+[5756.20 - 5758.20]:  y otro y otro sabiendo que
+[5758.20 - 5760.20]:  las situaciones en las que se encuentran
+[5760.20 - 5762.20]:  las personas les están exponiendo a mayor
+[5762.20 - 5764.20]:  grado de vulnerabilidad porque la cobertura
+[5764.20 - 5766.20]:  y los recursos son carentes
+[5766.20 - 5768.20]:  y además escasos
+[5768.20 - 5770.20]:  darles toda la información que cuenten
+[5770.20 - 5772.20]:  con toda la información en todos los sentidos
+[5772.20 - 5774.20]:  que es protección internacional que es asilo
+[5774.20 - 5776.20]:  que pasa si lo pides aquí cuánto tiempo
+[5776.20 - 5778.20]:  de espera que es la explotación
+[5778.20 - 5780.20]:  laboral que es una red de trata
+[5780.20 - 5782.20]:  cuáles son los riesgos quién te va a ayudar
+[5782.20 - 5784.20]:  por qué te va a ayudar dotar de
+[5784.20 - 5786.20]:  toda la información completa a
+[5786.20 - 5788.20]:  las personas es lo único que
+[5788.20 - 5790.20]:  creo que puede llegar a salvaguardar
+[5790.20 - 5792.20]:  y a protegerlas
+[5792.20 - 5794.20]:  de una situación de mayor vulnerabilidad
+[5794.20 - 5796.20]:  a nivel estrategia
+[5796.20 - 5798.20]:  interna dentro de las entidades pero ya
+[5798.20 - 5800.20]:  te digo que creo que
+[5800.20 - 5802.20]:  si esta es la situación y si se ha llegado a
+[5802.20 - 5804.20]:  este punto la respuesta
+[5804.20 - 5806.20]:  y la capacidad de respuesta ya no
+[5806.20 - 5808.20]:  nos corresponde
+[5808.20 - 5810.20]:  Total muchísimas gracias
+[5810.20 - 5812.20]:  total muchísimas gracias
+[5812.20 - 5814.20]:  Sanda
+[5816.20 - 5818.20]:  Hola
+[5818.20 - 5820.20]:  Claro es que todo este tipo de problemas
+[5820.20 - 5822.20]:  al final lo estamos teniendo casi todas las
+[5822.20 - 5824.20]:  asociaciones yo creo porque
+[5824.20 - 5826.20]:  aquí también
+[5826.20 - 5828.20]:  tenemos muchísimos problemas con fiscalías menores
+[5828.20 - 5830.20]:  con el empadronamiento
+[5830.20 - 5832.20]:  con las solicitudes de protección internacional
+[5832.20 - 5834.20]:  está siendo imposible desde
+[5834.20 - 5836.20]:  diciembre no podemos
+[5836.20 - 5838.20]:  dar ningún tipo de
+[5838.20 - 5840.20]:  cita para hacer una manifestación
+[5840.20 - 5842.20]:  entonces pues nos estamos replanteando
+[5842.20 - 5844.20]:  pues que las personas vayan a otras
+[5844.20 - 5846.20]:  ciudades para poder referir a su derecho
+[5846.20 - 5848.20]:  de pedir protección internacional
+[5848.20 - 5850.20]:  en el caso de las personas que se quedan
+[5850.20 - 5852.20]:  en situación de calle pues también colaboración
+[5852.20 - 5854.20]:  con otras asociaciones con
+[5854.20 - 5856.20]:  las asociaciones de autoridades con el Bacofe
+[5856.20 - 5858.20]:  Caritas pero igualmente no hay suficientes plazas
+[5858.20 - 5860.20]:  entonces aquí también
+[5860.20 - 5862.20]:  una cosa que
+[5862.20 - 5864.20]:  hemos intentado pues trabajar mucho desde
+[5864.20 - 5866.20]:  el equipo es la frustración
+[5866.20 - 5868.20]:  y el
+[5868.20 - 5870.20]:  aprender a que muchas veces llegamos
+[5870.20 - 5872.20]:  hasta donde llegamos y si no podemos llegar
+[5872.20 - 5874.20]:  más es que no es que
+[5874.20 - 5876.20]:  es una situación que no entra dentro de nuestras
+[5876.20 - 5878.20]:  capacidades que dentro de todo lo que tenemos
+[5878.20 - 5880.20]:  pues vamos a dar todo lo que podamos
+[5880.20 - 5882.20]:  efectivamente pero muchas veces
+[5882.20 - 5884.20]:  la frustración no claro
+[5884.20 - 5886.20]:  y también que el perfil
+[5886.20 - 5888.20]:  humanitaria va cambiando y también
+[5888.20 - 5890.20]:  vamos teniendo que adaptarnos
+[5890.20 - 5892.20]:  continuamente aquí en Córdoba
+[5892.20 - 5894.20]:  tenemos muchísimos casos también de personas
+[5894.20 - 5896.20]:  con múltiples vulnerabilidades
+[5896.20 - 5898.20]:  entonces tenemos que ir
+[5900.20 - 5902.20]:  mirando nuevas soluciones mirando nuevas
+[5902.20 - 5904.20]:  metodologías por ejemplo
+[5904.20 - 5906.20]:  hacer las entrevistas pues si era mujer
+[5906.20 - 5908.20]:  la hacía solamente yo ya cuando empezamos
+[5908.20 - 5910.20]:  a detectar muchas veces
+[5910.20 - 5912.20]:  pues que se
+[5912.20 - 5914.20]:  era algo recurrente mujer víctima
+[5914.20 - 5916.20]:  de violencia de género, matrimonio forzoso, posible
+[5916.20 - 5918.20]:  víctima de trata, mutilación genital
+[5918.20 - 5920.20]:  la psicóloga de la Antigua que es
+[5920.20 - 5922.20]:  la referente de violencia de género
+[5922.20 - 5924.20]:  y de trata de la asociación pues ya empezó
+[5924.20 - 5926.20]:  a hacer las entrevistas conmigo porque
+[5926.20 - 5928.20]:  muchas veces pues las mujeres se asustan
+[5928.20 - 5930.20]:  con la palabra psicóloga o no
+[5930.20 - 5932.20]:  entienden cuál es la figura entonces
+[5932.20 - 5934.20]:  ya le está poniendo cara ya
+[5934.20 - 5936.20]:  sabe cuáles son sus funciones
+[5936.20 - 5938.20]:  y se hace una entrevista en profundidad
+[5938.20 - 5940.20]:  donde se pueden resolver todas las posibles
+[5940.20 - 5942.20]:  dudas aprovechando también
+[5942.20 - 5944.20]:  el intérprete que eso es un fábrica también
+[5944.20 - 5946.20]:  ya que tenemos en todas las situaciones
+[5946.20 - 5948.20]:  evidentemente de la barrera lingüística
+[5948.20 - 5950.20]:  y entonces
+[5950.20 - 5952.20]:  intentamos evitar la máxima incertidumbre
+[5952.20 - 5954.20]:  posible
+[5954.20 - 5956.20]:  le explicamos también
+[5956.20 - 5958.20]:  el protocolo de ginecología
+[5958.20 - 5960.20]:  porque todas las mujeres que están aquí
+[5960.20 - 5962.20]:  a partir de 15 días, 10 días
+[5962.20 - 5964.20]:  pues también aparte del protocolo sanitario
+[5964.20 - 5966.20]:  de enfermedades infectocontagiosas
+[5966.20 - 5968.20]:  también asisten a la ginecología
+[5968.20 - 5970.20]:  y sobre
+[5970.20 - 5972.20]:  el posible víctima de trata
+[5972.20 - 5974.20]:  pues
+[5974.20 - 5976.20]:  también un problema que tenemos es el tiempo
+[5976.20 - 5978.20]:  muchas veces o que tenemos muy poco
+[5978.20 - 5980.20]:  tiempo o abandonos entonces
+[5980.20 - 5982.20]:  también lo que solemos hacer es
+[5982.20 - 5984.20]:  lo que hemos hecho en la compañera
+[5984.20 - 5986.20]:  talleres, comunicación
+[5986.20 - 5988.20]:  que vean nosotros que son unas personas
+[5988.20 - 5990.20]:  con confianza a las que poder
+[5990.20 - 5992.20]:  dialogar si tienen cualquier tipo
+[5992.20 - 5994.20]:  de problema, orientación
+[5994.20 - 5996.20]:  le proporcionamos toda la información posible
+[5996.20 - 5998.20]:  y si la persona pues
+[5998.20 - 6000.20]:  aún así con toda la información decide irse
+[6000.20 - 6002.20]:  que sepa a donde puede acudir
+[6002.20 - 6004.20]:  en búsqueda de ayuda
+[6004.20 - 6006.20]:  para eso es muy importante
+[6008.20 - 6010.20]:  la verdad que sí
+[6012.20 - 6014.20]:  nada yo no sé si Tania tú tienes
+[6014.20 - 6016.20]:  alguna otra pregunta me voy a ir
+[6016.20 - 6018.20]:  con bastantes ideas porque yo sé que esto
+[6018.20 - 6020.20]:  podría seguir y seguir y seguir porque no vamos a
+[6020.20 - 6022.20]:  hablar del tema de los intérpretes
+[6022.20 - 6024.20]:  y las intérpretes que eso es otro
+[6024.20 - 6026.20]:  melón que se podría haber abierto
+[6026.20 - 6028.20]:  se podría seguir investigando o sea
+[6028.20 - 6030.20]:  podríamos seguir hablando con todo el tema de menores de edad
+[6030.20 - 6032.20]:  la salud mental
+[6032.20 - 6034.20]:  eso te iba a decir salud mental
+[6034.20 - 6036.20]:  LGTBI
+[6036.20 - 6038.20]:  víctimas, violencia, unido
+[6038.20 - 6040.20]:  a si quieres también ya discapacidad
+[6040.20 - 6042.20]:  bueno es verdad que es un programa
+[6042.20 - 6044.20]:  que muy amplio
+[6044.20 - 6046.20]:  y con muchas cosas que tratar
+[6046.20 - 6048.20]:  hemos priorizado aspectos
+[6048.20 - 6050.20]:  a lo mejor más generales
+[6050.20 - 6052.20]:  pero bueno sí que nos da yo creo
+[6052.20 - 6054.20]:  que pistas para ir
+[6054.20 - 6056.20]:  validando también las preguntas
+[6056.20 - 6058.20]:  que nos van respondiendo en el cuestionario
+[6058.20 - 6060.20]:  que si tenéis compis que tengan una atención humanitaria
+[6060.20 - 6062.20]:  aprovecho
+[6062.20 - 6064.20]:  para bueno si se lo queréis compartir
+[6064.20 - 6066.20]:  y demás yo sé que vuestras organizaciones
+[6066.20 - 6068.20]:  ya han respondido bastante porque
+[6068.20 - 6070.20]:  al final vas viendo
+[6070.20 - 6072.20]:  pero bueno que seguimos invitando
+[6072.20 - 6074.20]:  a participar en los
+[6074.20 - 6076.20]:  cuestionarios y nada con nuestra parte
+[6076.20 - 6078.20]:  espero vamos yo por mi parte
+[6078.20 - 6080.20]:  inmensamente que hayáis sacado estas dos horas
+[6080.20 - 6082.20]:  sabiendo
+[6082.20 - 6084.20]:  bueno pues como vamos todos los días
+[6084.20 - 6086.20]:  con las cargas que vamos
+[6086.20 - 6088.20]:  esperemos que luego este caso de estudio
+[6088.20 - 6090.20]:  tengamos unas propuestas
+[6090.20 - 6092.20]:  o podamos hacerlo llegar
+[6092.20 - 6094.20]:  a espacios que
+[6094.20 - 6096.20]:  sirvan para que los garantes de
+[6096.20 - 6098.20]:  obligaciones puedan
+[6098.20 - 6100.20]:  coger las propuestas
+[6100.20 - 6102.20]:  y por nuestra parte nada
+[6102.20 - 6104.20]:  agradeceros muchísimo la participación
+[6104.20 - 6106.20]:  de hoy la verdad
+[6106.20 - 6108.20]:  muchas gracias
+[6108.20 - 6110.20]:  muchas gracias
+[6114.20 - 6116.20]:  yo es que me quedo con una cosa
+[6116.20 - 6118.20]:  que recibo es dar información a las
+[6118.20 - 6120.20]:  personas para que al final
+[6120.20 - 6122.20]:  sepan un poco
+[6122.20 - 6124.20]:  cómo y dónde que les puede
+[6124.20 - 6126.20]:  pasar y
+[6126.20 - 6128.20]:  creo que al final sí que es un programa
+[6128.20 - 6130.20]:  que se
+[6130.20 - 6132.20]:  puede definir como una buena práctica
+[6132.20 - 6134.20]:  a nivel europeo
+[6134.20 - 6136.20]:  con sus carencias y con su
+[6136.20 - 6138.20]:  virtudes
+[6138.20 - 6140.20]:  cositas como todas
+[6140.20 - 6142.20]:  pero bueno que al final
+[6142.20 - 6144.20]:  gracias a vosotras
+[6144.20 - 6146.20]:  a todos los equipos
+[6146.20 - 6148.20]:  de las organizaciones
+[6148.20 - 6150.20]:  del tercer sector al final
+[6150.20 - 6152.20]:  pues creo que
+[6152.20 - 6154.20]:  se da la mejor
+[6154.20 - 6156.20]:  o la manera que se
+[6156.20 - 6158.20]:  pueda la acogida a las personas
+[6158.20 - 6160.20]:  que llegan después de un viaje
+[6160.20 - 6162.20]:  súper traumático
+[6162.20 - 6164.20]:  y
+[6164.20 - 6166.20]:  muy difícil y
+[6166.20 - 6168.20]:  que al final llegar no significa
+[6168.20 - 6170.20]:  que ya has acabado tu proceso
+[6170.20 - 6172.20]:  migratorio sino que seguimos
+[6172.20 - 6174.20]:  se sigue con el proceso
+[6174.20 - 6176.20]:  y sigue habiendo pues
+[6176.20 - 6178.20]:  un camino bastante difícil para conseguir
+[6178.20 - 6180.20]:  esa inclusión
+[6180.20 - 6182.20]:  así que mil millones de gracias
+[6182.20 - 6184.20]:  a todas vosotras y a
+[6184.20 - 6186.20]:  y a todos
+[6186.20 - 6188.20]:  vosotros también
+[6188.20 - 6190.20]:  nada esperamos que nos
+[6190.20 - 6192.20]:  encontremos en otros espacios
+[6192.20 - 6194.20]:  si gracias a vosotras
+[6194.20 - 6196.20]:  un placer
+[6196.20 - 6198.20]:  un buen día
+[6198.20 - 6200.20]:  hasta luego
