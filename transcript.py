@@ -2,7 +2,7 @@ import whisper
 from pydub import AudioSegment
 
 # Convert mp3 to wav using pydub
-audio = AudioSegment.from_file("./files/cordoba.mp3")
+audio = AudioSegment.from_file("./files/source/cordoba.mp3")
 audio.export("./files/wav/cordoba.wav", format="wav")
 
 # Load the Whisper model
