@@ -1,0 +1,181 @@
+[0.00 - 3.40]:  Hola Daniela, buenos días. ¿Qué tal?
+[4.12 - 5.88]:  Buenos días, muy bien. ¿Y tú?
+[6.22 - 7.38]:  Muy bien también, gracias.
+[8.14 - 9.82]:  Bueno, vamos a empezar con la charla.
+[10.00 - 14.60]:  En primer lugar, quería preguntarte si estás de acuerdo con participar en la charla y en el estudio.
+[15.38 - 16.98]:  Estoy totalmente de acuerdo.
+[17.54 - 19.72]:  ¿Y estás de acuerdo con que sea grabada esta conversación?
+[20.40 - 21.48]:  Totalmente de acuerdo.
+[22.02 - 25.54]:  Genial. ¿Se te han explicado los objetivos del estudio?
+[26.04 - 26.44]:  Sí.
+[27.06 - 27.92]:  ¿Y lo has entendido?
+[27.92 - 29.92]:  A la perfección.
+[30.74 - 36.00]:  Genial. Pues bueno, Daniela, primero quería saber cuándo y cómo llegaste a España.
+[36.96 - 40.92]:  Bueno, yo llegué en el año 2022, en febrero.
+[41.56 - 46.44]:  ¿Cómo llegué? Pues llegué porque fue una decisión personal.
+[47.76 - 56.10]:  Quería cambiar de rumbo, quería cambiar, darle otro estilo de vida a mi vida
+[56.10 - 59.08]:  y tomé la decisión de venir a España.
+[60.68 - 63.96]:  Perfecto. ¿Y Andalucía fue en ese mismo momento o fue más adelante?
+[64.90 - 67.50]:  Llegué directamente a Córdoba, Andalucía.
+[67.50 - 74.94]:  Genial. Y, ¿aquí llegaste sola o viniste a España sola o viniste acompañada?
+[74.94 - 80.46]:  Bueno, al viaje lo hice sola, pero había alguien que me estaba esperando.
+[80.46 - 88.66]:  Vale. Bueno, tú ya llevas mucho tiempo aquí, así que te voy a ir preguntando y tú ve contándome
+[88.66 - 88.84]:  como quieras.
+[88.84 - 98.80]:  como quieras contarme, ¿vale? Quería saber a qué entidades o a qué organismos, piensa tanto en organismos públicos como privados, entidades como esta,
+[99.46 - 107.60]:  ha acudido en tu estancia aquí en Andalucía y qué servicios ha solicitado en estos organismos o en estas entidades.
+[107.60 - 118.82]:  Bueno, he acudido a varios. Principalmente he venido a Córdoba Coge, que me han ayudado muchísimo.
+[120.06 - 136.30]:  He ido a Cruz Blanca, he ido a Cruz Roja, a MZC, he ido a una en Sevilla que se llama Hogar Betania.
+[137.60 - 141.32]:  Pues no creo que me escape otra, no.
+[142.52 - 147.44]:  Vale. ¿Y qué tipo de servicio ha solicitado en estas entidades?
+[148.22 - 161.32]:  Bueno, he solicitado orientación laboral, de formación, ayudas, porque he estado en momentos difíciles.
+[162.32 - 167.32]:  De documentación también he solicitado que me orienten, que me expliquen.
+[167.60 - 169.52]:  Y ya está.
+[170.54 - 175.88]:  Vale. ¿Y otros organismos tipo sanitario, jurídico?
+[177.20 - 188.12]:  Sí, sí. En estas entidades me han ayudado a lo de las tarjetas sanitarias, a sacar una cita, cómo sacarla, me han explicado todo.
+[188.12 - 196.58]:  Y en jurídicos también he tenido cita con la abogada, donde le he hecho preguntas, inquietudes.
+[197.02 - 197.58]:  Ella me ha explicado.
+[197.60 - 204.70]:  Me ha explicado todo muy bien, el proceso de documentación, qué debo de hacer, qué no debo de hacer.
+[205.50 - 209.02]:  Todo me lo ha explicado muy bien. Entonces, sí, sí.
+[210.04 - 221.78]:  Vale. En relación a demandas de ayudas más específicas, ¿ha recibido acceso a alimentación, ayudas de vivienda desde que llegaste aquí a Andalucía?
+[222.38 - 227.58]:  Bueno, en este tipo de ayudas sí he solicitado y me han ayudado con la ayuda.
+[227.58 - 234.28]:  Yo he solicitado ayudas de alimento, porque en este momento estoy con una niña, con mi niña de ocho años.
+[234.98 - 244.62]:  Entonces, en este momento estoy en situación de desempleada y he solicitado ayudas de alimentos y me la han brindado.
+[245.84 - 247.90]:  No en todas, pero sí en algunas.
+[248.54 - 248.58]:  Perfecto.
+[248.58 - 249.48]:  Perfecto.
+[249.76 - 256.58]:  En relación al ámbito sanitario que antes te preguntaba, me comentabas que te han orientado con la tarjeta,
+[257.58 - 265.80]:  el acceso. ¿Qué tal ha sido la atención? Bueno, primero el acceso en sí a estas instalaciones sanitarias en Andalucía
+[265.80 - 269.20]:  y la atención en estas instalaciones sanitarias en Andalucía.
+[270.14 - 271.28]:  Bueno, en realidad…
+[271.28 - 276.38]:  Ya en concreto en los centros de salud, en los hospitales, no tanto aquí en la mediación, sino allí la atención.
+[277.04 - 284.88]:  Exactamente, sí. Como vengo de un país latino, la diferencia se nota mucho. ¿Por qué?
+[284.88 - 286.88]:  Porque, a ver, allí…
+[287.58 - 295.38]:  Sí, es muy demorado, muy… Se tardan mucho en las citas, en los especialistas, en fin.
+[295.38 - 308.78]:  Acá me ha parecido genial. Las instalaciones de los centros de salud muy bien, los profesionales muy bien, la atención muy bien.
+[308.78 - 310.78]:  Todo me ha parecido genial.
+[310.78 - 316.94]:  Genial. Al margen de atención primaria, ¿has recibido atención específica?
+[316.94 - 317.42]:  Sí.
+[317.42 - 319.42]:  ¿En ámbitos como la salud sexual o reproductiva?
+[319.42 - 329.42]:  Sí, sí. He recibido atención específica con otros profesionales, no solamente con el médico de cabecera.
+[329.42 - 337.42]:  Me han derivado al ginecólogo porque he tenido que ir, hacerme algunos exámenes.
+[337.42 - 346.42]:  Y en cuestión de salud sexual me han orientado, me han explicado, yo he preguntado, todo ha sido muy bien explicado.
+[347.42 - 355.42]:  Genial. Pues seguimos, Daniela. Una pregunta ahora difícil. Me gustaría saber si te sientes segura viviendo en Andalucía.
+[356.54 - 363.80]:  100% segura en Andalucía y en España, pero en Andalucía muchísimo más.
+[365.14 - 371.28]:  Perfecto. ¿Desde que llegaste aquí has experimentado algún tipo de violencia, de intimidación, de acoso?
+[373.42 - 374.42]:  Eh…
+[375.12 - 376.42]:  Sí, no tiene que responder.
+[377.42 - 390.42]:  Bueno, sí, sí he experimentado algún tipo de intimidación y de amenaza y de acoso también. Sí lo he experimentado.
+[390.42 - 402.42]:  Vale. Como persona víctima de estas cuestiones que me comentas, ¿has recibido en la entidad de información sobre tus derechos, sobre tus derechos legales, sobre cómo protegerte?
+[402.42 - 404.42]:  Sí, sí, sí, totalmente.
+[404.42 - 406.42]:  La verdad es que…
+[406.42 - 407.42]:  Sí.
+[407.42 - 408.42]:  La verdad es que…
+[408.42 - 409.42]:  Sí, sí, sí.
+[409.42 - 434.42]:  … yo he estado en Andalucía, acá en Andalucía, que es donde he estado la mayor parte de tiempo, he recibido un apoyo no al 100, al 200% de todas las fundaciones, de las ONG, de trabajadoras sociales, me han guiado, me han apoyado, me han dicho cuáles son mis derechos, qué debo de hacer para hacer valerlos.
+[434.42 - 435.42]:  Sí.
+[435.42 - 436.42]:  Sí.
+[436.42 - 438.42]:  Y, bueno, por todo ha sido muy… he tenido mucho apoyo.
+[438.42 - 451.42]:  Genial. Entonces, imagino, se te han proporcionado servicios más de mediación cuando han necesitado acompañamiento a servicios o organismos públicos por parte de la entidad.
+[451.42 - 452.42]:  Exactamente.
+[452.42 - 464.42]:  Y por medio de las trabajadoras sociales me han derivado a… depende, pues, de mi necesidad, me han derivado a servicios jurídicos.
+[464.42 - 465.42]:  Sí.
+[465.42 - 466.42]:  Sí, sí, sí.
+[466.42 - 467.42]:  Perfecto.
+[467.42 - 480.42]:  No sé si en algún momento cuando llegaste te informaste o fuiste informada sobre procesos de asilo, de protección internacional. ¿Conoces el sistema?
+[480.42 - 490.42]:  Sí, conozco el sistema y sí sé cómo va la cuestión, pero decidí no hacerlo por muchas razones.
+[490.42 - 493.42]:  Vale, perfecto. Vale, pues seguimos.
+[493.42 - 494.42]:  Sí.
+[494.42 - 510.42]:  Ahora me gustaría saber algo más sobre tu participación en estas entidades y en la ciudad en general, ¿no? Querría saber si se te ha consultado, si se te ha involucrado en la toma de decisiones que afectaban a tu itinerario.
+[510.42 - 519.42]:  Si cuando tú has ido a estas entidades a demandar ayuda has sido tú la protagonista, ¿no?, de esta demanda y has sido tú quien ha tomado las decisiones o si te sientes así.
+[519.42 - 521.42]:  Sí, sí, sí, sí, totalmente.
+[521.42 - 522.42]:  Yo he ido a…
+[522.42 - 523.42]:  Sí, sí, sí, sí, totalmente.
+[523.42 - 533.42]:  Yo he ido a las entidades porque yo lo decido y no sé qué decir.
+[533.42 - 535.42]:  Vale, sí, perfecto. Sí, está bien.
+[535.42 - 552.42]:  Y al margen de estas necesidades más básicas o estas demandas tuyas, ¿crees que se te ha ofrecido la posibilidad de participar en actividades más de liderazgo, más actividades de participación ciudadana, de desarrollo personal, al margen de esa demanda básica que tú pedías?
+[552.42 - 553.42]:  Sí, sí, sí, sí.
+[553.42 - 564.42]:  Yo he ido a las entidades y me han propuesto hacer otro tipo de actividades para poder socializar con más mujeres, con más personas, talleres de ocio, salidas de ocio donde me voy a sentir mejor, donde voy a poder conocer más personas, en fin.
+[564.42 - 565.42]:  Y te ha servido para conocer a otras personas, te has sentido integrada.
+[565.42 - 566.42]:  Sí, sí.
+[566.42 - 567.42]:  Y me ha ayudado mucho.
+[567.42 - 568.42]:  ¿Qué has estado haciendo en los últimos años?
+[568.42 - 569.42]:  Bueno, ahora estoy trabajando en una empresa en el sector de la salud y en el sector de la salud en general.
+[569.42 - 570.42]:  En ese centro de salud, en el centro de salud, en el centro de la salud social, hay una empresa de salud en el sector de salud.
+[570.42 - 571.42]:  Y es una empresa que hace más de la salud y la salud en general.
+[571.42 - 572.42]:  ¿Y por qué?
+[572.42 - 578.16]:  mejor, donde voy a poder conocer más personas, en fin.
+[578.76 - 581.44]:  ¿Y te ha servido para conocer a otras personas? ¿Te has sentido integrada?
+[581.44 - 591.40]:  Sí, sí, me ha servido, he conocido a otras personas y me he sentido más integrada a España.
+[592.24 - 598.28]:  ¿Tiene alguna sugerencia? Tipo, pues mira, no se me ha ofrecido este tipo de actividad y me hubiera encantado.
+[598.28 - 608.86]:  A ver, yo creo que no, yo creo que todas las actividades han estado bien y no, no creo que tenga alguna sugerencia.
+[610.06 - 617.72]:  Vale. En relación ahora al acceso a la educación, a la formación o al empleo.
+[619.04 - 626.04]:  Primero, ¿has tenido oportunidad de acceso a formación para ti o educación? Me dices que vives con… está aquí tu hija.
+[626.42 - 628.26]:  ¿Has tenido por medio de esta entidad?
+[628.28 - 632.52]:  ¿Has tenido oportunidad de apoyo en ese acceso a la formación para ti o para ella?
+[632.98 - 648.44]:  Sí, sí, sí, al 100%. En junio, en julio de este año, que decidí vivir con mi hija, estaba muy desorientada en el tema de educación para ella,
+[648.44 - 658.08]:  de cómo matricularla a un colegio, estaba un poquito desubicada y vine a Córdoba a coger y me hicieron…
+[658.08 - 658.26]:  ¿Cómo fue?
+[658.26 - 668.98]:  Me hicieron la gestión, todo el documento, me lo rellenaron, me dijeron dónde tenía que ir y prácticamente ellos me consiguieron la plaza en el colegio.
+[669.40 - 671.90]:  ¿Y está contenta ahora después de unos meses tu hija en el colegio?
+[672.22 - 679.06]:  Está feliz, ella está feliz, yo estoy feliz y se ha adaptado muy bien, tanto ella como yo.
+[679.78 - 681.90]:  Qué bien, me alegro, me alegro muchísimo.
+[682.30 - 687.90]:  ¿Y tú? ¿Has recibido apoyo tanto a nivel formativo como a nivel laboral, orientación laboral, búsqueda de empleo?
+[688.26 - 716.16]:  Sí, sí, sí, tanto en Córdoba Coge como en otras entidades, como en las entidades que ya mencioné, me han orientado en la búsqueda de empleo, en hacer un currículum, en vamos a enviarlo a tal página, vamos, todo, todo, todo me lo han hecho y de verdad que muy contenta con todas estas entidades.
+[717.20 - 718.14]:  Genial, Daniela.
+[719.24 - 729.68]:  Hemos hablado de distintas áreas, de distintos servicios, ¿dirías que a nivel general has recibido un trato respetuoso por parte del personal que te ha atendido en todas estas áreas?
+[730.26 - 746.22]:  Pero totalmente, totalmente respetuoso y empático, se ponen siempre en mi lugar, tratan de ayudarme, de darme consejos, es como si ellos lo sintieran, la verdad es que sí.
+[747.00 - 748.22]:  Ha sido también…
+[748.76 - 759.24]:  No solo en este tipo de entidades, sino también en centros sanitarios, en la policía, en juzgados, en el caso que hayas tenido que necesitar este tipo de atenciones.
+[759.48 - 772.24]:  Pues mira, mira que he ido a centros sanitarios, he ido a juzgados, he ido a policía y en todas estas entidades el trato ha sido muy, muy, muy respetuoso.
+[775.02 - 778.24]:  O sea, me he sentido de la verdad, no pensé que me…
+[778.26 - 802.68]:  A ver, no pensé que me iba a sentir así acá. Tenía otro pensamiento, me vendían otra cosa y llegué un poquito predispuesta, pero es totalmente falso. Acá, la verdad, las personas tratan muy bien al inmigrante y tratan de ayudarle muchísimo.
+[802.68 - 817.58]:  Me alegra muchísimo escuchar tu percepción, de verdad. Aún así, aunque sea tan positiva, me gustaría preguntarte si hay alguna sugerencia que tengas para mejorar ese trato a las personas migrantes, a las mujeres migrantes que viven en Andalucía.
+[818.44 - 832.58]:  Pues, la verdad, alguna sugerencia. Es que como me ha ido tan bien, pues no sé qué sugerencia dar. De pronto que las trabajadoras sociales y todo este tipo de organismos, ONG,
+[832.68 - 848.58]:  de organizaciones y de fundaciones, siempre, siempre piensen que si a ellas les sucediera, cómo les gustaría que las trataran. Si de pronto en algún momento se tienen que ir del país, cómo les gustaría que las trataran en ese país.
+[849.38 - 854.18]:  Siempre ponése en los zapatos de los demás. Es como mi consejo y mi sugerencia.
+[854.92 - 858.14]:  Me parece un consejo altamente necesario.
+[859.68 - 862.64]:  Perfecto. Pues, por ir terminando… Bueno, sí querría saber.
+[862.68 - 877.58]:  Si en el caso… Bueno, veo que no lo has necesitado, por lo que me comentas. En el caso que hubiese tenido que presentar una queja o un comentario negativo ante una entidad o ante un organismo de los que hemos hablado, ¿hubieras sabido cómo hacerlo? ¿Hubieras tenido a tu disposición la forma de hacerlo?
+[878.62 - 888.32]:  Pues, la verdad, ahora que me haces la pregunta, no sé cómo hacerlo ni a dónde ir. No tengo ni idea. No sé. Al ayuntamiento, quizás. No sé.
+[888.76 - 892.52]:  Bueno, tendríamos que… Un buen paso… Quizás también sería un poco…
+[892.68 - 901.62]:  Dependiendo del lugar donde recibiera esa atención negligente, por decirlo de alguna forma, con nosotros.
+[902.00 - 910.06]:  En el caso de que no fuéramos nosotros los que te ofreciéramos una mala atención, por supuesto, pues podrías contarnos, para echarte una mano y ver cuál sería la mejor vía.
+[910.58 - 911.04]:  Ya, ya.
+[912.88 - 913.40]:  Perfecto.
+[916.38 - 922.22]:  Has tenido la oportunidad ya no de tanto de una queja, sino en este tipo de atenciones.
+[922.68 - 923.18]:  Sí.
+[923.18 - 928.86]:  ¿Has tenido la oportunidad de compartir sugerencias, de que se escuche tu opinión para mejorar?
+[929.22 - 946.36]:  Sí, sí, sí, sí. Es más, casi todas las entidades le preguntan al finalizar una cita o una consulta, preguntan qué tal te parece el trato, si te resolvieron las dudas, si te pudimos ayudar, cosas así, encuestas.
+[946.36 - 952.36]:  Y sí, sí, siempre están dispuestas a escuchar las sugerencias de los docentes.
+[952.68 - 953.18]:  Sí, sí, sí, sí.
+[954.60 - 955.16]:  Perfecto.
+[955.72 - 970.48]:  Pues por ir cerrando, por mi parte, que ahora me contarás tú si quieres contarnos algo más, me gustaría saber, ¿qué hubieran necesitado al poco tiempo de llegar, cuando llegaste aquí a España y Andalucía, que no tuviste?
+[971.34 - 975.18]:  ¿Qué hubiera necesitado? Pues la verdad, un trabajo digno.
+[975.18 - 982.56]:  ¿Digno? ¿Y a qué me refiero con digno? En buenas condiciones, o sea, un sueldo.
+[982.68 - 985.48]:  Un horario justo, un horario justo.
+[988.60 - 998.92]:  Pero, ¿qué pasa? Que cuando llegamos de otro país, pues estamos en situación irregular, sin documentos para podernos dar de alta y cosas así.
+[999.60 - 1005.04]:  Entonces, es ahí donde ya los inmigrantes recurrimos a otros tipos de actividades.
+[1006.04 - 1012.04]:  Y, en fin, ¿qué hubiera necesitado y qué hubiera sido bueno? Un trabajo digno.
+[1012.68 - 1013.24]:  Un trabajo digno y justo.
+[1014.16 - 1021.76]:  Perfecto. Y ahora, ¿qué necesitarías ahora para favorecer tu proceso de integración plena aquí en España, aquí en Andalucía?
+[1021.76 - 1037.38]:  Bueno, en este momento, ¿qué necesito ahora? Igualmente, estoy en búsqueda de un trabajo igualmente, como dije, digno y justo, o con una paga justa, si me entiendes.
+[1037.66 - 1038.04]:  Sí, claro.
+[1038.04 - 1042.60]:  Y del resto, no, no necesito pues nada más, porque todo ha estado…
+[1042.68 - 1043.84]:  Muy, muy bien.
+[1044.70 - 1058.42]:  Y, por último, ¿tiene alguna propuesta de mejora que podamos, por nuestra parte, trasladar a los poderes públicos en relación a que mejoremos, pues, el funcionamiento de los servicios, pues, tanto públicos como también privados, ¿no?, en Andalucía?
+[1058.78 - 1061.92]:  ¿Alguna propuesta general de mejora para nosotros?
+[1061.92 - 1066.88]:  A ver, en cuanto a trato y todo eso, todo está muy bien.
+[1067.06 - 1071.92]:  Pero sí tengo una sugerencia, una propuesta en que, de pronto…
+[1072.68 - 1086.24]:  O sea, faciliten más la regularización de las personas que venimos, porque si facilitan eso, a ver, podemos hacer más fácil un trabajo.
+[1086.24 - 1102.10]:  Hay personas que por desesperación cometen errores, hacen cosas indebidas, entonces, eso garantizaría que no se cometieran esas cosas, porque si una persona está tranquilita con su trabajito,
+[1102.10 - 1106.62]:  no va a tener la mente dañada para hacer otras cosas.
+[1107.34 - 1109.90]:  Entonces, de pronto, ¿cuál es mi sugerencia?
+[1110.34 - 1115.96]:  La regularización, que sea más fácil, más accesible, en fin, cosas así.
+[1117.12 - 1126.26]:  Genial. Pues, lo anoto, lo tenemos en cuenta y te doy las gracias por esta charla tan clara, ¿no?, en la que nos has dado información tan valiosa.
+[1126.96 - 1130.12]:  No sé si tú te has quedado con ganas de comentar algo que yo no haya preguntado.
+[1130.12 - 1130.22]:  No.
+[1132.10 - 1137.04]:  No, creo que todo a bordo temas interesantes, todo está bien.
+[1137.68 - 1148.90]:  Perfecto. Aún así, como sabes, como tienes contacto, cualquier cosa que surja y que quieras aportar, puedes hacerlo más adelante y, por mi parte, pues podemos dejarlo aquí.
+[1149.56 - 1155.24]:  Bueno, por mí también, muchas gracias por la entrevista y a que sepa cuando necesite.
+[1155.64 - 1156.80]:  Muchísimas gracias, Daniela.
+[1157.00 - 1157.90]:  Bueno, muchas gracias.
