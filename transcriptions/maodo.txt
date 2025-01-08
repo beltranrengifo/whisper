@@ -1,0 +1,413 @@
+[0.00 - 5.16]:  Bueno, pues nada, a ver, cuéntame en qué fecha tú llegaste a España.
+[7.10 - 9.52]:  ¿En qué año fue?
+[10.18 - 11.60]:  En 2023.
+[11.88 - 13.70]:  En 2023. ¿Y en el mes?
+[18.44 - 23.44]:  ¿Mes 7, mes 8, mes de julio, mes de agosto, septiembre?
+[24.30 - 24.94]:  Agosto.
+[26.54 - 28.16]:  A ver, agosto.
+[30.00 - 31.10]:  ¿En agosto?
+[31.38 - 32.88]:  Sí, en agosto.
+[32.96 - 36.00]:  En agosto. Vale. ¿A dónde llegaste?
+[37.50 - 38.78]:  En la Gomera.
+[39.02 - 39.78]:  A la Gomera.
+[40.02 - 42.18]:  ¿De la Gomera pasaste a...?
+[42.18 - 42.82]:  Tenerife.
+[43.56 - 45.68]:  No, la Gomera con el ojo.
+[46.26 - 48.24]:  En Tenerife, Sear.
+[49.04 - 51.56]:  No, no, Acción. En Tenerife, Acción.
+[53.38 - 54.82]:  Y luego ya...
+[54.82 - 56.66]:  Luego, en Sevilla.
+[56.66 - 57.66]:  Los hermanos.
+[60.00 - 61.00]:  Con Acción.
+[61.20 - 61.60]:  Acción.
+[61.96 - 64.72]:  Vale. Eso. La Gomera, Cruz Roja.
+[64.94 - 65.22]:  Acción.
+[66.94 - 67.62]:  Tenerife.
+[67.70 - 68.16]:  Tenerife.
+[68.38 - 69.22]:  Con Sear.
+[69.44 - 69.66]:  Sí.
+[70.44 - 72.36]:  Y ya Sevilla con Acción.
+[72.36 - 72.64]:  Acción.
+[72.70 - 73.84]:  Y ya después aquí.
+[74.00 - 74.40]:  Con Acción.
+[74.62 - 75.24]:  Muy bien.
+[76.82 - 81.78]:  ¿Viniste solo o acompañado en el viaje?
+[83.16 - 83.74]:  ¿En el viaje?
+[83.74 - 88.48]:  En el viaje me refiero de Senegal, en este caso, hasta la Gomera.
+[89.22 - 89.86]:  ¿Hasta la Gomera?
+[90.00 - 90.50]:  Sí.
+[90.50 - 92.00]:  Sí, con unos amigos.
+[92.00 - 93.00]:  Con unos amigos, ¿no?
+[93.00 - 93.50]:  Sí.
+[93.50 - 94.00]:  Con una amistad, ¿no?
+[94.00 - 94.50]:  Sí.
+[94.50 - 95.00]:  Sí.
+[95.00 - 95.50]:  Vale.
+[95.50 - 101.50]:  Bueno, pues ya hemos hablado también sobre que llegaste a la Gomera. Ahí te atendió Cruz Roja, ¿verdad?
+[101.50 - 102.00]:  Sí.
+[102.00 - 104.00]:  Y después pasaste al campamento de Tenerife, ¿no?
+[104.00 - 105.00]:  De Tenerife, sí.
+[105.00 - 112.00]:  ¿Allí en qué te ayudaban los compañeros y compañeras de Sear? De Tenerife.
+[112.00 - 114.00]:  De Tenerife, sí.
+[114.00 - 116.00]:  Allí te daban, ¿no? El alojamiento.
+[116.00 - 116.50]:  Sí.
+[116.50 - 118.00]:  Te darían también comida.
+[118.00 - 119.00]:  Sí, te darían comida.
+[119.00 - 119.40]:  Sí.
+[119.40 - 122.40]:  ¿Te daban algo de vestido, algo de vestimenta, de ropa?
+[122.40 - 122.90]:  Sí.
+[122.90 - 129.40]:  No, ¿te sabes que es ropa? Sí.
+[129.40 - 133.40]:  Vale.
+[133.40 - 142.40]:  ¿Pudiste hablar con algún abogado, alguna abogada, algún psicólogo, alguna psicóloga cuando estabas en Tenerife?
+[142.40 - 145.40]:  ¿En Tenerife?
+[145.40 - 145.90]:  ¿Te acuerdas?
+[145.90 - 146.40]:  Sí.
+[146.40 - 146.90]:  Sí.
+[146.90 - 147.40]:  Sí.
+[147.40 - 147.90]:  Sí.
+[147.90 - 148.40]:  Sí.
+[148.40 - 149.90]:  ¿Eso es general?
+[149.90 - 150.40]:  Sí.
+[150.40 - 152.40]:  Es como una charla en general, ¿no?
+[152.40 - 154.40]:  Sí, en general.
+[154.40 - 156.40]:  ¿Sobre qué, te acuerdas?
+[156.40 - 159.40]:  ¿De qué hablaban?
+[162.40 - 166.40]:  Yo creo que eso...
+[166.40 - 170.40]:  Es como que, como si...
+[170.40 - 171.90]:  Como asilo.
+[171.90 - 172.40]:  Vale.
+[172.40 - 172.90]:  Yo creo que...
+[172.90 - 174.90]:  De cómo era el proceso del asilo, ¿no?
+[174.90 - 175.40]:  Sí.
+[175.40 - 175.90]:  Vale.
+[175.90 - 177.40]:  Perfecto, perfecto.
+[177.40 - 197.04]:  Vale, aquí en Andalucía, me has dicho que estuviste en Sevilla, en Dos Hermanas, y allí te daban todo, te daban alojamiento, te daban también alimentación, estupendo.
+[197.04 - 209.36]:  Y estaba, tú podías acceder al sistema sanitario, es decir, tú podías ir a un centro de salud, tú podías ir al hospital, te ayudaron, ¿no?
+[212.30 - 220.20]:  Sí, yo, si quieres, voy al médico, yo voy como yo soy.
+[221.72 - 226.14]:  Vale, ellos te explicaron en algún momento, aquí está el médico.
+[227.04 - 230.28]:  Porque, ¿te ayudaron con la tarjeta sanitaria?
+[230.98 - 231.46]:  Sí.
+[231.94 - 232.56]:  Eso sí, ¿no?
+[232.70 - 233.00]:  Sí.
+[233.88 - 235.50]:  Y ya después al médico ya ibas tú solo.
+[235.92 - 238.16]:  Sí, después del médico, luego el médico.
+[239.16 - 239.92]:  Muy bien.
+[242.86 - 251.18]:  ¿Tú tienes ahora mismo, tú estás seguro de estar aquí? ¿Tú tienes miedo por tu vida aquí, en Andalucía?
+[251.74 - 252.80]:  ¿Aquí? No, no sé.
+[254.66 - 255.10]:  No.
+[255.90 - 256.86]:  Ahora tranquilo, ¿no?
+[256.92 - 257.02]:  No.
+[257.04 - 262.22]:  No tienes miedo ahora, porque siempre estoy pensando que más mejora.
+[262.40 - 262.84]:  Ahora, ¿verdad?
+[262.84 - 265.76]:  Estoy pensando ahora, estoy pensando que más mejora.
+[266.36 - 271.02]:  ¿Y has tenido alguna circunstancia aquí, vale?
+[271.28 - 273.24]:  ¿En la que tú crees que hayas tenido peligro?
+[273.98 - 275.04]:  ¿Hay alguien que te haya amenazado?
+[275.80 - 278.30]:  ¿Hay alguien que te haya querido hacer algo malo?
+[280.42 - 286.30]:  Eso también, yo no, yo no, mirando como una persona que...
+[286.30 - 290.48]:  Eso es racista, o ese es malo, ese...
+[290.48 - 293.18]:  Yo pensando siempre, estoy pensando en mi futuro.
+[293.90 - 294.46]:  Vale, ¿no?
+[294.66 - 295.78]:  Mejorar de mi futuro.
+[296.16 - 296.70]:  Y ya está, ¿no?
+[296.70 - 297.56]:  Siempre estoy pensando en eso.
+[298.68 - 299.00]:  Vale.
+[299.62 - 303.26]:  Bueno, como has comentado antes, que allí en Tenerife te hicieron con diálogo.
+[303.58 - 306.82]:  Hacían como unas charlas generales sobre el asilo, ¿verdad?
+[307.60 - 311.60]:  Entonces, estuviste informado sobre ello, ¿verdad?
+[312.60 - 312.80]:  Sí.
+[312.80 - 315.80]:  En esas charlas había alguien...
+[316.30 - 319.16]:  ¿Alguien que pudiese, por ejemplo, traducir a tu idioma?
+[319.94 - 322.36]:  Tanto Wolof, o a lo mejor francés, sí.
+[323.26 - 325.86]:  Sí, en Wolof, sí.
+[326.90 - 330.88]:  Andrés, porque Andrés no sabe mucho en español.
+[331.60 - 331.92]:  Claro.
+[332.08 - 333.80]:  Sí, él quiere traducir.
+[334.94 - 336.48]:  Había traductor, sí.
+[336.68 - 337.30]:  Estupendo.
+[338.06 - 345.42]:  Y te comentaban en algún momento, pues mira, tú puedes hacer este curso de formación,
+[345.42 - 345.46]:  tú puedes...
+[345.46 - 345.48]:  Sí.
+[345.48 - 345.50]:  Sí.
+[345.50 - 345.52]:  Sí.
+[345.52 - 345.54]:  Sí.
+[345.54 - 345.56]:  Sí.
+[345.56 - 345.58]:  Sí.
+[345.58 - 345.60]:  Sí.
+[345.60 - 345.64]:  Sí.
+[345.64 - 345.66]:  Sí.
+[345.66 - 345.68]:  Sí.
+[345.68 - 345.70]:  Sí.
+[345.70 - 345.72]:  Sí.
+[345.72 - 345.76]:  Sí.
+[345.76 - 345.78]:  Sí.
+[345.78 - 345.84]:  Sí.
+[345.84 - 345.88]:  Sí.
+[345.88 - 345.90]:  Sí.
+[345.90 - 345.92]:  Sí.
+[346.30 - 352.12]:  Sí.
+[365.88 - 365.90]:  Sí.
+[365.90 - 369.48]:  Sí.
+[371.94 - 373.14]:  Sí.
+[375.06 - 376.06]:  Sí.
+[376.06 - 376.26]:  Sí.
+[376.26 - 376.28]:  Sí.
+[376.28 - 378.56]:  ¿En Tenerife, por ejemplo?
+[379.94 - 380.54]:  No.
+[380.90 - 382.26]:  No, eso no, ¿no?
+[382.50 - 383.66]:  No, lo he pasado muy bien.
+[385.04 - 386.72]:  ¿Hasta que ya no llegaste aquí?
+[388.46 - 396.12]:  Sí, yo tenía una amiga que siempre estaba hablando como consejo.
+[397.46 - 398.44]:  Una amiga, ¿no?
+[398.44 - 399.26]:  Sí, una amiga.
+[400.12 - 402.10]:  Trabajaba como consejo, sí.
+[402.84 - 404.24]:  Siempre se ha pensado eso.
+[404.24 - 408.38]:  Y desde que estás aquí en Andalucía, ¿vale?
+[408.88 - 411.76]:  Bueno, con dos hermanas, o a lo mejor aquí actualmente,
+[412.32 - 416.36]:  ¿has podido hacer algún curso de formación?
+[416.60 - 417.92]:  ¿Te has podido formar?
+[418.44 - 420.76]:  ¿Has podido ir a clases de castellano, por ejemplo?
+[421.74 - 422.08]:  ¿Aquí?
+[422.60 - 423.70]:  Sí, o en dos hermanas.
+[424.56 - 426.26]:  No, aquí siempre estoy estudiando.
+[426.26 - 430.98]:  En todos los días estoy estudiando y haciendo cosas también.
+[431.98 - 433.44]:  Y has hecho cursos, ¿verdad?
+[433.62 - 434.14]:  Sí, ahora.
+[434.24 - 434.80]:  ¿Tienes cosas?
+[435.62 - 435.98]:  ¿Eh?
+[436.12 - 436.66]:  Todos los días.
+[436.84 - 437.80]:  No, todos los días.
+[440.72 - 442.86]:  ¿Tienes días para la semana?
+[445.04 - 446.36]:  ¿Cuatro días o cinco?
+[448.72 - 450.86]:  Cuatro días o tres días para la semana.
+[451.66 - 452.76]:  Eso aquí en Lucena, ¿no?
+[452.76 - 453.76]:  Sí, aquí en Lucena.
+[453.76 - 454.96]:  ¿Y en Sevilla?
+[455.00 - 457.46]:  ¿En Sevilla también podías estudiar mucho?
+[458.12 - 458.92]:  No, en Sevilla no.
+[458.94 - 459.68]:  ¿En clase allí no?
+[459.88 - 461.06]:  No, en Sevilla no.
+[461.42 - 462.14]:  Más complicado.
+[462.24 - 462.98]:  Más complicado.
+[464.24 - 467.36]:  Porque es pase cero, no es llegar con pasagona.
+[467.74 - 467.96]:  Ya.
+[468.22 - 470.14]:  ¿Y en Sevilla pudiste hacer algún curso?
+[471.20 - 471.80]:  ¿Un curso?
+[472.36 - 474.32]:  Es que no es un curso, no sirve nada.
+[474.98 - 476.46]:  No, no terminaste el curso.
+[476.92 - 480.18]:  No, no sirve nada, porque el curso de un día...
+[480.18 - 482.52]:  Ah, que era un curso de un día y no servía para nada.
+[482.78 - 482.80]:  Sí.
+[484.00 - 485.28]:  Vale, qué estupendo.
+[488.52 - 491.80]:  En las diferentes asociaciones que tú has estado,
+[492.32 - 493.78]:  ¿te han hablado...?
+[493.78 - 495.34]:  ¿Te han hablado con respeto?
+[495.54 - 496.60]:  ¿Te han hablado bien?
+[496.82 - 498.32]:  ¿Te han hablado correctamente?
+[500.28 - 504.28]:  ¿O había alguien que era así como un poco malo contigo,
+[505.26 - 507.58]:  hablando, comunicándose?
+[507.58 - 510.58]:  Aquí es...
+[511.24 - 512.58]:  Aquí es...
+[513.26 - 517.48]:  ¿Cómo se dice?
+[517.76 - 518.38]:  ¿La sensación?
+[518.68 - 518.96]:  Sí.
+[519.26 - 519.88]:  Es diferente.
+[520.98 - 522.06]:  Sí, mucha diferencia.
+[522.46 - 523.00]:  Sí, mucha diferencia.
+[523.28 - 523.58]:  Porque no...
+[523.78 - 524.80]:  No es igual como aquí.
+[525.76 - 530.88]:  La responsable en Sevilla no es igual como la responsable aquí.
+[531.68 - 536.78]:  Ah, yo no sé el futuro, como se dice, el futuro.
+[536.98 - 538.34]:  Me ahora, es mejor ahora.
+[538.34 - 540.12]:  Pero, ¿qué pasa?
+[540.36 - 541.52]:  ¿Es responsable de Sevilla?
+[542.72 - 544.34]:  No, no...
+[544.34 - 545.34]:  Yo...
+[545.34 - 546.06]:  ¿Cómo se dice?
+[546.88 - 549.34]:  Como no es igual como también...
+[550.10 - 552.36]:  Como el pasado no es el pasado.
+[552.62 - 553.34]:  Tiene diferencias.
+[553.78 - 554.78]:  Tiene diferencias también.
+[554.78 - 555.78]:  Porque...
+[555.78 - 560.78]:  Como el pasado no es el pasado.
+[560.78 - 563.78]:  Si quiere pedir una cosa o...
+[563.78 - 571.78]:  O habla una cosa y dice, no, aquí no puedo porque aquí el pasado no se puede.
+[571.78 - 572.78]:  No se puede.
+[572.78 - 575.78]:  No puede tener eso, no puede tener eso, no puede tener eso.
+[575.78 - 576.78]:  Sí.
+[576.78 - 580.78]:  Si quieres muchas cosas, no puedes tener el pasado.
+[580.78 - 582.78]:  No es igual como el pasado.
+[582.78 - 583.28]:  No.
+[583.28 - 584.28]:  No.
+[584.28 - 585.28]:  Vale, vale, vale.
+[585.28 - 586.28]:  Estupendo.
+[586.28 - 596.28]:  Durante el tiempo que ya estás aquí en España, ¿has tenido alguna queja de algo?
+[596.28 - 598.28]:  ¿Algo malo?
+[598.28 - 599.28]:  Tú, tú...
+[599.28 - 600.28]:  Sí.
+[600.28 - 601.28]:  De...
+[601.28 - 602.28]:  ¿Cómo hablarlo?
+[602.28 - 603.28]:  O...
+[603.28 - 605.28]:  En cualquier ámbito, pero sobre todo a nivel institucional.
+[605.28 - 608.28]:  Tú, ¿has ido a algún sitio, al ayuntamiento, a algún lugar?
+[608.28 - 609.28]:  ¿Al ayuntamiento?
+[609.28 - 610.28]:  No, no.
+[610.28 - 611.28]:  No.
+[611.28 - 612.28]:  A...
+[612.28 - 613.28]:  Al ayuntamiento, por ejemplo.
+[613.28 - 614.28]:  Al centro de salud.
+[614.28 - 615.28]:  A la oficina de empleo.
+[615.28 - 616.28]:  Sí, sí.
+[616.28 - 617.28]:  Y...
+[617.28 - 618.28]:  Y alguien, ¿eso?
+[618.28 - 619.28]:  ¿No te ha tratado bien?
+[619.28 - 620.28]:  ¿O no te ha atendido?
+[620.28 - 621.28]:  ¿O te ha dicho palabras malas?
+[621.28 - 622.28]:  ¿Has tenido algún caso de eso o no?
+[622.28 - 623.28]:  Yo...
+[623.28 - 624.28]:  No.
+[624.28 - 625.28]:  No olvidar eso.
+[625.28 - 626.28]:  Sí, sí, sí...
+[626.28 - 627.28]:  Pero una cosa es que lo olvides y otra cosa es que te haya pasado.
+[627.28 - 628.28]:  ¿Te ha pasado alguna vez?
+[628.28 - 629.28]:  No.
+[629.28 - 630.28]:  Yo creo que no pasa.
+[630.28 - 631.28]:  ¿Tú crees?
+[631.28 - 632.28]:  Sí, sí.
+[632.28 - 633.28]:  Ah, sí, sí.
+[633.28 - 636.28]:  Pero una cosa es que lo olvides y otra cosa es que te haya pasado.
+[636.28 - 637.28]:  ¿Te ha pasado alguna vez?
+[637.28 - 638.28]:  No.
+[638.28 - 639.28]:  Yo creo que no pasa.
+[639.28 - 640.92]:  yo creo que no pasa
+[640.92 - 641.70]:  porque
+[641.70 - 643.44]:  no pensando
+[643.44 - 646.32]:  de los personas
+[646.32 - 648.14]:  que estamos hablando
+[648.14 - 651.28]:  yo siempre estoy pensando
+[651.28 - 651.90]:  en mi futuro
+[651.90 - 654.66]:  tú centras en tu futuro
+[654.66 - 656.48]:  vale, vale
+[656.48 - 658.96]:  si tú alguna vez has tenido
+[658.96 - 660.40]:  alguna preocupación
+[660.40 - 662.30]:  algo así en la cabeza
+[662.30 - 664.12]:  que tú has dejado dormir bien para la noche
+[664.12 - 666.94]:  porque tú pensas en la cabeza algo
+[666.94 - 668.52]:  tú se lo has podido
+[668.52 - 671.02]:  comunicar a alguien, se lo has podido decir a alguien
+[671.02 - 672.78]:  ya sea a un psicólogo
+[672.78 - 673.76]:  una psicóloga
+[673.76 - 677.02]:  o a cualquier otra persona técnica
+[677.02 - 678.86]:  de alguna asociación
+[678.86 - 679.60]:  no
+[679.60 - 683.00]:  como en el futuro, como en el pasado
+[683.00 - 683.88]:  no
+[683.88 - 686.20]:  no comunicar
+[686.20 - 687.02]:  no comunicar
+[687.02 - 687.34]:  como
+[687.34 - 691.22]:  ya llevo un año
+[691.22 - 692.06]:  en Sevilla
+[692.06 - 693.52]:  me
+[693.52 - 696.86]:  yo creo que es una vez
+[696.86 - 698.30]:  que hablando
+[698.30 - 701.36]:  con el psicólogo
+[701.36 - 705.26]:  yo quiero
+[705.26 - 706.52]:  eso una vez
+[706.52 - 708.42]:  que hablando con el psicólogo
+[708.42 - 710.50]:  yo no quiero
+[710.50 - 712.62]:  siempre estar hablando con alguien
+[712.62 - 715.40]:  yo no quiero
+[715.40 - 715.82]:  eso
+[715.82 - 716.44]:  vale, vale
+[716.44 - 719.44]:  venga, vamos a imaginar
+[719.44 - 720.56]:  ya estamos terminando
+[720.56 - 723.92]:  vamos a hablar
+[723.92 - 725.88]:  como si yo fuese el presidente
+[725.88 - 727.50]:  de la comunidad andalucía
+[728.30 - 729.30]:  vale
+[729.30 - 732.58]:  tú me querrías decir algo que tú creas
+[732.58 - 733.64]:  que se puede mejorar
+[733.64 - 736.98]:  dentro del sistema de asilo
+[736.98 - 739.42]:  sistema de asilo
+[739.42 - 741.24]:  algo que tú creas
+[741.24 - 742.74]:  en general
+[742.74 - 743.70]:  en general
+[743.70 - 745.80]:  yo creo
+[745.80 - 747.44]:  la fase
+[747.44 - 748.88]:  la fase
+[748.88 - 752.74]:  fase 1 y fase 0
+[752.74 - 754.16]:  como las diferencias
+[754.16 - 755.92]:  fase 1 y fase 0
+[755.92 - 756.44]:  por ejemplo
+[756.44 - 757.80]:  si quieres
+[757.80 - 757.86]:  si quieres
+[757.86 - 757.92]:  si quieres
+[757.92 - 757.94]:  ese tipo de cosas
+[757.94 - 758.00]:  si quieres
+[758.00 - 758.02]:  si quieres
+[758.02 - 758.08]:  si quieres
+[758.08 - 758.12]:  si quieres
+[758.12 - 758.22]:  si quieres
+[758.30 - 758.82]:  si quieres
+[758.82 - 758.94]:  si quieres
+[758.94 - 759.00]:  si quieres
+[759.00 - 760.32]:  la fase 0
+[760.32 - 761.46]:  un año
+[761.46 - 762.70]:  el perderlo
+[762.70 - 763.30]:  el tiempo
+[763.30 - 764.48]:  porque el tiempo
+[764.48 - 765.30]:  no sirve nada
+[765.30 - 766.38]:  es un año
+[766.38 - 767.22]:  el perderlo
+[767.22 - 767.60]:  el tiempo
+[767.60 - 768.82]:  no sirve nada
+[768.82 - 769.76]:  6 meses
+[769.76 - 772.98]:  en la fase 1
+[772.98 - 774.20]:  o 4 meses
+[774.20 - 775.00]:  en la fase 1
+[775.00 - 777.42]:  no puedo
+[777.42 - 778.64]:  como se dice
+[778.64 - 780.12]:  no puedo
+[780.12 - 785.44]:  comunicar
+[785.44 - 786.30]:  con la base
+[786.30 - 788.28]:  sé que la fase
+[788.28 - 788.80]:  fase 0
+[788.80 - 790.28]:  está todo más limitado
+[790.28 - 791.04]:  no puede ser
+[791.04 - 792.28]:  tantas formaciones
+[792.28 - 793.72]:  como la fase 1
+[793.72 - 794.60]:  no está todo quitaría
+[794.60 - 796.28]:  no quitaría la fase
+[796.28 - 798.94]:  si no puedo quitaría
+[798.94 - 799.26]:  es
+[799.26 - 802.12]:  bajar la tiempo
+[802.12 - 802.60]:  es
+[802.60 - 803.88]:  una vez
+[803.88 - 806.46]:  dos meses
+[806.46 - 809.72]:  voy a la otra fase
+[809.72 - 812.16]:  si mucho tiempo
+[812.16 - 813.46]:  es perder la tiempo
+[813.46 - 815.10]:  no puede servir nada
+[815.10 - 816.22]:  nada de nada
+[816.22 - 816.66]:  vale
+[816.66 - 818.24]:  echaste en fin la fase 0
+[818.24 - 819.04]:  jose pinche
+[819.04 - 819.96]:  hoy
+[819.96 - 820.54]:  saat
+[820.54 - 821.92]:  a ver
+[821.92 - 822.88]:  ahora
+[822.88 - 823.64]:  pe Bildar
+[825.02 - 832.00]:  esta ska
+[832.00 - 833.42]:  ha contado
+[833.42 - 835.92]:  vamos ver
+[835.92 - 837.44]:  en el enrolled
+[837.44 - 839.10]:  se puede
+[839.10 - 843.08]:  viva
+[843.08 - 846.14]:  estoy
+[846.14 - 846.86]:  21
+[846.86 - 848.04]:  s욪
+[848.04 - 858.08]:  hablando, hablo más español, tienes más cursos, más cosas. Después del curso, quieres
+[858.08 - 866.90]:  mi papel, mi papel es el trabajo, tienes buenos trabajos, buenos trabajos. Ahora yo pensando
+[866.90 - 869.70]:  en eso, pensando más en eso.
+[869.70 - 878.22]:  Vale, estupendo. Pues nada, muchísimas gracias por haber hecho esta entrevista con nosotros.
+[878.52 - 879.60]:  Sí, de nada.
