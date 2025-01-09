@@ -1,0 +1,320 @@
+[0.00 - 5.00]:  Bueno, pues venga, vamos a empezar con unas preguntas iniciales.
+[5.88 - 8.68]:  ¿Cuándo llegaste a España?
+[10.92 - 16.30]:  Yo llego a España en 2023.
+[17.48 - 19.24]:  ¿2003? Muy bien.
+[19.58 - 20.72]:  El 9 de diciembre.
+[21.16 - 22.78]:  9 de diciembre de 2023.
+[23.04 - 24.22]:  ¿Cómo llegaste a España?
+[24.78 - 25.50]:  Sí.
+[25.50 - 30.34]:  ¿Cómo llegaste? ¿En qué medio? ¿Viniste por avión?
+[30.76 - 31.08]:  No.
+[31.54 - 32.18]:  ¿Cómo?
+[32.36 - 32.90]:  Por la mar.
+[33.40 - 34.12]:  ¿Por la mar?
+[34.26 - 34.42]:  Sí.
+[34.92 - 36.32]:  ¿En un cayuco?
+[36.50 - 36.66]:  Sí.
+[36.68 - 37.62]:  ¿En una embarcación?
+[37.78 - 38.02]:  Sí.
+[39.22 - 41.48]:  Vale. ¿A dónde llegaste?
+[42.40 - 43.86]:  Canarias, Las Palmas.
+[44.02 - 45.26]:  A Las Palmas de Gran Canaria.
+[45.46 - 45.68]:  Sí.
+[46.04 - 53.58]:  Vale. ¿Y cuándo llegaste por primera vez a Andalucía? ¿Después de las Islas Canarias llegaste aquí a Andalucía?
+[53.86 - 54.42]:  No.
+[54.68 - 55.48]:  ¿Después de Canarias?
+[55.50 - 56.52]:  Primero a Madrid.
+[57.10 - 57.64]:  Madrid.
+[58.00 - 60.00]:  Después Madrid, Córdoba.
+[60.50 - 62.00]:  Y de Madrid a Córdoba, ¿no?
+[62.16 - 62.40]:  Sí.
+[62.72 - 67.12]:  ¿Y a Córdoba te acuerdas más o menos en qué fecha llegaste?
+[69.90 - 71.82]:  Dos o tres meses, Córdoba.
+[72.32 - 75.30]:  A los dos o tres meses de llegar de las Islas Canarias, ¿no?
+[75.78 - 76.04]:  Sí.
+[76.80 - 77.20]:  Muy bien.
+[78.50 - 83.48]:  ¿Tú viniste aquí a España solo o viniste acompañado?
+[85.50 - 101.06]:  Con mi... Yo no conozco otra persona. ¿Cómo dice? Yo solo no conozco otra persona.
+[101.24 - 102.88]:  Vale. Tú aquí viniste solo, ¿verdad?
+[102.90 - 103.32]:  Sí, sí.
+[103.88 - 104.44]:  Muy bien.
+[105.68 - 112.38]:  Y cuando entonces tú llegaste a España, ¿quién te atendió? ¿Qué ONG te atendió?
+[114.02 - 115.06]:  ¿Te acuerdas?
+[115.50 - 116.56]:  No. ¿Qué?
+[117.56 - 121.02]:  Cuando tú llegaste a las Islas Canarias, ¿vale?
+[121.34 - 121.40]:  Sí.
+[121.80 - 124.00]:  ¿Quién te atendió? ¿Cruz Roja?
+[124.26 - 124.46]:  Sí.
+[124.66 - 125.14]:  ¿Hacen?
+[125.24 - 125.92]:  Cruz Roja.
+[126.42 - 127.10]:  ¿Cruz Roja?
+[127.30 - 127.52]:  Sí.
+[127.62 - 130.32]:  ¿Vale? ¿Quién más te atendió después?
+[131.70 - 133.46]:  Me has dicho que también estuviste en Madrid.
+[133.90 - 134.74]:  Sí, también.
+[134.74 - 135.54]:  También Cruz Roja.
+[135.64 - 135.78]:  Sí.
+[136.42 - 138.24]:  Cruz Roja y en Córdoba también Cruz Roja.
+[138.26 - 139.18]:  Sí, Cruz Roja.
+[139.46 - 140.76]:  Vale. Muy bien.
+[144.02 - 145.18]:  Quiero entender que...
+[145.50 - 152.50]:  Has estado en algún tipo de alojamiento de la Cruz Roja.
+[152.50 - 157.22]:  ¿Has estado en campamentos o has estado en hoteles?
+[157.22 - 162.02]:  ¿Has estado en pisos de Cruz Roja? ¿Dónde has estado? ¿Cuándo tú has llegado aquí a España?
+[162.02 - 164.02]:  Madrid, centro.
+[164.02 - 165.02]:  ¿En un centro?
+[165.02 - 169.02]:  Sí, Cruz Roja. Pero Córdoba, hotel.
+[169.02 - 172.02]:  ¿En un hotel? ¿En Córdoba, hotel? ¿Y en la isla?
+[172.02 - 172.52]:  Campo.
+[172.52 - 173.52]:  ¿En un campo?
+[173.52 - 174.52]:  Sí.
+[174.52 - 175.36]:  ¿En un campo?
+[175.36 - 176.36]:  ¿En un campamento, no?
+[176.36 - 177.36]:  Sí.
+[177.36 - 178.36]:  Muy bien.
+[178.36 - 196.36]:  ¿Tú crees que ha sido adecuado cuando tú has tenido que ir al médico? ¿Vale? Has tenido que ir a asistencia sanitaria. ¿Vale?
+[196.36 - 203.36]:  ¿Tú crees que ha sido todo adecuado? ¿El centro de salud estaba bien?
+[203.36 - 204.36]:  ¿Has tenido algún tipo de problema para...
+[204.36 - 205.36]:  Sí.
+[205.36 - 207.36]:  ¿Para ir al centro de salud?
+[207.36 - 208.36]:  No, muy bien.
+[208.36 - 209.36]:  ¿Todo bien, no?
+[209.36 - 210.36]:  Sí.
+[210.36 - 211.36]:  ¿En la isla?
+[211.36 - 212.36]:  Sí, todo bien.
+[212.36 - 213.36]:  ¿Y en Madrid, en Córdoba?
+[213.36 - 214.36]:  Sí.
+[214.36 - 215.36]:  ¿Todo bien, no?
+[215.36 - 216.36]:  Sí.
+[216.36 - 217.36]:  Vale, perfecto.
+[217.36 - 228.36]:  ¿Tú te sientes ahora seguro aquí en Andalucía, cuando tú has estado, por ejemplo, en Córdoba?
+[228.36 - 233.36]:  ¿Tú has estado seguro? ¿Tú te sientes protegido?
+[233.36 - 234.36]:  Sí.
+[234.36 - 235.36]:  ¿Tú sí, no?
+[235.36 - 236.36]:  Sí.
+[236.36 - 237.36]:  Vale.
+[237.36 - 244.36]:  Desde que tú estás aquí en España, ¿vale?
+[244.36 - 245.36]:  Sí.
+[245.36 - 255.36]:  ¿Tú has tenido algún tipo de violencia? ¿Has tenido algún tipo de acoso? ¿Alguien te ha intimidado?
+[255.36 - 256.36]:  No.
+[256.36 - 257.36]:  ¿Todo bien?
+[257.36 - 260.36]:  Ninguno. Bien.
+[260.36 - 262.36]:  Vale.
+[262.36 - 273.36]:  ¿Cuándo has estado con Cruz Roja? ¿Vale? Tanto en Madrid como aquí en Andalucía, en Córdoba.
+[273.36 - 274.36]:  Sí.
+[274.36 - 282.36]:  ¿Tú has sabido cuáles han sido tus derechos dentro del programa de atención humanitaria?
+[282.36 - 286.36]:  ¿A ti te han explicado cuáles son tus derechos?
+[286.36 - 289.36]:  No entiendo.
+[289.36 - 291.36]:  Cuando tú llegas…
+[291.36 - 298.36]:  Cuando tú llegas al programa de acogida de ayuda humanitaria, ¿vale?
+[298.36 - 299.36]:  Sí.
+[299.36 - 313.36]:  Pues en Madrid, que es donde tú has estado después de la isla, o en Córdoba, ¿a ti alguien se ha sentado contigo y te ha explicado los derechos que tú tienes como solicitante de protección internacional?
+[313.36 - 316.36]:  ¿O nadie se ha sentado contigo?
+[316.36 - 317.36]:  No.
+[317.36 - 318.36]:  No.
+[318.36 - 319.36]:  Vale.
+[319.36 - 320.36]:  Vale.
+[320.36 - 327.36]:  Y cuando tú has solicitado asilo, ¿te han ayudado?
+[327.36 - 329.36]:  Sí.
+[329.36 - 333.36]:  ¿Tú cuándo solicitaste asilo? ¿En la isla?
+[333.36 - 334.36]:  No.
+[334.36 - 335.36]:  ¿En Madrid?
+[335.36 - 336.36]:  En Madrid.
+[336.36 - 342.36]:  ¿Y cuando tú solicitaste asilo en Madrid, la Cruz Roja te ayudó?
+[342.36 - 343.36]:  Sí.
+[343.36 - 345.36]:  ¿O fuiste tú solo?
+[345.36 - 347.36]:  Ayudamos juntos.
+[347.36 - 348.36]:  Ayudamos juntos.
+[348.36 - 350.36]:  Todos los personas.
+[350.36 - 356.36]:  Cuando tú tienes 50 euros, a la fin de meses, yo también.
+[356.36 - 358.36]:  Vale.
+[358.36 - 363.36]:  Pero tú, de la isla Canarias, pasas a Madrid.
+[363.36 - 367.36]:  Y en Madrid, ¿tú pides asilo?
+[367.36 - 370.36]:  En Canarias…
+[370.36 - 371.36]:  Pues en Canarias ya.
+[371.36 - 372.36]:  No.
+[372.36 - 373.36]:  Solo en Madrid.
+[373.36 - 374.36]:  En Madrid.
+[374.36 - 375.36]:  Sí.
+[375.36 - 376.36]:  En Madrid, ¿quién pide asilo?
+[376.36 - 377.36]:  ¿Tú?
+[377.36 - 379.36]:  ¿O te ayuda Cruz Roja?
+[379.36 - 381.36]:  ¿Te acuerdas o no?
+[381.36 - 382.36]:  No.
+[382.36 - 383.36]:  No te acuerdas.
+[383.36 - 384.36]:  Vale.
+[384.36 - 385.36]:  No te preocupes.
+[385.36 - 397.36]:  Tanto en Madrid como aquí en Córdoba, ¿has podido hablar con alguien que te haya traducido
+[397.36 - 399.36]:  a tu idioma?
+[399.36 - 400.36]:  Sí.
+[400.36 - 401.36]:  Sí, ¿no?
+[401.36 - 402.36]:  Sí.
+[402.36 - 403.36]:  No has tenido problema.
+[403.36 - 404.36]:  Sí.
+[404.36 - 405.36]:  Perfecto.
+[405.36 - 412.36]:  Bueno, pues, lo mismo.
+[412.36 - 422.36]:  En Córdoba o en Madrid, cuando has estado con Cruz Roja, ¿tú has podido hablar con el
+[422.36 - 429.36]:  personal profesional, con los técnicos y las técnicas de Cruz Roja, y ellos y ellas
+[429.36 - 434.36]:  te han ido explicando en todo momento qué tú puedes hacer?
+[434.36 - 435.36]:  No.
+[435.36 - 436.36]:  Eso no, ¿no?
+[436.36 - 437.36]:  No.
+[437.36 - 438.36]:  Vale.
+[438.36 - 455.36]:  Con lo tanto, ¿tú crees que han podido trabajar contigo en aspectos vitales de tu vida o no?
+[455.36 - 457.36]:  No.
+[457.36 - 459.36]:  Vale.
+[459.36 - 463.36]:  Tanto en Madrid como en Córdoba.
+[463.36 - 471.36]:  ¿Tú has podido realizar algún curso de formación o has podido ir a unas clases de
+[471.36 - 472.36]:  castellano?
+[472.36 - 480.36]:  ¿Te han dado la oportunidad de ir al instituto o no?
+[480.36 - 482.36]:  En Madrid solo clases.
+[482.36 - 483.36]:  En Córdoba también clases.
+[483.36 - 484.36]:  No hay cursos.
+[484.36 - 485.36]:  Clases de español, ¿no?
+[485.36 - 486.36]:  Sí.
+[486.36 - 487.36]:  Vale.
+[487.36 - 488.36]:  Y, tema de búsqueda de trabajo, ¿tú has podido hacer algo?
+[488.36 - 489.36]:  Sí.
+[489.36 - 490.36]:  Sí.
+[490.36 - 491.36]:  Vale.
+[491.36 - 492.36]:  Vale.
+[492.36 - 496.36]:  ¿En qué búsqueda de trabajo te han ayudado a buscar trabajo?
+[496.36 - 502.36]:  Una persona me habla, buscar trabajo.
+[502.36 - 505.36]:  ¿En Madrid o en Córdoba?
+[505.36 - 506.36]:  No.
+[506.36 - 507.36]:  No.
+[507.36 - 508.36]:  No.
+[508.36 - 509.36]:  Vale.
+[509.36 - 514.36]:  ¿Has recibido un trato de respeto por parte de las personas que trabajan en el instituto?
+[514.36 - 515.36]:  No.
+[515.36 - 516.36]:  No.
+[516.36 - 517.36]:  No.
+[517.36 - 518.36]:  No.
+[518.36 - 519.36]:  No.
+[519.36 - 520.36]:  No.
+[520.36 - 521.36]:  No.
+[521.36 - 522.36]:  No.
+[522.36 - 523.36]:  No.
+[523.36 - 524.36]:  No.
+[524.36 - 525.36]:  ¿Tenéis tiempo para hablar en el instituto?
+[525.36 - 526.36]:  Si podemos, pero ¿tienen algún tipo de queja oStella?
+[526.36 - 527.36]:  No entiendo eso.
+[527.36 - 528.36]:  Vale.
+[528.36 - 529.36]:  Te lo explico de otra manera.
+[529.36 - 544.36]:  En Cruz Roja, pues, quiero entender que te han podido ayudar un abogado o una abogada
+[544.36 - 550.36]:  para el tema de documentación, algún voluntario o voluntaria a lo mejor para las clases de
+[550.36 - 557.04]:  clases de español. Es decir, todas las personas de la Cruz Roja que han trabajado contigo,
+[557.38 - 563.88]:  todas han tenido respeto por ti o ha habido alguna que haya hecho algo malo para ti?
+[563.88 - 564.28]:  No.
+[564.70 - 565.38]:  Respeto, ¿no?
+[565.42 - 566.38]:  Sí, solo respeto.
+[566.58 - 574.28]:  Muy bien. Estupendo. ¿Has tenido algún tipo de problema alguna vez? Pues a lo mejor con
+[574.28 - 582.60]:  la policía o con gente del ayuntamiento por tema de empadronamiento o por algo. ¿Has
+[582.60 - 583.80]:  tenido algún problema alguna vez?
+[584.04 - 584.38]:  No.
+[584.82 - 585.28]:  No, ¿no?
+[585.34 - 585.56]:  No.
+[586.28 - 586.78]:  Muy bien.
+[591.28 - 597.54]:  Vale. Si no has tenido problemas, quiero entender que no has tenido ninguna queja. ¿Alguna vez
+[597.54 - 599.78]:  has tenido alguna queja de algo? Queja es algo malo.
+[600.62 - 600.78]:  No.
+[601.80 - 602.86]:  ¿Aquí en Andalucía?
+[603.18 - 603.48]:  No.
+[603.52 - 604.08]:  Nada, ¿no?
+[604.28 - 604.68]:  No.
+[606.72 - 612.70]:  Vale. ¿Y alguna preocupación o cuando tú has querido mejorar algo, tú has podido ir
+[612.70 - 620.50]:  a alguien a decir, yo esto creo que podríamos mejorarlo? ¿Tú has podido hablar con alguien
+[620.50 - 621.12]:  sobre eso?
+[623.06 - 623.48]:  No.
+[624.34 - 632.70]:  Si tú has necesitado mejorar algo, por ejemplo, yo quiero tener...
+[633.88 - 634.26]:  ¿O no?
+[634.26 - 638.06]:  Una habitación más grande. ¿Tú eso lo has podido hablar con alguien?
+[638.34 - 638.66]:  No.
+[641.38 - 641.78]:  Vale.
+[645.02 - 650.18]:  Estamos terminando, ¿vale? Vamos allá. Unas cuatro preguntas nos quedan. Van a ser muy
+[650.18 - 650.78]:  rápidas, ¿vale?
+[650.94 - 651.18]:  No.
+[653.14 - 664.18]:  Si tú, ¿vale? Tú ahora ya que has estado con Cruz Roja, ¿no? Por ejemplo, como hemos estado hablando y que tú has ido a diferentes...
+[664.26 - 682.68]:  Sitios, como por ejemplo, policía, ayuntamiento, ya algunos centros de formación, en el servicio andaluz de empleo, ¿vale? En todos estos organismos, en todas estas instituciones, ¿vale?
+[682.68 - 682.70]:  ¿Vale?
+[684.00 - 693.80]:  Si tú pudieses decir a alguien, esto quiero mejorarlo, ¿tú tendrías alguna idea para mejorar algo?
+[693.80 - 703.42]:  Para que tanto tú como compañeros y compañeras tuyas, que también sean solicitantes, puedan mejorar en algo.
+[705.20 - 708.68]:  ¿Tú tienes alguna idea de mejora?
+[710.22 - 711.50]:  ¿A ti se te ocurre algo?
+[712.42 - 712.70]:  No.
+[713.08 - 715.06]:  No, no. Vale. No te preocupes.
+[718.40 - 722.36]:  Cuando tú llegaste a la isla, ¿vale?
+[722.60 - 722.78]:  Sí.
+[723.80 - 724.80]:  ¿Qué...
+[724.80 - 731.02]:  ¿Cuál sería tu necesidad? ¿Qué es lo que tú necesitabas cuando tú llegaste?
+[732.06 - 734.04]:  Algo que tú echaste en falta.
+[735.82 - 736.52]:  ¿Canarias?
+[736.78 - 737.02]:  Sí.
+[739.02 - 747.80]:  Tú llegas a la isla Canarias y dices tú, me haría falta o que me ayudasen algo, o necesitaría...
+[747.80 - 750.14]:  Me lo invento, ¿vale?
+[750.28 - 752.80]:  O unas gafas, o necesito...
+[753.80 - 754.80]:  ¿Qué?
+[754.80 - 757.82]:  Que yo me pueda comunicar con mi familia.
+[759.08 - 759.28]:  Sí.
+[759.46 - 764.82]:  ¿Tú en ese momento tú necesitabas algo cuando tú llegaste aquí por primera vez?
+[764.82 - 764.84]:  ¿Qué?
+[766.66 - 774.82]:  Y Canarias, cuando yo llegué a Canarias, necesitaba una cosa de...
+[776.44 - 776.98]:  ¿Cómo?
+[778.98 - 780.82]:  No sé cómo se dice...
+[780.82 - 781.82]:  No sé...
+[783.80 - 791.80]:  A ver, ¿cómo te puedo ayudar? A ver...
+[793.02 - 795.24]:  ¿Necesitabas algo para ti?
+[796.24 - 799.16]:  ¿Qué tipo de necesidad era?
+[799.86 - 801.00]:  ¿Era algo material?
+[801.74 - 802.08]:  No.
+[803.54 - 804.80]:  ¿O era más psicológico?
+[805.86 - 806.80]:  Sí, era psicológico.
+[807.78 - 812.10]:  ¿Necesitabas tú estar más tranquilo, tener una tranquilidad?
+[812.32 - 812.62]:  Sí.
+[813.20 - 813.78]:  ¿Algo así?
+[813.80 - 814.08]:  Sí, ¿no?
+[814.26 - 814.74]:  Sí, sí.
+[815.30 - 816.52]:  Vale, estupendo.
+[821.42 - 821.94]:  Cuando...
+[821.94 - 829.34]:  Cuando tú terminaste con Cruz Roja Córdoba, ¿vale?
+[829.54 - 835.14]:  Que fue la última vez en la que tú estuviste en el programa de atención humanitaria.
+[835.94 - 839.60]:  ¿Tú qué pensaste cuando tú terminaste con Cruz Roja Córdoba?
+[839.60 - 839.66]:  ¿Qué pensaste cuando tú terminaste con Cruz Roja Córdoba?
+[841.24 - 842.60]:  ¿Y ya te trajeron...?
+[843.80 - 845.56]:  Aquí, por ejemplo. ¿Tú qué pensaste?
+[846.82 - 848.34]:  Aquí, en Lucena.
+[849.28 - 849.54]:  Bueno.
+[850.22 - 853.66]:  ¿Tú cuando tú ya te dijeron Cruz Roja, ya de aquí te tienes que ir?
+[853.72 - 854.50]:  ¿Tú qué pensaste?
+[855.50 - 861.26]:  Yo pensé hacer un curso para trabajar.
+[863.26 - 863.36]:  ¿Qué?
+[865.70 - 866.22]:  Que...
+[866.22 - 869.16]:  Digamos que tú puedes mejorar en el futuro.
+[869.44 - 869.62]:  Sí.
+[870.66 - 870.94]:  Vale.
+[870.94 - 877.16]:  Y ya la última, ¿vale? A ver si la entiendes.
+[879.04 - 885.40]:  Para tú poder estar aquí mejor en España, ¿vale?
+[886.02 - 896.16]:  ¿Tú qué crees que necesitas? ¿Qué crees tú que sería lo mejor para que tú estés bien integrado aquí en España?
+[896.74 - 897.02]:  Sí.
+[897.02 - 899.02]:  ¿Qué podemos mejorar para que tú...
+[900.52 - 900.92]:  Aquí...
+[900.94 - 902.36]:  Aquí, muy bien, en España.
+[903.44 - 905.48]:  ¿Qué piensas que sería lo mejor para ti?
+[906.18 - 909.40]:  Aquí me quiero España para trabajar.
+[912.86 - 920.24]:  Y ahí, para trabajar aquí en España, ¿tú qué crees? ¿Que puedes necesitar, qué? ¿Hacernos más cursos de formación?
+[920.44 - 920.72]:  Sí.
+[922.22 - 923.96]:  ¿Aprender un poquito más...
+[923.96 - 924.64]:  Llamas.
+[924.68 - 925.18]:  ¿Español?
+[925.32 - 925.58]:  Sí.
+[927.36 - 928.42]:  Después de trabajo.
+[929.32 - 929.88]:  ¿Y tú qué crees?
+[929.88 - 930.92]:  Si tú consigues eso...
+[930.94 - 931.70]:  ¿Tú ya después?
+[932.02 - 932.28]:  Sí.
+[932.90 - 935.16]:  ¿Trabajo? ¿Y tú aquí, muy bien, en España?
+[935.38 - 935.62]:  Sí.
+[937.14 - 938.52]:  Vale. Estupendo.
+[938.66 - 939.86]:  Mira, pues...
+[939.86 - 940.68]:  Muchas gracias.
+[941.18 - 941.64]:  A ti.
