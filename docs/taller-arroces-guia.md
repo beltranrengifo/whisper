@@ -119,11 +119,15 @@ Un buen arroz seco debe tener:
 
 ### 4.6 Tabla de Paellas: Tamaños, Arroz y Caldo
 
+> **IMPORTANTE**: Esta tabla es solo una **referencia orientativa**. Cada combinación de paella + fuego evapora diferente. **Debes hacer tu propia prueba de evaporación** (ver [Sección 10](#10-metodología-prueba-de-evaporación)) para obtener valores exactos para TU equipo.
+
 **Cómo usar esta tabla:**
 
 1. Busca tu tamaño de paella (columna izquierda)
 2. Elige el tiempo de cocción (15-20 min según tu arroz/caldo)
 3. El número en esa celda = **gramos de caldo que necesitas**
+
+> Usa estos valores como punto de partida hasta que hagas tu propia prueba de evaporación.
 
 | Paella | Arroz | 15 min | 16 min | 17 min | 18 min | 19 min | 20 min | Grasa | Raciones |
 |--------|-------|--------|--------|--------|--------|--------|--------|-------|----------|
