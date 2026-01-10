@@ -20,6 +20,7 @@
 11. [Cocinar el Arroz](#11-cocinar-el-arroz)
 12. [Tablas de Referencia Rápida](#12-tablas-de-referencia-rápida)
 13. [Consejos Prácticos y Preguntas Frecuentes](#13-consejos-prácticos-y-preguntas-frecuentes)
+14. [Anexo: Receta de Salmorreta](#anexo-receta-de-salmorreta)
 
 ---
 
@@ -115,6 +116,35 @@ Un buen arroz seco debe tener:
 | **Báscula de precisión** | Pesar sal                 | Precisión 0.01g                            |
 
 > **Importante**: Siempre **PESAR** los líquidos, nunca medir en volumen (las jarras no están bien calibradas y el volumen varía con la temperatura)
+
+### 4.6 Tabla de Paellas: Tamaños, Arroz y Caldo
+
+Esta tabla relaciona el tamaño de la paella con la cantidad de arroz y el caldo necesario según el tiempo de cocción.
+
+**Cómo leer la tabla:**
+- La fórmula en cada celda es: `evaporación + arroz = caldo total`
+- Ejemplo: `391 + 56: 447` significa 391g evaporación + 56g arroz = 447g de caldo necesario
+
+| Paella (cm) | Base (cm) | Arroz (g) | 15 min | 16 min | 17 min | 18 min | 19 min | 20 min | Grasa 20% | Rac. 125g | Rac. 100g |
+|-------------|-----------|-----------|--------|--------|--------|--------|--------|--------|-----------|-----------|-----------|
+| 22 | 18 | 48 | - | - | 355+48: 403 | - | - | - | 10g | 0.4 | 0.5 |
+| 24 | 19.5 | 57 | 323+56: 379 | 368+56: 424 | 391+56: 447 | 414+56: 470 | 437+56: 493 | 460+56: 516 | 11g | 0.5 | 0.6 |
+| 28 | 23 | 79 | 309+78: 387 | 329+78: 407 | 349+78: 427 | 370+78: 448 | 405+78: 483 | 427+78: 505 | 16g | 0.6 | 0.8 |
+| 34 | 29 | 125 | - | 628+125: 753 | 668+125: 793 | 707+125: 832 | 746+125: 871 | 798+125: 923 | 25g | 1.0 | 1.3 |
+| 40 | 34 | 172 | - | - | 986+171: 1157 | 1044+171: 1215 | - | - | 34g | 1.4 | 1.7 |
+| 42 | 37 | 203 | 898+203: 1101 | 958+203: 1161 | 1018+203: 1221 | 1078+203: 1281 | 1137+203: 1340 | 1197+203: 1400 | 41g | 1.6 | 2.0 |
+| 46 | 41 | 250 | - | - | 1209+250: 1459 | 1281+250: 1531 | 1352+250: 1602 | - | 50g | 2.0 | 2.5 |
+| 50 | 44 | 288 | 1330+287: 1617 | 1419+287: 1706 | 1508+287: 1795 | 1596+287: 1883 | 1685+287: 1972 | - | 58g | 2.3 | 2.9 |
+| 55 | 48 | 342 | - | 1731+342: 2073 | 1840+342: 2182 | 1990+342: 2332 | 2112+342: 2454 | - | 68g | 2.7 | 3.4 |
+| 60 | 52.5 | 410 | - | - | 2140+409: 2549 | - | - | - | 82g | 3.3 | 4.1 |
+| 70 | 61 | 553 | - | 2320+553: 2873 | - | - | - | - | 111g | 4.4 | 5.5 |
+| 80 | 70 | 728 | - | - | 3179+728: 3907 | - | - | - | 146g | 5.8 | 7.3 |
+
+**Notas:**
+- **Paella (cm)**: Diámetro superior de la paella
+- **Base (cm)**: Diámetro de la base (donde toca el fuego)
+- **Rac. 125g / 100g**: Número de raciones según cantidad de arroz por persona
+- Los valores vacíos (-) indican combinaciones no probadas o no recomendadas
 
 ---
 
@@ -902,4 +932,86 @@ Una vez tienes la metodología y los cálculos, el arroz es predecible y reprodu
 
 ---
 
+## Anexo: Receta de Salmorreta
+
+> Sofrito alicantino de tomate, ajo y ñora - Receta de Félix Vallugera Pascual
+
+### Ingredientes
+
+| Ingrediente | Cantidad | Notas |
+|-------------|----------|-------|
+| Tomate maduro | 1250g (→ 700g rallado) | De buena calidad |
+| Ajo morado | 14 dientes (~73g) | Importante usar buen ajo |
+| Ñoras | 14 unidades (~150g seco / 320g remojado) | |
+| AOVE | Para confitar los ajos | |
+
+**Resultado**: ~606g de salmorreta
+
+### Proceso Paso a Paso
+
+**1. Preparar las ñoras:**
+- Pinchar las ñoras con un cuchillo para que se hidraten más fácilmente
+- Cubrir con agua caliente
+- Tapar y dejar hidratar ~1 hora
+
+**2. Confitar los ajos:**
+- Chafar ligeramente los dientes de ajo SIN pelar
+- Confitar en un cazo pequeño con AOVE a fuego suave
+- Hasta que estén blanditos en su interior
+- Sacar y reservar los ajos Y el aceite por separado
+
+**3. Preparar el tomate:**
+- Cortar los tomates por la mitad
+- Rallar con rallador grueso
+- Desechar la piel
+
+**4. Limpiar las ñoras:**
+- Abrir las ñoras hidratadas
+- Desechar semillas y rabos
+- Reservar solo la carne
+
+**5. Sofrito base:**
+- En una olla, poner el aceite de confitar los ajos
+- Sofreír brevemente las ñoras a fuego medio
+- **OJO**: Si se pasan, amargan
+
+**6. Juntar todo:**
+- Incorporar el tomate rallado
+- Añadir los ajos confitados
+- Dar unas vueltas sofriendo brevemente todo junto
+
+**7. Triturar:**
+- Triturar con batidora hasta obtener una pasta homogénea
+
+**8. Reducir:**
+- Cocinar a fuego MUY suave
+- Usar tapa que deje salir el vapor (para que reduzca)
+- Parar cuando haya perdido bastante humedad y tenga textura de pasta concentrada
+
+**9. Colar:**
+- Pasar a un colador de malla fina
+- Presionar con cucharón en círculos
+- Colar pieles y semillas
+
+**10. Conservar:**
+- Introducir en mangas pasteleras desechables (opcional, pero facilita)
+- Rellenar cubiteras
+- Filmar para que no coja olores
+- Refrigerar 24h y después congelar
+- Una vez congelados, pasar los cubitos a bolsas zip
+
+### Consejos Importantes
+
+- **Dosificación**: No más de 1 cubito (~12-15g, máx 25g) por persona
+- **Incorporación**: Añadir directamente al caldo caliente
+- **Temporada**: Hacer cantidad en verano cuando hay buen tomate y congelar
+- **Tomate rama/pera**: Quitar las semillas para restar acidez
+- **Alternativa de congelación**: En bolsas zip en capa fina, para cortar trozos fácilmente
+- **Cuidado con la ñora**: Si se saltea demasiado, amarga
+
+> **Advertencia**: La salmorreta es muy tentadora porque da mucho color, pero si abusas, el arroz solo sabrá a sofrito y no al ingrediente principal.
+
+---
+
 _Guía basada en el taller online de Félix Manzanero_
+_Receta de salmorreta de Félix Vallugera Pascual (Cook Obsession)_
