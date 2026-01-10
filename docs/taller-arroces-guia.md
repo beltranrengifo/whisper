@@ -119,32 +119,41 @@ Un buen arroz seco debe tener:
 
 ### 4.6 Tabla de Paellas: Tamaños, Arroz y Caldo
 
-Esta tabla relaciona el tamaño de la paella con la cantidad de arroz y el caldo necesario según el tiempo de cocción.
+**Cómo usar esta tabla:**
 
-**Cómo leer la tabla:**
-- La fórmula en cada celda es: `evaporación + arroz = caldo total`
-- Ejemplo: `391 + 56: 447` significa 391g evaporación + 56g arroz = 447g de caldo necesario
+1. Busca tu tamaño de paella (columna izquierda)
+2. Elige el tiempo de cocción (15-20 min según tu arroz/caldo)
+3. El número en esa celda = **gramos de caldo que necesitas**
 
-| Paella (cm) | Base (cm) | Arroz (g) | 15 min | 16 min | 17 min | 18 min | 19 min | 20 min | Grasa 20% | Rac. 125g | Rac. 100g |
-|-------------|-----------|-----------|--------|--------|--------|--------|--------|--------|-----------|-----------|-----------|
-| 22 | 18 | 48 | - | - | 355+48: 403 | - | - | - | 10g | 0.4 | 0.5 |
-| 24 | 19.5 | 57 | 323+56: 379 | 368+56: 424 | 391+56: 447 | 414+56: 470 | 437+56: 493 | 460+56: 516 | 11g | 0.5 | 0.6 |
-| 28 | 23 | 79 | 309+78: 387 | 329+78: 407 | 349+78: 427 | 370+78: 448 | 405+78: 483 | 427+78: 505 | 16g | 0.6 | 0.8 |
-| 34 | 29 | 125 | - | 628+125: 753 | 668+125: 793 | 707+125: 832 | 746+125: 871 | 798+125: 923 | 25g | 1.0 | 1.3 |
-| 40 | 34 | 172 | - | - | 986+171: 1157 | 1044+171: 1215 | - | - | 34g | 1.4 | 1.7 |
-| 42 | 37 | 203 | 898+203: 1101 | 958+203: 1161 | 1018+203: 1221 | 1078+203: 1281 | 1137+203: 1340 | 1197+203: 1400 | 41g | 1.6 | 2.0 |
-| 46 | 41 | 250 | - | - | 1209+250: 1459 | 1281+250: 1531 | 1352+250: 1602 | - | 50g | 2.0 | 2.5 |
-| 50 | 44 | 288 | 1330+287: 1617 | 1419+287: 1706 | 1508+287: 1795 | 1596+287: 1883 | 1685+287: 1972 | - | 58g | 2.3 | 2.9 |
-| 55 | 48 | 342 | - | 1731+342: 2073 | 1840+342: 2182 | 1990+342: 2332 | 2112+342: 2454 | - | 68g | 2.7 | 3.4 |
-| 60 | 52.5 | 410 | - | - | 2140+409: 2549 | - | - | - | 82g | 3.3 | 4.1 |
-| 70 | 61 | 553 | - | 2320+553: 2873 | - | - | - | - | 111g | 4.4 | 5.5 |
-| 80 | 70 | 728 | - | - | 3179+728: 3907 | - | - | - | 146g | 5.8 | 7.3 |
+| Paella | Arroz | 15 min | 16 min | 17 min | 18 min | 19 min | 20 min | Grasa | Raciones |
+|--------|-------|--------|--------|--------|--------|--------|--------|-------|----------|
+| 22 cm | 48g | - | - | **403g** | - | - | - | 10g | ~0.5 |
+| 24 cm | 57g | 379g | 424g | **447g** | 470g | 493g | 516g | 11g | ~0.5 |
+| 28 cm | 79g | 387g | 407g | **427g** | 448g | 483g | 505g | 16g | ~0.7 |
+| 34 cm | 125g | - | 753g | **793g** | 832g | 871g | 923g | 25g | 1 |
+| 40 cm | 172g | - | - | **1157g** | 1215g | - | - | 34g | ~1.5 |
+| 42 cm | 203g | 1101g | 1161g | **1221g** | 1281g | 1340g | 1400g | 41g | ~1.7 |
+| 46 cm | 250g | - | - | **1459g** | 1531g | 1602g | - | 50g | 2 |
+| 50 cm | 288g | 1617g | 1706g | **1795g** | 1883g | 1972g | - | 58g | ~2.5 |
+| 55 cm | 342g | - | 2073g | **2182g** | 2332g | 2454g | - | 68g | ~3 |
+| 60 cm | 410g | - | - | **2549g** | - | - | - | 82g | ~3.5 |
+| 70 cm | 553g | - | 2873g | - | - | - | - | 111g | ~4.5 |
+| 80 cm | 728g | - | - | **3907g** | - | - | - | 146g | ~6 |
+
+**Ejemplo práctico - Paella de 42cm a 17 minutos:**
+```
+Miro la fila 42cm, columna 17 min → 1221g
+Eso significa: peso 1221g de caldo y lo echo a la paella
+```
+
+**¿Por qué funciona?** El número ya incluye:
+- Lo que se evapora durante la cocción (depende del tamaño y tiempo)
+- Lo que absorbe el arroz (= su propio peso)
 
 **Notas:**
-- **Paella (cm)**: Diámetro superior de la paella
-- **Base (cm)**: Diámetro de la base (donde toca el fuego)
-- **Rac. 125g / 100g**: Número de raciones según cantidad de arroz por persona
-- Los valores vacíos (-) indican combinaciones no probadas o no recomendadas
+- **Raciones**: Calculado a ~120g arroz/persona
+- **Grasa**: 20% del peso del arroz (el taller recomienda 25%, ajusta según preferencia)
+- Los valores vacíos (-) = combinaciones no probadas
 
 ---
 
@@ -308,8 +317,12 @@ NO rebajar - usar proporción 1:1 directamente
 
 **Proceso para aceite + caldo:**
 
-1. **Separar cabezas de cuerpos**
+1. **Separar cabezas de cuerpos - TÉCNICA IMPORTANTE**
 
+   - **Usar cuchillo, NUNCA a mano**
+   - Al cortar con cuchillo dejamos un poquito de carne en la cabeza
+   - Esa carne actúa como **"tapón"** que impide que los jugos salgan
+   - Queremos que los jugos de la cabeza se queden **dentro** de la cabeza
    - Cuerpos → para guarnición
    - Cabezas y cáscaras → para aceite y caldo
 
@@ -324,7 +337,15 @@ NO rebajar - usar proporción 1:1 directamente
    - Añadir agua y cocer
    - Los sabores hidrosolubles pasan al agua
 
-**Resultado**: Doble rendimiento de un producto caro.
+4. **Extraer el néctar de las cabezas**
+   - Saltear las cabezas hasta que la carne pase de **nácar a blanco**
+   - Dejar enfriar un poco
+   - Levantar el caparazón **"como si fuera el casco de una careta de esgrima"**
+   - Vaciar el contenido (jugos + carne) = **néctar**
+   - Este néctar es "lo más rico de las gambas"
+   - Reservar y añadir al arroz para potenciar el sabor
+
+**Resultado**: Doble rendimiento de un producto caro, más el néctar concentrado.
 
 ---
 
