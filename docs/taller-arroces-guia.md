@@ -1,3 +1,8 @@
+---
+title: Taller de Arroces Secos
+description: Guía completa del taller de Félix Manzanero
+---
+
 # Taller de Arroces Secos - Guía Completa
 
 > Resumen del taller online de Félix Manzanero (3.5 horas)
