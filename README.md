@@ -26,12 +26,27 @@ Download from [ffmpeg.org](https://ffmpeg.org/download.html) and add to PATH.
 
 ### 2. Install Python dependencies
 
+On modern macOS there is no bare `pip` command (only `pip3`), and installing
+into the system Python is discouraged. Use a project-local virtual environment:
+
 ```bash
+# Create and activate a virtual environment
+python3 -m venv .venv
+source .venv/bin/activate
+
+# Install dependencies (inside the venv, `pip` now exists)
 pip install -r requirements.txt
 ```
 
+Re-activate the environment with `source .venv/bin/activate` in any new shell
+before running the tool. To leave it, run `deactivate`.
+
+> If you prefer not to use a venv, install straight into your user Python with
+> `pip3 install -r requirements.txt`.
+
 This will install:
 - `openai-whisper` — OpenAI's Whisper speech recognition model
+  (this pulls in PyTorch, a multi-GB download, on first install)
 
 ## Project Structure
 
