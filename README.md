@@ -55,6 +55,9 @@ whisper/
 ├── transcript.py        # Main transcription script
 ├── makefile             # Convenience commands
 ├── requirements.txt     # Python dependencies
+├── .claude/
+│   └── skills/
+│       └── transcribe/  # Claude Code skill (see below)
 ├── files/
 │   └── source/          # Place your audio files here
 └── transcriptions/      # Output transcriptions appear here
@@ -88,6 +91,26 @@ make transcribe-fast file=myaudio.mp3
 ```bash
 python3 transcript.py <filename> [options]
 ```
+
+**Using Claude Code (recommended for flexibility):**
+
+This repo ships a [Claude Code](https://claude.com/claude-code) skill at
+`.claude/skills/transcribe/`. Open the project in Claude Code and just ask in
+plain language — the skill handles the venv, copies your audio into
+`files/source/`, picks a sensible model/language, runs the transcription, and
+reads the result back to you.
+
+```text
+transcribe 1.opus
+transcribe ~/Downloads/interview.mp3 in English with the small model
+transcribe recording.m4a and summarize the key points
+```
+
+You can also invoke it explicitly with `/transcribe`. The skill auto-triggers
+whenever you mention transcribing audio.
+
+> **Note:** Skills load at session start, so after cloning (or adding the skill)
+> start a fresh Claude Code session in this repo for `/transcribe` to appear.
 
 ### Command Line Options
 
